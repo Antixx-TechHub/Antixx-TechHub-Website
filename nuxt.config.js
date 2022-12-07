@@ -1,7 +1,7 @@
 export default {
     // Global page headers: https://go.nuxtjs.dev/config-head
     head: {
-        title: 'Striki - Nuxt.js IT & SaaS Startups Template',
+        title: 'Antixx TechHub - App | Website | SEO | ITSM | Cloud Solutions | IT Service Provider Company',
         htmlAttrs: {
             lang: 'en'
         },
