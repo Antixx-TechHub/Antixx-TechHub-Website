@@ -3,7 +3,7 @@
         <TopBar />
         <Navbar />
         <div class="seo-marketing-home-with-full-background">
-            <!-- <MainBanner /> -->
+            <MainBanner />
             <Features />
             <Welcome />
             <About />
@@ -23,7 +23,7 @@
 
 <script>
 import Navbar from '../layouts/Navbar';
-// import MainBanner from '../components/Index/MainBanner';
+import MainBanner from '../components/Index/MainBanner';
 import Features from '../components/Index/Features';
 import Welcome from '../components/Index/Welcome';
 import About from '../components/Index/About';
@@ -41,7 +41,7 @@ import FooterStyleOne from '../layouts/FooterStyleOne';
 export default {
     components: {
         Navbar,
-        // MainBanner,
+        MainBanner,
         Features,
         Welcome,
         About,
