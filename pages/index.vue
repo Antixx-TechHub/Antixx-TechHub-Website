@@ -3,18 +3,18 @@
         <TopBar />
         <Navbar />
         <div class="seo-marketing-home-with-full-background">
-            <!-- <MainBanner /> -->
+            <MainBanner />
             <Features />
             <Welcome />
             <About />
             <WhatWeDo />
             <WhyChooseUs />
             <Funfacts />
-            <!-- <OurExpertise /> -->
+            <OurExpertise />
             <Analysis />
             <Videos />
             <Partner />
-            <!-- <Testimonials /> -->
+            <Testimonials />
         </div>
         <OurLatestBlog />
         <FooterStyleOne />
@@ -23,18 +23,18 @@
 
 <script>
 import Navbar from '../layouts/Navbar';
-// import MainBanner from '../components/Index/MainBanner';
+import MainBanner from '../components/Index/MainBanner';
 import Features from '../components/Index/Features';
 import Welcome from '../components/Index/Welcome';
 import About from '../components/Index/About';
 import WhatWeDo from '../components/Index/WhatWeDo';
 import WhyChooseUs from '../components/Index/WhyChooseUs';
 import Funfacts from '../components/Index/Funfacts';
-// import OurExpertise from '../components/Index/OurExpertise';
+import OurExpertise from '../components/Index/OurExpertise';
 import Analysis from '../components/Index/Analysis';
 import Videos from '../components/Index/Videos';
 import Partner from '../components/Index/Partner'
-// import Testimonials from '../components/Index/Testimonials';
+import Testimonials from '../components/Index/Testimonials';
 import OurLatestBlog from '../components/Index/OurLatestBlog';
 import FooterStyleOne from '../layouts/FooterStyleOne';
 
@@ -48,11 +48,11 @@ export default {
         WhatWeDo,
         WhyChooseUs,
         Funfacts,
-        // OurExpertise,
+        OurExpertise,
         Analysis,
         Videos,
         Partner,
-        // Testimonials,
+        Testimonials,
         OurLatestBlog,
         FooterStyleOne,
     }
