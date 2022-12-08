@@ -54,8 +54,9 @@ export default {
         // https://strapi.nuxtjs.org/setup
         '@nuxtjs/strapi'
     ],
-
+    
     strapi: {
+        url: process.env.STRAPI_URL || 'http://api.antixxtechhub.com/',
         entities: [
             { name: 'sitelogo', type: 'single' },
             { name: 'bannerdefaulthomepage', type: 'single' },
