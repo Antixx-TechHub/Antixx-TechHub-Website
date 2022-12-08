@@ -1,7 +1,7 @@
 <template>
     <div class="main-banner main-banner-two">
         <div class="container-fluid">
-            <div class="row">
+            <div v-if="banner !== null" class="row">
                 <div class="col-lg-7 col-md-12">
                     <div class="banner-content">
                         <div class="content">
@@ -110,21 +110,17 @@
 
                 <div class="col-lg-5 col-md-12">
                     <div class="banner-image-slider">
-                        <carousel
-                            :autoplay = "true"
-                            :loop = "true"
-                            :paginationEnabled = "true"
-                            :perPageCustom = "[[0, 1]]"
-                        >
-                            <slide>     
+                        <carousel :autoplay="true" :autoplayTimeout='3000' :loop="true" :paginationEnabled="true"
+                            :perPageCustom="[[0, 1]]">
+                            <slide>
                                 <div class="banner-image banner-slider-bg1"></div>
-                            </slide>   
-                            <slide>     
+                            </slide>
+                            <slide>
                                 <div class="banner-image banner-slider-bg2"></div>
-                            </slide>   
-                            <slide>     
+                            </slide>
+                            <slide>
                                 <div class="banner-image banner-slider-bg3"></div>
-                            </slide>     
+                            </slide>
                         </carousel>
                     </div>
                 </div>
@@ -143,6 +139,14 @@
 
 <script>
 export default {
-    name: 'MainBanner'
+    name: 'MainBanner',
+    data() {
+        return {
+            banner: null
+        }
+    },
+    created: async function () {
+        this.banner = await this.$strapi.find('bannerdefaulthomepage')
+    }
 }
 </script>
