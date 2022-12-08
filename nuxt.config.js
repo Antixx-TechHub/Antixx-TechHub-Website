@@ -56,7 +56,7 @@ export default {
     ],
     
     strapi: {
-        url: process.env.STRAPI_URL || 'http://api.antixxtechhub.com/',
+        url: process.env.STRAPI_URL || 'https://api.antixxtechhub.com/',
         entities: [
             { name: 'sitelogo', type: 'single' },
             { name: 'bannerdefaulthomepage', type: 'single' },
