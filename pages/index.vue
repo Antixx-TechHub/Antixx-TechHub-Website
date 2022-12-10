@@ -1,6 +1,5 @@
 <template>
     <div>
-        <TopBar />
         <Navbar />
         <div class="seo-marketing-home-with-full-background">
             <MainBanner />

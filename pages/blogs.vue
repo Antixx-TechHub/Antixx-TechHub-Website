@@ -1,6 +1,6 @@
 <template>
     <div>
-        <NavbarStyleOne />
+        <NavbarStyleTwo />
         <PageTitle 
             pageTitle="Blog" 
             pageDesc="News and Insights" 
@@ -12,15 +12,15 @@
 </template>
 
 <script>
-import NavbarStyleOne from '../layouts/NavbarStyleOne';
+import NavbarStyleTwo from '../layouts/NavbarStyleTwo';
 import PageTitle from '../components/Common/PageTitle';
-import Blog from '../components/blog-one/Blog'
+import Blog from '../components/blogs/Blog'
 import FreeTrial from '../components/Common/FreeTrial'
 import FooterStyleOne from '../layouts/FooterStyleOne'
 
 export default {
     components: {
-        NavbarStyleOne,
+        NavbarStyleTwo,
         PageTitle,
         Blog,
         FreeTrial,

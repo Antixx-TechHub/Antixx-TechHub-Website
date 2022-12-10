@@ -3873,7 +3873,7 @@ $value_nine: 1550px;
         position: relative;
         background-color: #ffffff;
     }
-    .striki-nav {
+    .antixx-nav {
         .navbar {
             .navbar-nav {
                 margin-left: auto;
@@ -4112,7 +4112,7 @@ $value_nine: 1550px;
     
     .navbar-area {
         &.p-relative {
-            .striki-nav {
+            .antixx-nav {
                 .container {
                     max-width: 960px;
                 }
@@ -4240,7 +4240,7 @@ $value_nine: 1550px;
             padding-left: 30px;
             padding-right: 30px;
         }
-        .striki-nav {
+        .antixx-nav {
             .navbar {
                 .navbar-nav {
                     .nav-item {
@@ -4526,7 +4526,7 @@ $value_nine: 1550px;
             padding-top: 4px;
             padding-bottom: 5px;
         }
-        .striki-nav {
+        .antixx-nav {
             .navbar {
                 position: relative;
                 .navbar-collapse {
@@ -4640,7 +4640,7 @@ $value_nine: 1550px;
             }
         }
         .p-relative {
-            .striki-nav {
+            .antixx-nav {
                 .navbar {
                     .others-options {
                         margin-left: 0;
@@ -4649,7 +4649,7 @@ $value_nine: 1550px;
             }
         }
     }
-    .striki-nav {
+    .antixx-nav {
         .navbar {
             .others-options {
                 .optional-btn {
@@ -4667,7 +4667,7 @@ $value_nine: 1550px;
             max-width: 1240px;
         }
     }
-    .striki-nav {
+    .antixx-nav {
         .navbar .navbar-nav {
             margin-left: 70px;
         }
@@ -5028,6 +5028,12 @@ $value_nine: 1550px;
 
 @media only screen and (max-width: 640px) {
     .navbar-area .navbar .navbar-nav .nav-item.megamenu .dropdown-menu .nav-item {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 640px) {
+    .navbar-area .navbar .navbar-nav .nav-item.megamenu .dropdown-menu .nav-item-services {
         width: 100%;
     }
 }

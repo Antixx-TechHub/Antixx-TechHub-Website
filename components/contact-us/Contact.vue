@@ -5,22 +5,18 @@
                 <div class="row">
                     <div class="col-lg-6 col-md-12">
                         <div class="contact-features-list">
-                            <h3>Some other great reasons to choose us</h3>
-                            <p>Take the first steps towards increased productivity and reduced stress with Striki.</p>
-                            <p>We are a highly trained, dedicated team, helping entrepreneurs, professionals, and small teams streamline success - not just in work, but in life too. We help spare your time to focus on the bigger picture by taking care of the little details.</p>
-
-                            <ul>
-                                <li><i class='bx bx-badge-check'></i> Staff works from our offices in INDIA</li>
-                                <li><i class='bx bx-badge-check'></i> Scale up/ down on demand</li>
-                                <li><i class='bx bx-badge-check'></i> One time or on going projects</li>
-                                <li><i class='bx bx-badge-check'></i> Hire based on skill set</li>
-                            </ul>
+                            <div class="mapouter">
+                                <div class="gmap_canvas">
+                                    <iframe class="gmap_iframe" width="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=antixx techhb&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe>
+                                    <a href="https://formatjson.org/word-counter">Word Counter</a></div>
+                                </div>
                         </div>
                     </div>
 
                     <div class="col-lg-6 col-md-12">
                         <div class="contact-form">
-                            <h3>Let's Start Your Free Trial</h3>
+                            <h5>Get in touch</h5>
+                            <h3>Have Any Project Plan In Your Mind?</h3>
 
                             <form id="contactForm">
                                 <div class="row">
@@ -74,8 +70,8 @@
 
                         <ul class="social">
                                 <li><a href="https://www.facebook.com/" target="_blank"><i class="bx bxl-facebook"></i></a></li>
-                                <li><a href="https://twitter.com/" target="_blank"><i class="bx bxl-twitter"></i></a></li>
                                 <li><a href="https://www.linkedin.com/" target="_blank"><i class="bx bxl-linkedin"></i></a></li>
+                                <li><a href="https://twitter.com/" target="_blank"><i class="bx bxl-twitter"></i></a></li>
                                 <li><a href="https://www.instagram.com/" target="_blank"><i class="bx bxl-instagram"></i></a></li>
                             </ul>
                     </div>

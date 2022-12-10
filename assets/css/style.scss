@@ -317,7 +317,7 @@ p {
     overflow: hidden;
     z-index: 1;
     color: $black-color;
-    background-color: transparent;
+    background-color: #6F76A8;
     transition: $transition;
     border-radius: 5px;
 
@@ -502,7 +502,7 @@ Preloader Area CSS
 /*================================================
 Navbar Area CSS
 =================================================*/
-.striki-responsive-nav {
+.antixx-responsive-nav {
     display: none;
 }
 
@@ -532,7 +532,7 @@ Navbar Area CSS
 
         ;
 
-        .striki-nav {
+        .antixx-nav {
             .navbar {
                 .others-options {
                     .optional-btn {
@@ -568,7 +568,7 @@ Navbar Area CSS
             position: fixed;
         }
 
-        .striki-nav {
+        .antixx-nav {
             .navbar {
                 .navbar-nav {
                     margin: {
@@ -607,7 +607,7 @@ Navbar Area CSS
     }
 }
 
-.striki-nav {
+.antixx-nav {
     background-color: transparent;
 
     .navbar {
@@ -1016,7 +1016,7 @@ Navbar Area CSS
     &.p-relative {
         position: relative;
 
-        .striki-nav {
+        .antixx-nav {
             .navbar {
                 .navbar-nav {
                     margin-left: auto;
@@ -9313,7 +9313,7 @@ Navbar Area CSS
         ;
     }
 
-    .striki-nav {
+    .antixx-nav {
         .navbar {
             .navbar-nav {
                 margin-left: auto;
@@ -12466,28 +12466,6 @@ Footer Area CSS
         animation-timing-function: linear;
     }
 }
-
-
-
-/*================================================
-Antixx TechHub Modern Nav Default CSS
-=================================================*/
-
-// :root {
-//     scroll-behavior: inherit;
-//     --fontFamily: 'Titillium Web', sans-serif;
-//     --fontFamily2: 'Cabin', sans-serif;
-//     --mainColor: #029894;
-//     --optionalColor: #6F76A8;
-//     --whiteColor: #ffffff;
-//     --blackColor: #09114A;
-//     --fontSize: 16px;
-//     --transition: .5s;
-// }
-
-/*================================================
-Header Area CSS
-=================================================*/
 .navbar-area {
 
     .navbar {
@@ -12526,7 +12504,7 @@ Header Area CSS
                             margin: 0;
 
                             .nav-link {
-                                padding: 5px 5px !important;
+                                padding: 5px 15px !important;
                                 color: var(--blackColor);
                                 display: block;
                                 margin: 0 !important;
@@ -12551,6 +12529,11 @@ Header Area CSS
                                     }
 
                                     ;
+                                }
+
+                                .h5.menu-title {
+                                    font-size: 16px;
+                                    font-weight: 600;
                                 }
 
                                 p {
@@ -12582,7 +12565,7 @@ Header Area CSS
                             margin: 0;
 
                             .nav-link {
-                                padding: 5px 5px !important;
+                                padding: 5px 15px !important;
                                 color: var(--blackColor);
                                 display: block;
                                 margin: 0 !important;
@@ -12607,6 +12590,11 @@ Header Area CSS
                                     }
 
                                     ;
+                                }
+
+                                .h5.menu-title {
+                                    font-size: 16px;
+                                    font-weight: 600;
                                 }
 
                                 p {
@@ -12644,4 +12632,16 @@ Header Area CSS
 
 .feliz-responsive-nav {
     display: none;
+}
+
+//map scss
+
+.mapouter {
+    position:relative;text-align:right;width:100%;height:400px;
+}
+.gmap_canvas {
+    overflow:hidden;background:none!important;width:100%;height:400px;
+}
+.gmap_iframe {
+    height:400px!important;
 }
