@@ -11,7 +11,7 @@
 <script>
 import NavbarStyleTwo from '../layouts/NavbarStyleTwo';
 import ComingSoon from '../components/coming-soon/ComingSoon';
-import BestSupport from '../components/coming-soon/BestSupport';
+import BestSupport from '../components/Common/BestSupport';
 import FreeTrial from '../components/coming-soon/FreeTrial';
 import FooterStyleOne from '../layouts/FooterStyleOne';
 

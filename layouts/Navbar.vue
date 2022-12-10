@@ -302,11 +302,11 @@
                                         <NuxtLink to="/about-us" class="nav-link">About Us</NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/our-history" class="nav-link">Our History
+                                        <NuxtLink to="/coming-soon" class="nav-link">Our History
                                         </NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/why-antixx-techhub-global" class="nav-link">Why Antixx TechHub
+                                        <NuxtLink to="/coming-soon" class="nav-link">Why Antixx TechHub
                                             Global
                                         </NuxtLink>
                                     </li>
@@ -319,7 +319,7 @@
                                         </NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/careers" class="nav-link">Careers</NuxtLink>
+                                        <NuxtLink to="/coming-soon" class="nav-link">Careers</NuxtLink>
                                     </li>
 
                                 </ul>

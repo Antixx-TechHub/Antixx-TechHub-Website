@@ -16,8 +16,8 @@
 import NavbarStyleTwo from '../layouts/NavbarStyleTwo';
 import PageTitle from '../components/contact-us/PageTitle';
 import Contact from '../components/contact-us/Contact'
-import BestSupport from '../components/contact-us/BestSupport'
-import OurLovingClients from '../components/contact-us/OurLovingClients'
+import BestSupport from '../components/Common/BestSupport'
+import OurLovingClients from '../components/Common/OurLovingClients'
 import FooterStyleOne from '../layouts/FooterStyleOne'
 
 export default {

@@ -9,12 +9,12 @@
                 <div class="image">
                     <img :src="team.img.url" alt="image">
 
-                    <ul class="social">
+                    <!-- <ul class="social">
                         <li><a href="https://www.facebook.com/" target="_blank"><i class="bx bxl-facebook"></i></a></li>
-                        <li><a href="https://twitter.com/" target="_blank"><i class="bx bxl-twitter"></i></a></li>
                         <li><a href="https://www.linkedin.com/" target="_blank"><i class="bx bxl-linkedin"></i></a></li>
+                        <li><a href="https://twitter.com/" target="_blank"><i class="bx bxl-twitter"></i></a></li>
                         <li><a href="https://www.instagram.com/" target="_blank"><i class="bx bxl-instagram"></i></a></li>
-                    </ul>
+                    </ul> -->
                 </div>
 
                 <div class="content">

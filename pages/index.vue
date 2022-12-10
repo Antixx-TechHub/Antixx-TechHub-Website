@@ -13,7 +13,7 @@
             <Analysis />
             <Videos />
             <Partner />
-            <!-- <Testimonials /> -->
+            <WhatsOurClients />
         </div>
         <OurLatestBlog />
         <FooterStyleOne />
@@ -33,7 +33,7 @@ import Funfacts from '../components/Index/Funfacts';
 import Analysis from '../components/Index/Analysis';
 import Videos from '../components/Index/Videos';
 import Partner from '../components/Common/Partner'
-// import Testimonials from '../components/Index/Testimonials';
+import WhatsOurClients from '../components/Common/WhatsOurClients';
 import OurLatestBlog from '../components/Index/OurLatestBlog';
 import FooterStyleOne from '../layouts/FooterStyleOne';
 
@@ -51,7 +51,7 @@ export default {
         Analysis,
         Videos,
         Partner,
-        // Testimonials,
+        WhatsOurClients,
         OurLatestBlog,
         FooterStyleOne,
     }

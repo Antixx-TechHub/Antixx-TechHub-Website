@@ -1,81 +1,29 @@
 <template>
-    <div class="feedback-area pt-100 pb-70">
+    <div class="is-testimonials-area ptb-100">
         <div class="container">
-            <div class="section-title">
-                <h2>Whats Our Clients Said About <span>Striki</span></h2>
+            <div class="section-title-with-large-box">
+                <span>Testimonials</span>
+                <h2>Our Customer Valuable Feedback</h2>
             </div>
 
-            <div class="feedback-slides">
+            <div class="is-testimonials-slides">
                 <carousel
                     :autoplay = true
                     :loop = true
-                    :paginationEnabled = true
-                    :perPageCustom = "[[0, 1], [768, 1], [1024, 2], [1200,2]]"
+                    :paginationEnabled = false
+                    :perPageCustom = "[[0, 1], [768, 1], [1024, 3], [1200,3]]"
+                    v-if="feedbacks !== []"
                 >
-                    <slide>
-                        <div class="single-feedback-item">
-                            <img src="~/assets/img/woman1.png" alt="image">
+                    <slide v-for="feedback in feedbacks" :key="feedback.id" >
+                        <div class="is-testimonials-card">
+                            <p>{{ feedback.shortDesc }}</p>
 
-                            <div class="feedback-desc">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse.</p>
+                            <div class="client-info d-flex align-items-center">
+                                <img :src="feedback.img.url" alt="image">
 
-                                <div class="rating">
-                                    <i class="bx bxs-star"></i>
-                                    <i class="bx bxs-star"></i>
-                                    <i class="bx bxs-star"></i>
-                                    <i class="bx bxs-star"></i>
-                                    <i class="bx bxs-star"></i>
-                                </div>
-
-                                <div class="client-info">
-                                    <h3>Sarah Taylor</h3>
-                                    <span>CEO at Envato</span>
-                                </div>
-                            </div>
-                        </div>
-                    </slide>
-
-                    <slide>
-                        <div class="single-feedback-item">
-                            <img src="~/assets/img/woman2.png" alt="image">
-
-                            <div class="feedback-desc">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse.</p>
-
-                                <div class="rating">
-                                    <i class="bx bxs-star"></i>
-                                    <i class="bx bxs-star"></i>
-                                    <i class="bx bxs-star"></i>
-                                    <i class="bx bxs-star"></i>
-                                    <i class="bx bxs-star"></i>
-                                </div>
-
-                                <div class="client-info">
-                                    <h3>Olivar Lucy</h3>
-                                    <span>CEO at HiboTheme</span>
-                                </div>
-                            </div>
-                        </div>
-                    </slide>
-
-                    <slide>
-                        <div class="single-feedback-item">
-                            <img src="~/assets/img/man1.png" alt="image">
-
-                            <div class="feedback-desc">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse.</p>
-
-                                <div class="rating">
-                                    <i class="bx bxs-star"></i>
-                                    <i class="bx bxs-star"></i>
-                                    <i class="bx bxs-star"></i>
-                                    <i class="bx bxs-star"></i>
-                                    <i class="bx bxs-star"></i>
-                                </div>
-
-                                <div class="client-info">
-                                    <h3>Steven Smith</h3>
-                                    <span>CEO at Envato</span>
+                                <div class="title">
+                                    <h3>{{ feedback.name }}</h3>
+                                    <span>{{ feedback.position }}</span>
                                 </div>
                             </div>
                         </div>
@@ -88,6 +36,15 @@
 
 <script>
 export default {
-    name: 'WhatsOurClients'
+    name: 'Testimonials',
+    data() {
+        return {
+            feedbacks: []
+        }
+    },
+
+    created: async function () {
+        this.feedbacks = await this.$strapi.find('feedbackcards')
+    }
 }
 </script>
