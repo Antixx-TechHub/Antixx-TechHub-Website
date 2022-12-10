@@ -280,12 +280,12 @@
                                         </NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/insights" class="nav-link">
+                                        <NuxtLink to="/coming-soon" class="nav-link">
                                             Insights
                                         </NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/case-studies" class="nav-link">
+                                        <NuxtLink to="/coming-soon" class="nav-link">
                                             Case Studies
                                         </NuxtLink>
                                     </li>
@@ -330,7 +330,7 @@
                             <NuxtLink to="/contact-us" class="default-btn">
                                 <i class="bx bxs-hot"></i>Contact Us<span></span>
                             </NuxtLink>
-                            <NuxtLink to="/our-products" class="optional-btn">
+                            <NuxtLink to="/coming-soon" class="optional-btn">
                                 <i class="bx bx-log-in"></i>Our-Products<span></span>
                             </NuxtLink>
                         </div>

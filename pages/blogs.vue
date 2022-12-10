@@ -2,7 +2,7 @@
     <div>
         <NavbarStyleTwo />
         <PageTitle 
-            pageTitle="Blog" 
+            pageTitle="Blogs" 
             pageDesc="News and Insights" 
         />
         <Blog />

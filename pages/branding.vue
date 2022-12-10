@@ -48,7 +48,7 @@ import Expertise from '../components/branding/Expertise';
 import Faq from '../components/branding/Faq';
 import Pricing from '../components/branding/Pricing';
 import BestSupport from '../components/branding/BestSupport';
-import FreeTrial from '../components/branding/FreeTrial';
+import FreeTrial from '../components/Common/FreeTrial';
 import FooterStyleOne from '../layouts/FooterStyleOne';
 
 export default {

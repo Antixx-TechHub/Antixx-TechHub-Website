@@ -32,7 +32,7 @@ import Funfacts from '../components/Index/Funfacts';
 // import OurExpertise from '../components/Index/OurExpertise';
 import Analysis from '../components/Index/Analysis';
 import Videos from '../components/Index/Videos';
-import Partner from '../components/Index/Partner'
+import Partner from '../components/Common/Partner'
 // import Testimonials from '../components/Index/Testimonials';
 import OurLatestBlog from '../components/Index/OurLatestBlog';
 import FooterStyleOne from '../layouts/FooterStyleOne';
