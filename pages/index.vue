@@ -2,14 +2,14 @@
     <div>
         <Navbar />
         <div class="seo-marketing-home-with-full-background">
-            <MainBanner />
+            <HomeF1 />
             <Features />
             <Welcome />
             <About />
             <WhatWeDo />
             <WhyChooseUs />
             <Funfacts />
-            <!-- <OurExpertise /> -->
+            <OurExpertise />
             <Analysis />
             <Videos />
             <Partner />
@@ -22,14 +22,14 @@
 
 <script>
 import Navbar from '../layouts/Navbar';
-import MainBanner from '../components/Index/MainBanner';
+import HomeF1 from '../components/Index/HomeF1';
 import Features from '../components/Index/Features';
 import Welcome from '../components/Index/Welcome';
 import About from '../components/Index/About';
 import WhatWeDo from '../components/Index/WhatWeDo';
 import WhyChooseUs from '../components/Index/WhyChooseUs';
 import Funfacts from '../components/Index/Funfacts';
-// import OurExpertise from '../components/Index/OurExpertise';
+import OurExpertise from '../components/Index/OurExpertise';
 import Analysis from '../components/Index/Analysis';
 import Videos from '../components/Index/Videos';
 import Partner from '../components/Common/Partner'
@@ -40,14 +40,14 @@ import FooterStyleOne from '../layouts/FooterStyleOne';
 export default {
     components: {
         Navbar,
-        MainBanner,
+        HomeF1,
         Features,
         Welcome,
         About,
         WhatWeDo,
         WhyChooseUs,
         Funfacts,
-        // OurExpertise,
+        OurExpertise,
         Analysis,
         Videos,
         Partner,
