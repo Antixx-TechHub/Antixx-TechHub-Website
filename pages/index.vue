@@ -13,10 +13,10 @@
             <HomeForm />
             <Videos />
             <OurClients />
-            <WhatsOurClients />
         </div>
-        <OurLatestBlog />
-        <FooterStyleOne />
+            <WhatsOurClients />
+            <OurLatestBlog />
+            <FooterStyleOne />
     </div>
 </template>
 
