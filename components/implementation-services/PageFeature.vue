@@ -2,72 +2,56 @@
     <div class="is-case-studies-area ptb-100">
         <div class="container">
             <div class="section-title-with-large-box d-flex align-items-center justify-content-between">
-                <div class="max-width">
-                    <span>Case Studies</span>
-                    <h2>Check Of Our Some Recent Works & Case Studies</h2>
+                <div class="section-title">
+                    <h3>Our Approach for Cloud Implementation Solutions And Service Support</h3>
+                    <p>Antixx TechHub takes a comprehensive end-to-end approach for cloud solution implementation. To ensure smooth and seamless cloud service and solutions implementation, our team designs the best roadmap. The Cloud implementation process involves:</p>
                 </div>
-                <a href="#" class="default-btn">View All Case Studies <span></span></a>
             </div>
 
             <div class="is-case-studies-list-tabs">
                 <b-tabs pills card vertical>
-                    <b-tab title="Google Search Engine Marketing" active>
+                    <b-tab title="Understanding Requirements" active>
                         <div class="is-case-studies-image">
                             <img src="~/assets/img/it-solution/case-studies/case-studies1.jpg" alt="image">
 
                             <div class="content">
-                                <p>Donec rutrum congue leo eget malesuada nulla quis lorem ut libero malesuada feugiat nulla porttitor accumsan tincidunt vivamus magna justo lacinia eget consectetur sed, convallis at tellus vivamus suscipit tortor eget felis porttitor volutpat.</p>
-                                <a href="#">Read More</a>
+                                <p>An in-depth analysis of business processes/constraints/goals</p>
                             </div>
                         </div>
                     </b-tab>
-                    <b-tab title="Content SEO marketing">
+                    <b-tab title="Defining A Suitable Strategy And Plan">
                         <div class="is-case-studies-image">
                             <img src="~/assets/img/it-solution/case-studies/case-studies2.jpg" alt="image">
 
                             <div class="content">
-                                <p>Donec rutrum congue leo eget malesuada nulla quis lorem ut libero malesuada feugiat nulla porttitor accumsan tincidunt vivamus magna justo lacinia eget consectetur sed, convallis at tellus vivamus suscipit tortor eget felis porttitor volutpat.</p>
-                                <a href="#">Read More</a>
+                                <p>Strategy formulation and execution planning for ‘how to go ahead’ to accomplish the task satisfactory and within time.</p>
                             </div>
                         </div>
                     </b-tab>
-                    <b-tab title="Content digital marketing">
+                    <b-tab title="Quality Execution">
                         <div class="is-case-studies-image">
                             <img src="~/assets/img/it-solution/case-studies/case-studies3.jpg" alt="image">
 
                             <div class="content">
-                                <p>Donec rutrum congue leo eget malesuada nulla quis lorem ut libero malesuada feugiat nulla porttitor accumsan tincidunt vivamus magna justo lacinia eget consectetur sed, convallis at tellus vivamus suscipit tortor eget felis porttitor volutpat.</p>
-                                <a href="#">Read More</a>
+                                <p>Execution of planning following the industry-best ‘Q’ standards.</p>
                             </div>
                         </div>
                     </b-tab>
-                    <b-tab title="Analysis of New Product">
+                    <b-tab title="•	Solutions Optimization">
                         <div class="is-case-studies-image">
                             <img src="~/assets/img/it-solution/case-studies/case-studies4.jpg" alt="image">
 
                             <div class="content">
-                                <p>Donec rutrum congue leo eget malesuada nulla quis lorem ut libero malesuada feugiat nulla porttitor accumsan tincidunt vivamus magna justo lacinia eget consectetur sed, convallis at tellus vivamus suscipit tortor eget felis porttitor volutpat.</p>
-                                <a href="#">Read More</a>
+                                <p>Testing the results of implemented Cloud solutions and optimization for the best results beyond expectations.</p>
                             </div>
                         </div>
                     </b-tab>
-                    <b-tab title="Return on Investment">
+                    <b-tab title="•	Support Model Activation">
                         <div class="is-case-studies-image">
                             <img src="~/assets/img/it-solution/case-studies/case-studies5.jpg" alt="image">
 
                             <div class="content">
-                                <p>Donec rutrum congue leo eget malesuada nulla quis lorem ut libero malesuada feugiat nulla porttitor accumsan tincidunt vivamus magna justo lacinia eget consectetur sed, convallis at tellus vivamus suscipit tortor eget felis porttitor volutpat.</p>
-                                <a href="#">Read More</a>
-                            </div>
-                        </div>
-                    </b-tab>
-                    <b-tab title="Built web faster & better">
-                        <div class="is-case-studies-image">
-                            <img src="~/assets/img/it-solution/case-studies/case-studies1.jpg" alt="image">
-
-                            <div class="content">
-                                <p>Donec rutrum congue leo eget malesuada nulla quis lorem ut libero malesuada feugiat nulla porttitor accumsan tincidunt vivamus magna justo lacinia eget consectetur sed, convallis at tellus vivamus suscipit tortor eget felis porttitor volutpat.</p>
-                                <a href="#">Read More</a>
+                                <p>Activating a user-friendly support model to manage the outsourced Cloud support services and implemented Cloud solutions.</p>
                             </div>
                         </div>
                     </b-tab>

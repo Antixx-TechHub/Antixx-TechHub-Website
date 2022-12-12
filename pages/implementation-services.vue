@@ -3,24 +3,12 @@
         <NavbarStyleTwo />
         <PageTitle pageTitle="Implementation Services" pageDesc="Lorem Ipsum" />
         <About />
-        <WhyChooseUs />
-        <MoreToDiscover />
-        <AmazingFeatures />
-        <ServicesOne />
-        <Services />
-        <YourApplication class="pt-0" />
-        <TheAbilityToElicit />
-        <WhyChooseUs />
-        <Features />
         <PageAbout />
-        <CaseStudies />
-        <Featured />
-        <ConnectionsYourCustomers />
-        <TheBestInnovative />
+        <ServicesOne />
+        <WhyChooseUs />
+        <TheAbilityToElicit />
         <PageFeature />
         <Expertise />
-        <Faq />
-        <Pricing />
         <BestSupport />
         <FreeTrial />
         <FooterStyleOne />

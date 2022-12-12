@@ -12,21 +12,9 @@
                     <div class="content">
                         <div class="features-inner-content">
                             <div class="features-item">
-                                <i class='bx bx-phone-call bg-13c4a1 blt-radius-0'></i>
-                                <h3>Free Caliing Service</h3>
-                                <p>Plan ahead by day, week, or month, and see project status at a glance. Search and filter to focus in on anything form a single project to an individual person's workload.</p>
-                            </div>
-
-                            <div class="features-item">
-                                <i class='bx bx-gift bg-6610f2 blt-radius-0'></i>
-                                <h3>Daily Free Gift</h3>
-                                <p>Plan ahead by day, week, or month, and see project status at a glance. Search and filter to focus in on anything form a single project to an individual person's workload.</p>
-                            </div>
-
-                            <div class="features-item">
-                                <i class='bx bx-code-alt bg-ff612f blt-radius-0'></i>
-                                <h3>QR Code Scaner</h3>
-                                <p>Plan ahead by day, week, or month, and see project status at a glance. Search and filter to focus in on anything form a single project to an individual person's workload.</p>
+                                <h3>What Services We Offer as a Cloud Implementation Specialist Agency</h3>
+                                <p>Being a prominent Cloud implementation services company, Antixx TechHub offers a range of comprehensive service support for Cloud technology implementation. We have years of experience in implementing objective-oriented solutions designed over leading cloud service providers including Amazon Web Services (AWS), Microsoft Azure, Google Cloud, Salesforce, SAP, BMC, ServiceNow, and others.</p>
+                           <p>As a client-centric Cloud managed service providers, we keep our Cloud service support portfolio expanding to meet your new requirements for competency improvement in different operational areas. The Cloud management and implementation services, we provide with excellence, include:</p>
                             </div>
                         </div>
                     </div>

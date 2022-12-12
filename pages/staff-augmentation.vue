@@ -2,24 +2,10 @@
     <div>
         <NavbarStyleTwo />
         <PageTitle pageTitle="Staff Augmentation" pageDesc="Lorem Ipsum" />
-        <AmazingFeatures />
-        <ServicesOne />
-        <Services />
-        <MoreToDiscover />
-        <YourApplication class="pt-0" />
-        <TheAbilityToElicit />
-        <WhyChooseUs />
-        <Features />
         <About />
-        <PageAbout />
-        <CaseStudies />
-        <Featured />
-        <ConnectionsYourCustomers />
-        <TheBestInnovative />
-        <PageFeature />
-        <Expertise />
-        <Faq />
-        <Pricing />
+        <MoreToDiscover />
+        <ServicesOne />
+        <WhyChooseUs />
         <BestSupport />
         <FreeTrial />
         <FooterStyleOne />

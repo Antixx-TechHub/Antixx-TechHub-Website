@@ -2,24 +2,12 @@
     <div>
         <NavbarStyleTwo />
         <PageTitle pageTitle="Software Testing & QA" pageDesc="Lorem Ipsum" />
-        <AmazingFeatures />
-        <ServicesOne />
-        <Services />
-        <MoreToDiscover />
-        <YourApplication class="pt-0" />
-        <TheAbilityToElicit />
-        <WhyChooseUs />
-        <Features />
         <About />
-        <PageAbout />
-        <CaseStudies />
-        <Featured />
-        <ConnectionsYourCustomers />
-        <TheBestInnovative />
+        <WhyChooseUs />
+        <MoreToDiscover />
         <PageFeature />
+        <PageAbout />
         <Expertise />
-        <Faq />
-        <Pricing />
         <BestSupport />
         <FreeTrial />
         <FooterStyleOne />

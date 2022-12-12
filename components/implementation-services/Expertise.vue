@@ -9,26 +9,38 @@
                 </div>
 
                 <div class="col-lg-6 col-md-12">
-                    <div class="is-expertise-content">
-                        <span class="sub-title">Expertise</span>
-                        <h3>First to last business solution</h3>
-                        <p>Donec rutrum congue leo eget malesuada nulla quis lorem ut libero malesuada feugiat nulla porttitor accumsan tincidunt vivamus magna justo lacinia eget consectetur sed justo convallis at tellus vivamus suscipit tortor eget felis porttitor volutpat.</p>
-                        
-                        <h3>Quality assurance & testing service</h3>
-                        <p>Donec rutrum congue leo eget malesuada nulla quis lorem ut libero malesuada feugiat nulla porttitor accumsan tincidunt vivamus magna justo lacinia eget consectetur sed justo convallis at tellus vivamus suscipit tortor eget felis porttitor volutpat.</p>
-                        <div class="row justify-content-center">
-                            <div class="col-lg-6 col-sm-6">
-                                <div class="expertise-funfacts">
-                                    <h2>1500 +</h2>
-                                    <p>Projects Launched</p>
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-sm-6">
-                                <div class="expertise-funfacts bg-DEEEFA">
-                                    <h2>18 +</h2>
-                                    <p>Years of Experience</p>
-                                </div>
-                            </div>
+                    <div class="me-choose-content left-content">
+                        <div class="icon">
+                            <img src="~/assets/img/icon1.png" alt="image">
+                        </div>
+                        <h3>Why Hire Antixx Techhub for Cloud Computing Support Solutions</h3>
+                        <div class="choose-inner-card">
+                            <i class='bx bx-check'></i>
+                            <h4>Highly skilled certified professionals with expertise in all the top Cloud computing technologies and supported business solutions.</h4>
+                        </div>
+                        <div class="choose-inner-card bg-two">
+                            <i class='bx bx-check'></i>
+                            <h4>Line</h4>
+                        </div>
+                        <div class="choose-inner-card bg-three">
+                            <i class='bx bx-check'></i>
+                            <h4>Industry specific experience in Cloud migration and task-oriented solution implementation.</h4>
+                        </div>
+                        <div class="choose-inner-card">
+                            <i class='bx bx-check'></i>
+                            <h4>A vast knowledge base backed by our experience in serving different business sectors.</h4>
+                        </div>
+                        <div class="choose-inner-card bg-two">
+                            <i class='bx bx-check'></i>
+                            <h4>Direct access to dedicated Cloud developers.</h4>
+                        </div>
+                        <div class="choose-inner-card bg-three">
+                            <i class='bx bx-check'></i>
+                            <h4>Minimum project completion time for implementation of Cloud solutions without disturbing on- going operations.</h4>
+                        </div>
+                        <div class="choose-inner-card">
+                            <i class='bx bx-check'></i>
+                            <h4>Competitive pricing, dependable support post implementation, & client-centric agile approach.</h4>
                         </div>
                     </div>
                 </div>

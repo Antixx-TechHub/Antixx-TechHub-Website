@@ -1,33 +1,88 @@
 <template>
-    <div class="about-area">
-        <div class="container">
-            <div class="section-title text-left">
-                <span class="sub-title">About Us</span>
-                <h2>We Are A Strategic Digital Marketing Agency</h2>
-            </div>
-        </div>
-
+    <div class="services-area bg-right-shape ptb-100">
         <div class="container-fluid">
-            <div class="about-inner-area">
-                <div class="row">
-                    <div class="col-lg-6 col-md-12">
-                        <div class="about-inner-image">
-                            <img src="~/assets/img/marketing-agency/about-image.jpg" alt="image">
+            <div class="row align-items-center">
+                <div class="services-content it-service-content">
+                    <div class="content left-content">
+                        <div class="icon">
+                            <img src="~/assets/img/icon1.png" alt="image">
                         </div>
-                    </div>
+                        <h2>Why You Need to Hire Cloud implementation Solution Company- Ten Benefits</h2>
+                        <p>According to a report by the International Data Group, almost 69% of businesses are using
+                            cloud technology in one way or another, and 18% are preparing to implement cloud-computing
+                            solutions. A Dell study reports states that companies that invest for embracing cloud
+                            computing, big data, mobility, and advanced security solutions succeed to achieve up to 53%
+                            faster growth than their competitors. Implementing customized Cloud solutions has become
+                            imperative for businesses because of commonly experienced multiple benefits:</p>
 
-                    <div class="col-lg-6 col-md-12">
-                        <div class="about-inner-content">
-                            <div class="content">
-                                <h2>We Can Build Strategy That Would Make a Big Difference</h2>
-                                <ul class="features-list">
-                                    <li><i class='bx bx-check'></i> Complete Marketing Solutions</li>
-                                    <li><i class='bx bx-check'></i> Flexible Working Hours</li>
-                                    <li><i class='bx bx-check'></i> Experienced Team Members</li>
-                                    <li><i class='bx bx-check'></i> Outstanding Digital Experience</li>
-                                </ul>
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <div class="feature-box">
+                                    <i class='bx bxs-badge-check'></i>
+                                    Cost Savings
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="feature-box">
+                                    <i class='bx bxs-badge-check'></i>
+                                    Mobility
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="feature-box">
+                                    <i class='bx bxs-badge-check'></i>
+                                    Insight
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="feature-box">
+                                    <i class='bx bxs-badge-check'></i>
+                                    Security
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="feature-box">
+                                    <i class='bx bxs-badge-check'></i>
+                                    Flexibility
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="feature-box">
+                                    <i class='bx bxs-badge-check'></i>
+                                    Increased Collaboration
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="feature-box">
+                                    <i class='bx bxs-badge-check'></i>
+                                    Disaster Recovery
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="feature-box">
+                                    <i class='bx bxs-badge-check'></i>
+                                    Quality Control
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="feature-box">
+                                    <i class='bx bxs-badge-check'></i>
+                                    Loss Prevention
+                                </div>
+                            </div>
+                            <div class="col-sm-6">
+                                <div class="feature-box">
+                                    <i class='bx bxs-badge-check'></i>
+                                    Competitive Edge
+                                </div>
                             </div>
                         </div>
+                    </div>
+                </div>
+
+                <div class="services-image">
+                    <div class="image">
+                        <img src="~/assets/img/services-image/service1.png" alt="image">
                     </div>
                 </div>
             </div>
@@ -37,6 +92,6 @@
 
 <script>
 export default {
-    name: 'AboutUs'
+    name: 'PageAbout'
 }
 </script>

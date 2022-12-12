@@ -4,13 +4,14 @@
             <div class="row align-items-center">
                 <div class="col-lg-6 col-md-12">
                     <div class="is-about-content">
-                        <span>What We Do</span>
-                        <h3>Striki is a leading web and app development company</h3>
-                        <p>Curabitur arcu erat accumsan id imperdiet et porttitor at sem sed porttitor lectus nibh vivamus magna justo lacinia eget consectetur sed convallis at tellus.</p>
-                        <p>Donec rutrum congue leo eget malesuada nulla ut libero malesuada feugiat nulla porttitor accumsan tincidunt vivamus magna justo lacinia eget consectetur sed convallis at tellus vivamus suscipit tortor.</p>
-                        <div class="about-btn">
-                            <NuxtLink to="/about" class="default-btn">Learn More About Us <span></span></NuxtLink>
-                        </div>
+                        <span>Antixx TechHub</span>
+                        <h3>Offers dependable IT Staff Augmentation Services</h3>
+                        <p>Don’t waste time, efforts, resources for interviewing and training new candidates as well as
+                            managing large project teams. Antixx TechHub offers a dependable team of highly experienced
+                            and certified IT experts to strengthen and professionally manage your IT development and
+                            support tasks in different roles like UX and UI design, software programming, software
+                            implementation, product testing, DevOps engineering, etc.</p>
+                        <p> Our competitively-priced IT expert’s augmentation services facilitate you to hire the best certified IT professionals including software developers, Scrum Masters, QA specialists, business analysts, and others. Hire the specific skill on a temporary basis that you need to bridge the expertise gap for a particular project development requirement with extended freedom to get personalized support services without stretching the budget.</p>
                     </div>
                 </div>
 
