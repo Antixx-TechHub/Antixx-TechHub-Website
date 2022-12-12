@@ -63,9 +63,9 @@
                     <div class="contact-info-content">
                         <h3>Contact us by Phone Number or Email Address</h3>
                         <h2>
-                            <a href="tel:+0881306298615">+91 77 96 55 44 07</a>
+                            <a href="tel:+917796554407">+91 77 96 55 44 07</a>
                             <span>OR</span>
-                            <a href="mailto:hello@striki.com">sales@antixxtechhub.com</a>
+                            <a href="mailto:sales@antixxtechhub.com">sales@antixxtechhub.com</a>
                         </h2>
 
                         <ul class="social">

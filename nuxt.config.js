@@ -56,7 +56,8 @@ export default {
     ],
     
     strapi: {
-        url: 'https://api.antixxtechhub.com/',
+        url: 'http://localhost:1337/',
+        // url: 'https://api.antixxtechhub.com/',
         entities: [
             { name: 'sitelogo', type: 'single' },
             { name: 'bannerdefaulthomepage', type: 'single' },

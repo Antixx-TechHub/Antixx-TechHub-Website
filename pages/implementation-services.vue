@@ -2,15 +2,16 @@
     <div>
         <NavbarStyleTwo />
         <PageTitle pageTitle="Implementation Services" pageDesc="Lorem Ipsum" />
+        <About />
+        <WhyChooseUs />
+        <MoreToDiscover />
         <AmazingFeatures />
         <ServicesOne />
         <Services />
-        <MoreToDiscover />
         <YourApplication class="pt-0" />
         <TheAbilityToElicit />
         <WhyChooseUs />
         <Features />
-        <About />
         <PageAbout />
         <CaseStudies />
         <Featured />

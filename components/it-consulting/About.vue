@@ -4,13 +4,10 @@
             <div class="row align-items-center">
                 <div class="col-lg-6 col-md-12">
                     <div class="is-about-content">
-                        <span>What We Do</span>
-                        <h3>Striki is a leading web and app development company</h3>
+                        <span>Welcome to Antixx TechHub</span>
+                        <h3>The leading IT Consulting Company in India</h3>
                         <p>Curabitur arcu erat accumsan id imperdiet et porttitor at sem sed porttitor lectus nibh vivamus magna justo lacinia eget consectetur sed convallis at tellus.</p>
                         <p>Donec rutrum congue leo eget malesuada nulla ut libero malesuada feugiat nulla porttitor accumsan tincidunt vivamus magna justo lacinia eget consectetur sed convallis at tellus vivamus suscipit tortor.</p>
-                        <div class="about-btn">
-                            <NuxtLink to="/about" class="default-btn">Learn More About Us <span></span></NuxtLink>
-                        </div>
                     </div>
                 </div>
 

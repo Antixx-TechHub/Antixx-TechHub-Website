@@ -2,24 +2,12 @@
     <div>
         <NavbarStyleTwo />
         <PageTitle pageTitle="IT Consulting" pageDesc="Lorem Ipsum" />
-        <AmazingFeatures />
-        <ServicesOne />
-        <Services />
-        <MoreToDiscover />
-        <YourApplication class="pt-0" />
-        <TheAbilityToElicit />
-        <WhyChooseUs />
-        <Features />
         <About />
-        <PageAbout />
-        <CaseStudies />
-        <Featured />
-        <ConnectionsYourCustomers />
-        <TheBestInnovative />
-        <PageFeature />
+        <Services />
+        <WhyChooseUs />
+        <ServicesOne />
+        <AmazingFeatures />
         <Expertise />
-        <Faq />
-        <Pricing />
         <BestSupport />
         <FreeTrial />
         <FooterStyleOne />

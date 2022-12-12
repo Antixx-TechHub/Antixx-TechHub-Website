@@ -16,7 +16,7 @@
 
                 <div class="col-lg-6 col-md-12">
                     <div class="row justify-content-center is-inner-team-box">
-                        <div class="col-lg-6 col-md-6">
+                        <div class="col-lg-12 col-md-6">
                             <div class="is-team-member">
                                 <div class="image">
                                     <img src="~/assets/img/it-solution/team/team1.jpg" alt="team-image">
@@ -35,7 +35,7 @@
                             </div>
                         </div>
 
-                        <div class="col-lg-6 col-md-6">
+                        <!-- <div class="col-lg-6 col-md-6">
                             <div class="is-team-member">
                                 <div class="image">
                                     <img src="~/assets/img/it-solution/team/team2.jpg" alt="team-image">
@@ -90,7 +90,7 @@
                                     <i class='bx bx-share-alt'></i>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
                         <div class="team-vector-shape">
                             <img src="~/assets/img/it-solution/team/vector.png" alt="image">

@@ -12,7 +12,7 @@
 import NavbarStyleTwo from '../layouts/NavbarStyleTwo';
 import ComingSoon from '../components/coming-soon/ComingSoon';
 import BestSupport from '../components/Common/BestSupport';
-import FreeTrial from '../components/coming-soon/FreeTrial';
+import FreeTrial from '../components/Common/FreeTrial';
 import FooterStyleOne from '../layouts/FooterStyleOne';
 
 export default {
