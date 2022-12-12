@@ -5,7 +5,7 @@
                 <span>Who We Are</span>
                 <h2>Antixx TechHub is an ITSM Agency with Difference</h2>
             </div>
-            
+
             <div class="row align-items-center justify-content-center">
                 <div class="col-lg-6 col-md-12">
                     <div class="sm-about-image">
@@ -16,7 +16,9 @@
                 <div class="col-lg-6 col-md-12">
                     <div class="sm-about-content">
                         <h3>Our application-oriented strategic approach makes us a different IT service provider.</h3>
-                        <p>Over the years, Antixx TechHub has become an ultimate source to outsource a range of competitively priced services and support to address the particular concerns in a professional manner.</p>
+                        <p>Over the years, Antixx TechHub has become an ultimate source to outsource a range of
+                            competitively priced services and support to address the particular concerns in a
+                            professional manner.</p>
                         <div class="row justify-content-center">
                             <div class="col-lg-6 col-sm-6">
                                 <ul class="list">
@@ -52,6 +54,6 @@
 
 <script>
 export default {
-    name: 'About'
+    name: 'WhoWeAre'
 }
 </script>

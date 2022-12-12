@@ -2,17 +2,17 @@
     <div>
         <Navbar />
         <div class="seo-marketing-home-with-full-background">
-            <HomeF1 />
-            <Features />
-            <Welcome />
-            <About />
+            <HomeBanner />
+            <MainServices />
+            <WhoWeAre />
             <WhatWeDo />
             <WhyChooseUs />
             <Funfacts />
             <OurExpertise />
-            <Analysis />
+            <RelyToCompete />
+            <HomeForm />
             <Videos />
-            <Partner />
+            <OurClients />
             <WhatsOurClients />
         </div>
         <OurLatestBlog />
@@ -22,35 +22,35 @@
 
 <script>
 import Navbar from '../layouts/Navbar';
-import HomeF1 from '../components/Index/HomeF1';
-import Features from '../components/Index/Features';
-import Welcome from '../components/Index/Welcome';
-import About from '../components/Index/About';
+import HomeBanner from '../components/Index/HomeBanner';
+import MainServices from '../components/Index/MainServices';
+import WhoWeAre from '../components/Index/WhoWeAre';
 import WhatWeDo from '../components/Index/WhatWeDo';
 import WhyChooseUs from '../components/Index/WhyChooseUs';
 import Funfacts from '../components/Index/Funfacts';
 import OurExpertise from '../components/Index/OurExpertise';
-import Analysis from '../components/Index/Analysis';
+import RelyToCompete from '../components/Index/RelyToCompete';
+import HomeForm from '../components/Index/HomeForm';
 import Videos from '../components/Index/Videos';
-import Partner from '../components/Common/Partner'
+import OurClients from '../components/Common/OurClients'
 import WhatsOurClients from '../components/Common/WhatsOurClients';
-import OurLatestBlog from '../components/Index/OurLatestBlog';
+import OurLatestBlog from '../components/Common/OurLatestBlog';
 import FooterStyleOne from '../layouts/FooterStyleOne';
 
 export default {
     components: {
         Navbar,
-        HomeF1,
-        Features,
-        Welcome,
-        About,
+        HomeBanner,
+        MainServices,
+        WhoWeAre,
         WhatWeDo,
         WhyChooseUs,
         Funfacts,
         OurExpertise,
-        Analysis,
+        RelyToCompete,
+        HomeForm,
         Videos,
-        Partner,
+        OurClients,
         WhatsOurClients,
         OurLatestBlog,
         FooterStyleOne,

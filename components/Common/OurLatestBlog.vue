@@ -129,7 +129,7 @@
                 <div class="col-lg-12 col-md-12">
                     <div class="blog-notes">
                         <p>Insights to help you do what you do better, faster and more profitably. <NuxtLink
-                                to="/single-blog">Read Full Blog</NuxtLink>
+                                to="/blogs">Read Full Blog</NuxtLink>
                         </p>
                     </div>
                 </div>

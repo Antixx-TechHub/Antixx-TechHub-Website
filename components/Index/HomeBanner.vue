@@ -143,7 +143,7 @@
 
 <script>
 export default {
-    name: 'HomeF1',
+    name: 'HomeBanner',
     data(){
         return{
             banner: null

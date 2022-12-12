@@ -36,7 +36,7 @@
 
 <script>
 export default {
-    name: 'Testimonials',
+    name: 'WhatsOurClients',
     data() {
         return {
             feedbacks: []

@@ -98,6 +98,6 @@
 
 <script>
 export default {
-    name: 'Features'
+    name: 'MainServices'
 }
 </script>

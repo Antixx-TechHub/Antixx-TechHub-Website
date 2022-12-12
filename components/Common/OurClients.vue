@@ -37,7 +37,7 @@
 
 <script>
 export default {
-    name: 'Partner',
+    name: 'OurClients',
     data(){
         return{
             partners: []

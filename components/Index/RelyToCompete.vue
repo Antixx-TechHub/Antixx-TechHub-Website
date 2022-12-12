@@ -5,9 +5,14 @@
                 <div class="col-lg-6 col-md-12">
                     <div class="is-about-content">
                         <h5>Web & Mobile App Development You Can Rely To Compete</h5>
-                        <p>Antixx TechHub offers comprehensive service support for web & mobile app development empowered with technical excellence. Our best trained web and app developers have proven proficiency in advanced technologies that make your web and app performing.</p>
+                        <p>Antixx TechHub offers comprehensive service support for web & mobile app development
+                            empowered with technical excellence. Our best trained web and app developers have proven
+                            proficiency in advanced technologies that make your web and app performing.</p>
                         <h5>IT solutions to boost your business performance</h5>
-                        <p>Antixx TechHub is providing tailored-to-need IT solutions to address all the issues that you want address to compete better. Our ITSM experts, with years of experience and industry exposure, have all the technical expertise required to program, integrate, and maintain IT management solutions.</p>
+                        <p>Antixx TechHub is providing tailored-to-need IT solutions to address all the issues that you
+                            want address to compete better. Our ITSM experts, with years of experience and industry
+                            exposure, have all the technical expertise required to program, integrate, and maintain IT
+                            management solutions.</p>
                     </div>
                 </div>
 
@@ -26,6 +31,6 @@
 
 <script>
 export default {
-    name: 'About'
+    name: 'RelyToCompete'
 }
 </script>
