@@ -1,10 +1,7 @@
 <template>
     <div>
         <NavbarStyleTwo />
-        <PageTitle 
-            pageTitle="Contact Us" 
-            pageDesc="Drop us Message for any Query" 
-        />
+        <PageTitle pageTitle="Contact Us" pageDesc="" />
         <Contact />
         <BestSupport />
         <OurLovingClients />
@@ -15,7 +12,7 @@
 <script>
 import NavbarStyleTwo from '../layouts/NavbarStyleTwo';
 import PageTitle from '../components/contact-us/PageTitle';
-import Contact from '../components/contact-us/Contact'
+import Contact from '../components/contact-us/contact'
 import BestSupport from '../components/Common/BestSupport'
 import OurLovingClients from '../components/Common/OurLovingClients'
 import FooterStyleOne from '../layouts/FooterStyleOne'

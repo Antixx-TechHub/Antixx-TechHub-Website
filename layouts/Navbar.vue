@@ -76,7 +76,7 @@
                                             <p>Cloud Strategy</p>
                                         </NuxtLink>
                                         <NuxtLink to="/big-data-solutions" class="nav-link">
-                                            <p>Big Data Analytics</p>
+                                            <p>Big Data Solutions</p>
                                         </NuxtLink>
                                     </li>
 
