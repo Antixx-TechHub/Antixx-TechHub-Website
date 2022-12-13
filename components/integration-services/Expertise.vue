@@ -7,31 +7,27 @@
                         <img src="~/assets/img/it-solution/expertise.png" alt="image">
                     </div>
                 </div>
-
                 <div class="col-lg-6 col-md-12">
-                    <div class="is-expertise-content">
-                        <span class="sub-title">Expertise</span>
-                        <h3>First to last business solution</h3>
-                        <p>Donec rutrum congue leo eget malesuada nulla quis lorem ut libero malesuada feugiat nulla porttitor accumsan tincidunt vivamus magna justo lacinia eget consectetur sed justo convallis at tellus vivamus suscipit tortor eget felis porttitor volutpat.</p>
-                        
-                        <h3>Quality assurance & testing service</h3>
-                        <p>Donec rutrum congue leo eget malesuada nulla quis lorem ut libero malesuada feugiat nulla porttitor accumsan tincidunt vivamus magna justo lacinia eget consectetur sed justo convallis at tellus vivamus suscipit tortor eget felis porttitor volutpat.</p>
-                        <div class="row justify-content-center">
-                            <div class="col-lg-6 col-sm-6">
-                                <div class="expertise-funfacts">
-                                    <h2>1500 +</h2>
-                                    <p>Projects Launched</p>
-                                </div>
-                            </div>
-                            <div class="col-lg-6 col-sm-6">
-                                <div class="expertise-funfacts bg-DEEEFA">
-                                    <h2>18 +</h2>
-                                    <p>Years of Experience</p>
-                                </div>
-                            </div>
+                        <div class="me-choose-content">
+                            <h3>Methodologies We Use to Customize Integration Services</h3>
+                        <p>In the capacity of a dependable integration services consulting agency, we emphasize on using the time-tested methodologies. Our in-house team of integration services professionals has certified skills for:</p> 
+                        <div class="choose-inner-card">
+                            <i class='bx bx-check'></i>
+                            <h4>Full-cycle Integration & Implementation Services:</h4>
+                            <p>We integrate advanced technologies to relate human interactions with computer systems.</p>
+                        </div>
+                        <div class="choose-inner-card bg-two">
+                            <i class='bx bx-check'></i>
+                            <h4>Service-oriented architecture integration</h4>
+                         <p>We have expertise in system transformation into an easily scalable, re-usable, coupled components.</p>
+                        </div>
+                        <div class="choose-inner-card bg-two">
+                            <i class='bx bx-check'></i>
+                            <h4>Shared database</h4>
+                         <p>We integrate multiple applications to simplify data access from a single database.</p>
                         </div>
                     </div>
-                </div>
+                  </div>      
             </div>
         </div>
     </div>

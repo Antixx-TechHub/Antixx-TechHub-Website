@@ -1,25 +1,14 @@
 <template>
     <div>
         <NavbarStyleTwo />
-        <PageTitle pageTitle="Integration Services" pageDesc="Lorem Ipsum" />
-        <AmazingFeatures />
-        <ServicesOne />
-        <Services />
-        <MoreToDiscover />
-        <YourApplication class="pt-0" />
-        <TheAbilityToElicit />
-        <WhyChooseUs />
-        <Features />
+        <PageTitle pageTitle="Integration Services" pageDesc="" />
         <About />
-        <PageAbout />
-        <CaseStudies />
-        <Featured />
-        <ConnectionsYourCustomers />
-        <TheBestInnovative />
+        <MoreToDiscover />
         <PageFeature />
+        <WhyChooseUs />
+        <Services />
+        <ServicesOne />
         <Expertise />
-        <Faq />
-        <Pricing />
         <BestSupport />
         <FreeTrial />
         <FooterStyleOne />

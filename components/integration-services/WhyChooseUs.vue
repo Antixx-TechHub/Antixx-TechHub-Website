@@ -4,24 +4,25 @@
             <div class="row justify-content-center align-items-center">
                 <div class="col-lg-6 col-md-12">
                     <div class="me-choose-content">
-                        <span>Why Choose Us</span>
-                        <h3>We are committed to providing our services</h3>
-                        <p>Curabitur arcu erat accumsan id imperdiet et porttitor at sem sed porttitor lectus nibh vivamus magna justo lacinia eget consectetur sed tellus.</p>
-                        
+                        <h3>What We Offer As Integration Services Consulting & Solutions Company</h3>
                         <div class="choose-inner-card">
                             <i class='bx bx-check'></i>
-                            <h4>Transparent</h4>
-                            <p>Accumsan id imperdiet et porttitor at sem sed porttitor lectus nibh vivamus magna justo lacinia eget consectetur sed convallis at tellus.</p>
+                            <h4>Full-cycle Integration & Implementation Services:</h4>
+                            <p>• Integration of solution implementation</p>
+                            <p>• Application integration consulting</p>
+                            <p>• Migration, re-architecting and re-engineering of the applications & systems</p>
+                            <p>• Integration of testing solutions at component level</p>
+                            <p>• Post-integration support</p>
+                            <p>• Management & regular update of integrated ecosystem</p>
                         </div>
                         <div class="choose-inner-card bg-two">
                             <i class='bx bx-check'></i>
-                            <h4>Affordable</h4>
-                            <p>Curabitur arcu erat accumsan id imperdiet et porttitor at sem sed porttitor lectus nibh vivamus magna justo lacinia eget consectetur sed convallis.</p>
-                        </div>
-                        <div class="choose-inner-card bg-three">
-                            <i class='bx bx-check'></i>
-                            <h4>Flexible</h4>
-                            <p>accumsan id imperdiet et porttitor at sem sed porttitor lectus nibh vivamus magna justo</p>
+                            <h4>Integration Consulting Services:</h4>
+                         <p>• Audit and prioritize the integration requirements</p>
+                            <p>• Choosing appropriate integration model</p>
+                            <p>• Choosing the best technology stack</p>
+                            <p>• Architecture integration</p>
+                            <p>• Securing infrastructure</p>
                         </div>
                     </div>
                 </div>

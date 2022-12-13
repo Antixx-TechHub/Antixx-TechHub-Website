@@ -87,14 +87,9 @@
             <h3 class="widget-title">Tags</h3>
 
             <div class="tagcloud">
-                <a href="#">IT <span class="tag-link-count"> (3)</span></a>
-                <a href="#">Striki <span class="tag-link-count"> (3)</span></a>
-                <a href="#">Games <span class="tag-link-count"> (2)</span></a>
-                <a href="#">Fashion <span class="tag-link-count"> (2)</span></a>
-                <a href="#">Travel <span class="tag-link-count"> (1)</span></a>
-                <a href="#">Smart <span class="tag-link-count"> (1)</span></a>
-                <a href="#">Marketing <span class="tag-link-count"> (1)</span></a>
-                <a href="#">Tips <span class="tag-link-count"> (2)</span></a>
+                <a href="#">next Js <span class="tag-link-count"> (1)</span></a>
+                <a href="#">Strapi <span class="tag-link-count"> (1)</span></a>
+                <a href="#">react Native <span class="tag-link-count"> (1)</span></a>
             </div>
         </div>
     </div>
