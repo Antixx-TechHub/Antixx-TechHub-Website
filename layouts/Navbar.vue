@@ -302,10 +302,6 @@
                                         <NuxtLink to="/about-us" class="nav-link">About Us</NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/coming-soon" class="nav-link">Our History
-                                        </NuxtLink>
-                                    </li>
-                                    <li class="nav-item">
                                         <NuxtLink to="/coming-soon" class="nav-link">Why Antixx TechHub
                                             Global
                                         </NuxtLink>

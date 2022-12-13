@@ -54,7 +54,7 @@ $font-size: 15px;
 $transition: .5s;
 
 :root {
-    scroll-behavior: inherit;
+    --scroll-behavior: inherit;
     --fontFamily: 'Titillium Web', sans-serif;
     --fontFamily2: 'Cabin', sans-serif;
     --mainColor: #029894;

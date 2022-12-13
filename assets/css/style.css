@@ -44,7 +44,7 @@ This files table contents are outlined below>>>>>
 Default CSS
 =================================================*/
 :root {
-  scroll-behavior: inherit;
+  --scroll-behavior: inherit;
 }
 
 body {
