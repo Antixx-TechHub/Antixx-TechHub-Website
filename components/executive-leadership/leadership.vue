@@ -104,6 +104,6 @@
 
 <script>
 export default {
-    name: 'Team'
+    name: 'leadership'
 }
 </script>

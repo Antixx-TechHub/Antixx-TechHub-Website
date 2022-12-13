@@ -5,6 +5,7 @@
             pageTitle="Executive Leadership" 
             pageDesc="Meet Our experts always ready to help you" 
         />
+        <leadership />
         <Team />
         <OurLovingClients />
         <BestSupport />
@@ -16,7 +17,8 @@
 <script>
 import NavbarStyleTwo from '../layouts/NavbarStyleTwo';
 import PageTitle from '../components/executive-leadership/PageTitle';
-import Team from '../components/executive-leadership/Team'
+import leadership from '../components/executive-leadership/leadership'
+import Team from '../components/Common/Team'
 import OurLovingClients from '../components/Common/OurLovingClients'
 import BestSupport from '../components/Common/BestSupport'
 import FreeTrial from '../components/Common/FreeTrial'
@@ -26,6 +28,7 @@ export default {
     components: {
         NavbarStyleTwo,
         PageTitle,
+        leadership,
         Team,
         OurLovingClients,
         BestSupport,

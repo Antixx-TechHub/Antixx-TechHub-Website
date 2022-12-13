@@ -76,7 +76,7 @@
                                             <p>Cloud Strategy</p>
                                         </NuxtLink>
                                         <NuxtLink to="/big-data-solutions" class="nav-link">
-                                            <p>Big Data Analytics</p>
+                                            <p>Big Data Solutions</p>
                                         </NuxtLink>
                                     </li>
 
@@ -302,20 +302,12 @@
                                         <NuxtLink to="/about-us" class="nav-link">About Us</NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/coming-soon" class="nav-link">Our History
-                                        </NuxtLink>
-                                    </li>
-                                    <li class="nav-item">
                                         <NuxtLink to="/coming-soon" class="nav-link">Why Antixx TechHub
                                             Global
                                         </NuxtLink>
                                     </li>
                                     <li class="nav-item">
                                         <NuxtLink to="/executive-leadership" class="nav-link">Executive Leadership
-                                        </NuxtLink>
-                                    </li>
-                                    <li class="nav-item">
-                                        <NuxtLink to="/team" class="nav-link">Experts Team
                                         </NuxtLink>
                                     </li>
                                     <li class="nav-item">

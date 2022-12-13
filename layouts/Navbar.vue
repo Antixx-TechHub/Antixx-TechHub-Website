@@ -311,10 +311,6 @@
                                         </NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/team" class="nav-link">Experts Team
-                                        </NuxtLink>
-                                    </li>
-                                    <li class="nav-item">
                                         <NuxtLink to="/coming-soon" class="nav-link">Careers</NuxtLink>
                                     </li>
 
