@@ -280,12 +280,12 @@
                                         </NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/coming-soon" class="nav-link">
+                                        <NuxtLink to="/insights" class="nav-link">
                                             Insights
                                         </NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/coming-soon" class="nav-link">
+                                        <NuxtLink to="/case-studies" class="nav-link">
                                             Case Studies
                                         </NuxtLink>
                                     </li>
