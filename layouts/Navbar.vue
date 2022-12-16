@@ -302,7 +302,7 @@
                                         <NuxtLink to="/about-us" class="nav-link">About Us</NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/coming-soon" class="nav-link">Why Antixx TechHub
+                                        <NuxtLink to="/why-antixx-techhub-global" class="nav-link">Why Antixx TechHub
                                             Global
                                         </NuxtLink>
                                     </li>
@@ -311,7 +311,7 @@
                                         </NuxtLink>
                                     </li>
                                     <li class="nav-item">
-                                        <NuxtLink to="/coming-soon" class="nav-link">Careers</NuxtLink>
+                                        <NuxtLink to="/careers" class="nav-link">Careers</NuxtLink>
                                     </li>
 
                                 </ul>
@@ -322,7 +322,7 @@
                             <NuxtLink to="/contact-us" class="default-btn">
                                 <i class="bx bxs-hot"></i>Contact Us<span></span>
                             </NuxtLink>
-                            <NuxtLink to="/coming-soon" class="optional-btn">
+                            <NuxtLink to="/our-products" class="optional-btn">
                                 <i class="bx bx-log-in"></i>Our-Products<span></span>
                             </NuxtLink>
                         </div>
