@@ -16,7 +16,7 @@
 
 <script>
 import NavbarStyleTwo from '../layouts/NavbarStyleTwo';
-import PageTitle from '../components/executive-leadership/PageTitle';
+import PageTitle from '../components/Common/PageTitle';
 import leadership from '../components/executive-leadership/leadership'
 import Team from '../components/Common/Team'
 import OurLovingClients from '../components/Common/OurLovingClients'
