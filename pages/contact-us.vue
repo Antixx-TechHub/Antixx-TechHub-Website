@@ -11,7 +11,7 @@
 
 <script>
 import NavbarStyleTwo from '../layouts/NavbarStyleTwo';
-import PageTitle from '../components/contact-us/PageTitle';
+import PageTitle from '../components/Common/PageTitle';
 import Contact from '../components/contact-us/contact'
 import BestSupport from '../components/Common/BestSupport'
 import OurLovingClients from '../components/Common/OurLovingClients'
