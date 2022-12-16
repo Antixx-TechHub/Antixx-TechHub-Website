@@ -4,7 +4,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-7 col-md-12">
                     <div class="faq-accordion">
-                        <h2>Get to know about <span>Striki</span></h2>
+                        <h2>Get to know about <span>Antixx TechHub</span></h2>
 
                         <div class="accordion" role="tablist">
                             <b-card 

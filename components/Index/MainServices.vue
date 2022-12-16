@@ -85,7 +85,7 @@
                                 <h3>
                                     <NuxtLink to="/">Blockchain Development</NuxtLink>
                                 </h3>
-                                <p>Hire SEO experts to improve website ranking (visibility) in organic and paid search results at least price with on-page, off-page and local SEO practices.</p>
+                                <p>Hire Blockchain developers for Blockchain network consulting, planning, infrastructure auditing, deployment, & management...</p>
                             </div>
                         </div>
                     </slide>

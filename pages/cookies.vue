@@ -11,10 +11,10 @@
 
 <script>
 import NavbarStyleTwo from '../layouts/NavbarStyleTwo';
-import PageTitle from '../components/cookies/PageTitle';
-import Servicedetails from '../components/cookies/Servicedetails'
-import BestSupport from '../components/cookies/BestSupport'
-import FreeTrial from '../components/cookies/FreeTrial'
+import PageTitle from '../components/Common/PageTitle';
+import Servicedetails from '../components/cookies/CookiesServicedetails'
+import BestSupport from '../components/Common/BestSupport'
+import FreeTrial from '../components/Common/FreeTrial'
 import FooterStyleOne from '../layouts/FooterStyleOne'
 
 export default {

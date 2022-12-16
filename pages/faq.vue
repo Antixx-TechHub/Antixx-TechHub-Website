@@ -1,10 +1,7 @@
 <template>
     <div>
         <NavbarStyleTwo />
-        <PageTitle 
-            pageTitle="Frequently Asked Questions" 
-            pageDesc="Get to know about Striki" 
-        />
+        <PageTitle pageTitle="Frequently Asked Questions" pageDesc="" />
         <Faq />
         <BestSupport />
         <FreeTrial />
