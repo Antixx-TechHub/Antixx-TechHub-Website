@@ -8,7 +8,9 @@
                         <div class="logo">
                             <NuxtLink to="/"><img src="~/assets/img/icon/footer-logo.svg" alt="image" width="190" height="50"></NuxtLink>
                         </div>
-                        <p>Antixx TechHub offers a range of tailor-made enterprise solutions to help businesses improve visibility, branding, efficiencies, productivity, quality, profitability, and customer relationship.</p>
+                        <div>
+                        <p class="text-left">Antixx TechHub offers a range of tailor-made enterprise solutions to help businesses improve visibility, branding, efficiencies, productivity, quality, profitability, and customer relationship.</p>
+                    </div>
                     </div>
                 </div>
 
@@ -18,7 +20,7 @@
 
                         <ul class="services-list">
                             <li><NuxtLink to="/about-us">About Us</NuxtLink></li>
-                            <li><NuxtLink to="/our-history">Our History</NuxtLink></li>
+                            <li><NuxtLink to="/executive-leadership">Our Team</NuxtLink></li>
                             <li><NuxtLink to="/blogs">Blogs</NuxtLink></li>
                             <li><NuxtLink to="/careers">Careers</NuxtLink></li>
                             <li><NuxtLink to="/contact-us">Contact Us</NuxtLink></li>
@@ -60,7 +62,7 @@
             </div>
 
             <div class="copyright-area">
-                <p>&copy; <a href="https://www.antixxtechhub.com" target="_blank">Copyright 2022 Antixx TechHub Pvt. Ltd.</a> – All Rights Reserved.</p>
+                <p>&copy; <a href="https://www.antixxtechhub.com" target="_blank">Copyright 2023 Antixx TechHub Pvt. Ltd.</a> – All Rights Reserved.</p>
             </div>
         </div>
     </footer>
