@@ -1,17 +1,16 @@
 <template>
     <div>
         <NavbarStyleTwo />
-        <PageTitle pageTitle="Graphics Design" pageDesc="Lorem Ipsum" />
-        <About />
-        <Expertise />
-        <MoreToDiscover />
-        <PageAbout /> 
-        <Features /> 
-        <WhyChooseUs />
-        <TheBestInnovative />
-        <ConnectionsYourCustomers />
+        <PageTitle pageTitle="Graphics Design" pageDesc="" />
+        <AboutGraphics />
+        <WhyYouNeedGraphics />
+        <BenefitsofHiringGraphicsDesigners />
+        <HowWeCreateUniqueGraphics  /> 
+        <GraphicsDevelopmentStage /> 
+        <WhatMakesAntixxTechHub />
+        <SevenKeyElements />
+        <WhyHireAntixxTechHub />
         <Faq />
-        <!-- <Pricing /> -->
         <BestSupport />
         <FreeTrial />
         <FooterStyleOne />
@@ -20,51 +19,33 @@
 
 <script>
 import NavbarStyleTwo from '../layouts/NavbarStyleTwo';
-import PageTitle from '../components/graphics-design/PageTitle';
-import WhyChooseUs from '../components/graphics-design/WhyChooseUs';
-import AmazingFeatures from '../components/graphics-design/AmazingFeatures';
-import ServicesOne from '../components/graphics-design/ServicesOne';
-import MoreToDiscover from '../components/graphics-design/MoreToDiscover';
-import Services from '../components/graphics-design/Services';
-import YourApplication from '../components/graphics-design/YourApplication';
-import TheAbilityToElicit from '../components/graphics-design/TheAbilityToElicit';
-import TheBestInnovative from '../components/graphics-design/TheBestInnovative';
-import Features from '../components/graphics-design/Features';
-import ConnectionsYourCustomers from '../components/graphics-design/ConnectionsYourCustomers';
-import About from '../components/graphics-design/About';
-import PageAbout from '../components/graphics-design/PageAbout';
-import CaseStudies from '../components/graphics-design/CaseStudies';
-import Featured from '../components/graphics-design/Featured';
-import PageFeature from '../components/graphics-design/PageFeature';
-import Expertise from '../components/graphics-design/Expertise';
+import PageTitle from '../components/Common/PageTitle';
+import AboutGraphics from '../components/graphics-design/AboutGraphics';
+import WhyYouNeedGraphics from '../components/graphics-design/WhyYouNeedGraphics';
+import BenefitsofHiringGraphicsDesigners from '../components/graphics-design/BenefitsofHiringGraphicsDesigners';
+import HowWeCreateUniqueGraphics from '../components/graphics-design/HowWeCreateUniqueGraphics';
+import GraphicsDevelopmentStage from '../components/graphics-design/GraphicsDevelopmentStage';
+import WhatMakesAntixxTechHub from '../components/graphics-design/WhatMakesAntixxTechHub';
+import SevenKeyElements from '../components/graphics-design/SevenKeyElements';
+import WhyHireAntixxTechHub from '../components/graphics-design/WhyHireAntixxTechHub';
 import Faq from '../components/graphics-design/Faq';
-import Pricing from '../components/graphics-design/Pricing';
-import BestSupport from '../components/graphics-design/BestSupport';
-import FreeTrial from '../components/graphics-design/FreeTrial';
+import BestSupport from '../components/Common/BestSupport';
+import FreeTrial from '../components/Common/FreeTrial';
 import FooterStyleOne from '../layouts/FooterStyleOne';
 
 export default {
     components: {
         NavbarStyleTwo,
-        PageTitle,
-        WhyChooseUs,
-        AmazingFeatures,
-        ServicesOne,
-        Services,
-        MoreToDiscover,
-        YourApplication,
-        TheAbilityToElicit,
-        Features,
-        ConnectionsYourCustomers,
-        TheBestInnovative,
-        About,
-        PageAbout,
-        PageFeature,
-        CaseStudies,
-        Featured,
-        Expertise,
+        PageTitle, 
+        AboutGraphics,
+        WhyYouNeedGraphics,
+        BenefitsofHiringGraphicsDesigners,
+        HowWeCreateUniqueGraphics,
+        GraphicsDevelopmentStage,
+        WhatMakesAntixxTechHub,
+        SevenKeyElements,
+        WhyHireAntixxTechHub,
         Faq,
-        Pricing,
         BestSupport,
         FreeTrial,
         FooterStyleOne,
