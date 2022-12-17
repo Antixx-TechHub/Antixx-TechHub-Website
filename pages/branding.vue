@@ -1,25 +1,13 @@
 <template>
     <div>
         <NavbarStyleTwo />
-        <PageTitle pageTitle="Branding" pageDesc="Lorem Ipsum" />
-        <About />
-        <WhyChooseUs />
-        <MoreToDiscover />
-        <!-- <AmazingFeatures />
-        <ServicesOne />
-        <Services />
-        <YourApplication class="pt-0" />
-        <TheAbilityToElicit />
-        <Features />
-        <PageAbout />
-        <CaseStudies /> -->
-        <!-- <Featured /> -->
-        <ConnectionsYourCustomers />
-        <TheBestInnovative />
-        <!-- <PageFeature />
-        <Expertise /> -->
+        <PageTitle pageTitle="Branding" pageDesc="" />
+        <AboutBranding />
+        <WhyYouNeed />
+        <TheBenefits />
+        <BrandingServices />
+        <WhyHireAntixxTechHub />
         <Faq />
-        <!-- <Pricing /> -->
         <BestSupport />
         <FreeTrial />
         <FooterStyleOne />
@@ -28,26 +16,14 @@
 
 <script>
 import NavbarStyleTwo from '../layouts/NavbarStyleTwo';
-import PageTitle from '../components/branding/PageTitle';
-import AmazingFeatures from '../components/branding/AmazingFeatures';
-import ServicesOne from '../components/branding/ServicesOne';
-import MoreToDiscover from '../components/branding/MoreToDiscover';
-import Services from '../components/branding/Services';
-import YourApplication from '../components/branding/YourApplication';
-import TheAbilityToElicit from '../components/branding/TheAbilityToElicit';
-import TheBestInnovative from '../components/branding/TheBestInnovative';
-import WhyChooseUs from '../components/branding/WhyChooseUs';
-import Features from '../components/branding/Features';
-import ConnectionsYourCustomers from '../components/branding/ConnectionsYourCustomers';
-import About from '../components/branding/About';
-import PageAbout from '../components/branding/PageAbout';
-import CaseStudies from '../components/branding/CaseStudies';
-import Featured from '../components/branding/Featured';
-import PageFeature from '../components/branding/PageFeature';
-import Expertise from '../components/branding/Expertise';
+import PageTitle from '../components/Common/PageTitle';
+import AboutBranding from '../components/branding/AboutBranding';
+import WhyYouNeed from '../components/branding/WhyYouNeed';
+import TheBenefits from '../components/branding/TheBenefits';
+import BrandingServices from '../components/branding/BrandingServices';
+import WhyHireAntixxTechHub from '../components/branding/WhyHireAntixxTechHub';
 import Faq from '../components/branding/Faq';
-import Pricing from '../components/branding/Pricing';
-import BestSupport from '../components/branding/BestSupport';
+import BestSupport from '../components/Common/BestSupport';
 import FreeTrial from '../components/Common/FreeTrial';
 import FooterStyleOne from '../layouts/FooterStyleOne';
 
@@ -55,24 +31,12 @@ export default {
     components: {
         NavbarStyleTwo,
         PageTitle,
-        AmazingFeatures,
-        ServicesOne,
-        Services,
-        MoreToDiscover,
-        YourApplication,
-        TheAbilityToElicit,
-        WhyChooseUs,
-        Features,
-        ConnectionsYourCustomers,
-        TheBestInnovative,
-        About,
-        PageAbout,
-        PageFeature,
-        CaseStudies,
-        Featured,
-        Expertise,
+        AboutBranding,
+        WhyYouNeed,
+        TheBenefits,
+        BrandingServices,
+        WhyHireAntixxTechHub,
         Faq,
-        Pricing,
         BestSupport,
         FreeTrial,
         FooterStyleOne,
