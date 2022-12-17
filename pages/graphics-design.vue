@@ -5,8 +5,8 @@
         <AboutGraphics />
         <WhyYouNeedGraphics />
         <BenefitsofHiringGraphicsDesigners />
-        <HowWeCreateUniqueGraphics  /> 
-        <GraphicsDevelopmentStage /> 
+        <HowWeCreateUniqueGraphics />
+        <GraphicsDevelopmentStage />
         <WhatMakesAntixxTechHub />
         <SevenKeyElements />
         <WhyHireAntixxTechHub />
@@ -36,7 +36,7 @@ import FooterStyleOne from '../layouts/FooterStyleOne';
 export default {
     components: {
         NavbarStyleTwo,
-        PageTitle, 
+        PageTitle,
         AboutGraphics,
         WhyYouNeedGraphics,
         BenefitsofHiringGraphicsDesigners,
