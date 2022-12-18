@@ -1,13 +1,13 @@
 <template>
     <div>
         <NavbarStyleTwo />
-        <PageTitle pageTitle="Software Testing & QA" pageDesc="Lorem Ipsum" />
-        <About />
-        <WhyChooseUs />
-        <MoreToDiscover />
-        <PageFeature />
-        <PageAbout />
-        <Expertise />
+        <PageTitle pageTitle="Software Testing & QA" pageDesc="" />
+        <SoftwareTestingAbout />
+        <WhyYouNeed />
+        <TestingTypes />
+        <WhatWeOffer />
+        <ToolsAndTechnologies />
+        <WhyHireAntixxTechhub />
         <BestSupport />
         <FreeTrial />
         <FooterStyleOne />
@@ -16,51 +16,27 @@
 
 <script>
 import NavbarStyleTwo from '../layouts/NavbarStyleTwo';
-import PageTitle from '../components/software-testing-and-qa/PageTitle';
-import AmazingFeatures from '../components/software-testing-and-qa/AmazingFeatures';
-import ServicesOne from '../components/software-testing-and-qa/ServicesOne'
-import MoreToDiscover from '../components/software-testing-and-qa/MoreToDiscover';
-import Services from '../components/software-testing-and-qa/Services';
-import YourApplication from '../components/software-testing-and-qa/YourApplication';
-import TheAbilityToElicit from '../components/software-testing-and-qa/TheAbilityToElicit';
-import TheBestInnovative from '../components/software-testing-and-qa/TheBestInnovative';
-import WhyChooseUs from '../components/software-testing-and-qa/WhyChooseUs';
-import Features from '../components/software-testing-and-qa/Features';
-import ConnectionsYourCustomers from '../components/software-testing-and-qa/ConnectionsYourCustomers';
-import About from '../components/software-testing-and-qa/About';
-import PageAbout from '../components/software-testing-and-qa/PageAbout';
-import CaseStudies from '../components/software-testing-and-qa/CaseStudies';
-import Featured from '../components/software-testing-and-qa/Featured';
-import PageFeature from '../components/software-testing-and-qa/PageFeature';
-import Expertise from '../components/software-testing-and-qa/Expertise';
-import Faq from '../components/software-testing-and-qa/Faq';
-import Pricing from '../components/software-testing-and-qa/Pricing';
-import BestSupport from '../components/software-testing-and-qa/BestSupport';
-import FreeTrial from '../components/software-testing-and-qa/FreeTrial';
+import PageTitle from '../components/Common/PageTitle';
+import SoftwareTestingAbout from '../components/software-testing-and-qa/SoftwareTestingAbout';
+import WhyYouNeed from '../components/software-testing-and-qa/WhyYouNeed';
+import TestingTypes from '../components/software-testing-and-qa/TestingTypes';
+import WhatWeOffer from '../components/software-testing-and-qa/WhatWeOffer';
+import ToolsAndTechnologies from '../components/software-testing-and-qa/ToolsAndTechnologies';
+import WhyHireAntixxTechhub from '../components/software-testing-and-qa/WhyHireAntixxTechhub';
+import BestSupport from '../components/Common/BestSupport';
+import FreeTrial from '../components/Common/FreeTrial';
 import FooterStyleOne from '../layouts/FooterStyleOne';
 
 export default {
     components: {
         NavbarStyleTwo,
         PageTitle,
-        AmazingFeatures,
-        ServicesOne,
-        Services,
-        MoreToDiscover,
-        YourApplication,
-        TheAbilityToElicit,
-        WhyChooseUs,
-        Features,
-        ConnectionsYourCustomers,
-        TheBestInnovative,
-        About,
-        PageAbout,
-        PageFeature,
-        CaseStudies,
-        Featured,
-        Expertise,
-        Faq,
-        Pricing,
+        SoftwareTestingAbout,
+        WhyYouNeed,
+        TestingTypes,
+        WhatWeOffer,
+        ToolsAndTechnologies,
+        WhyHireAntixxTechhub,
         BestSupport,
         FreeTrial,
         FooterStyleOne,
