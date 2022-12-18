@@ -94,24 +94,6 @@
                                 </b-collapse>
                             </b-card>
 
-                            <b-card no-body class="accordion-item">
-                                <b-card-header header-tag="header" class="p-1" role="tab">
-                                    <b-button block v-b-toggle.accordion-6 variant="info" class="accordion-title">
-                                        <i class="bx bx-plus"></i>
-                                        Q6. How much do you charge for graphic design services? What is the cost of
-                                        graphic design packages?
-                                    </b-button>
-                                </b-card-header>
-
-                                <b-collapse id="accordion-6" visible accordion="my-accordion" role="tabpanel">
-                                    <b-card-body>
-                                        <b-card-text class="accordion-content">
-                                            {{ Q6 }}
-                                        </b-card-text>
-                                    </b-card-body>
-                                </b-collapse>
-                            </b-card>
-
                         </div>
                     </div>
                 </div>
