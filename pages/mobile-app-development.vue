@@ -1,19 +1,18 @@
 <template>
     <div>
         <NavbarStyleTwo />
-        <PageTitle pageTitle="Mobile App Development" pageDesc="Lorem Ipsum" />
-        <About />
-        <MoreToDiscover />
-        <Features />
-        <ServicesOne />
-        <YourApplication class="pt-0" />
-        <Services />
-        <WhyChooseUs />
-        <PageAbout />
-        <Featured />
-        <Expertise />
+        <PageTitle pageTitle="Mobile App Development" pageDesc="" />
+        <MobileAppAbout />
+        <ShouldYouHire />
+        <NativeMobileApps />
+        <MobileAppDevelopment />
+        <TechnicalExcellence class="pt-0" />
+        <TheTopMobileApp />
+        <FeaturesEnriched />
+        <OurApproach />
+        <WeFollowTheRobustMobile />
+        <WhyChooseAntixxTechHub />
         <Faq />
-        <!-- <Pricing /> -->
         <BestSupport />
         <FreeTrial />
         <FooterStyleOne />
@@ -22,51 +21,37 @@
 
 <script>
 import NavbarStyleTwo from '../layouts/NavbarStyleTwo';
-import PageTitle from '../components/mobile-app-development/PageTitle';
-import AmazingFeatures from '../components/mobile-app-development/AmazingFeatures';
-import ServicesOne from '../components/mobile-app-development/ServicesOne';
-import MoreToDiscover from '../components/mobile-app-development/MoreToDiscover';
-import Services from '../components/mobile-app-development/Services';
-import YourApplication from '../components/mobile-app-development/YourApplication';
-import TheAbilityToElicit from '../components/mobile-app-development/TheAbilityToElicit';
-import TheBestInnovative from '../components/mobile-app-development/TheBestInnovative';
-import WhyChooseUs from '../components/mobile-app-development/WhyChooseUs';
-import Features from '../components/mobile-app-development/Features';
-import ConnectionsYourCustomers from '../components/mobile-app-development/ConnectionsYourCustomers';
-import About from '../components/mobile-app-development/About';
-import PageAbout from '../components/mobile-app-development/PageAbout';
-import CaseStudies from '../components/mobile-app-development/CaseStudies';
-import Featured from '../components/mobile-app-development/Featured';
-import PageFeature from '../components/mobile-app-development/PageFeature';
-import Expertise from '../components/mobile-app-development/Expertise';
+import PageTitle from '../components/Common/PageTitle';
+import MobileAppAbout from '../components/mobile-app-development/MobileAppAbout';
+import ShouldYouHire from '../components/mobile-app-development/ShouldYouHire';
+import NativeMobileApps from '../components/mobile-app-development/NativeMobileApps';
+import MobileAppDevelopment from '../components/mobile-app-development/MobileAppDevelopment';
+import TechnicalExcellence from '../components/mobile-app-development/TechnicalExcellence';
+import TheTopMobileApp from '../components/mobile-app-development/TheTopMobileApp';
+import FeaturesEnriched from '../components/mobile-app-development/FeaturesEnriched';
+import OurApproach from '../components/mobile-app-development/OurApproach';
+import WeFollowTheRobustMobile from '../components/mobile-app-development/WeFollowTheRobustMobile';
+import WhyChooseAntixxTechHub from '../components/mobile-app-development/WhyChooseAntixxTechHub';
 import Faq from '../components/mobile-app-development/Faq';
-import Pricing from '../components/mobile-app-development/Pricing';
-import BestSupport from '../components/mobile-app-development/BestSupport';
-import FreeTrial from '../components/mobile-app-development/FreeTrial';
+import BestSupport from '../components/Common/BestSupport';
+import FreeTrial from '../components/Common/FreeTrial';
 import FooterStyleOne from '../layouts/FooterStyleOne';
 
 export default {
     components: {
         NavbarStyleTwo,
         PageTitle,
-        AmazingFeatures,
-        ServicesOne,
-        Services,
-        MoreToDiscover,
-        YourApplication,
-        TheAbilityToElicit,
-        WhyChooseUs,
-        Features,
-        ConnectionsYourCustomers,
-        TheBestInnovative,
-        About,
-        PageAbout,
-        PageFeature,
-        CaseStudies,
-        Featured,
-        Expertise,
+        MobileAppAbout,
+        ShouldYouHire,
+        NativeMobileApps,
+        MobileAppDevelopment,
+        TechnicalExcellence,
+        TheTopMobileApp,
+        FeaturesEnriched,
+        OurApproach,
+        WeFollowTheRobustMobile,
+        WhyChooseAntixxTechHub,
         Faq,
-        Pricing,
         BestSupport,
         FreeTrial,
         FooterStyleOne,
