@@ -1,16 +1,14 @@
 <template>
     <div>
         <NavbarStyleTwo />
-        <PageTitle pageTitle="Website SEO Audit" pageDesc="Lorem Ipsum" />
-        <About />
-        <Expertise />
-        <WhyChooseUs />
-        <Services />
-        <ServicesOne />
-        <AmazingFeatures />
-        <MoreToDiscover />
-        <!-- <Faq /> -->
-        <!-- <Pricing /> -->
+        <PageTitle pageTitle="Website SEO Audit" pageDesc="" />
+        <WebsiteSEOAuditAbout />
+        <WhatIsWebsiteSEO />
+        <WhyYouShould />
+        <WebsiteSEOHealth />
+        <TheTopRanking />
+        <WhatWeDo />
+        <HowWeDoSEOAudit />
         <BestSupport />
         <FreeTrial />
         <FooterStyleOne />
@@ -19,51 +17,29 @@
 
 <script>
 import NavbarStyleTwo from '../layouts/NavbarStyleTwo';
-import PageTitle from '../components/website-seo-audit/PageTitle';
-import AmazingFeatures from '../components/website-seo-audit/AmazingFeatures';
-import ServicesOne from '../components/website-seo-audit/ServicesOne';
-import MoreToDiscover from '../components/website-seo-audit/MoreToDiscover';
-import Services from '../components/website-seo-audit/Services';
-import YourApplication from '../components/website-seo-audit/YourApplication';
-import TheAbilityToElicit from '../components/website-seo-audit/TheAbilityToElicit';
-import TheBestInnovative from '../components/website-seo-audit/TheBestInnovative';
-import WhyChooseUs from '../components/website-seo-audit/WhyChooseUs';
-import Features from '../components/website-seo-audit/Features';
-import ConnectionsYourCustomers from '../components/website-seo-audit/ConnectionsYourCustomers';
-import About from '../components/website-seo-audit/About';
-import PageAbout from '../components/website-seo-audit/PageAbout';
-import CaseStudies from '../components/website-seo-audit/CaseStudies';
-import Featured from '../components/website-seo-audit/Featured';
-import PageFeature from '../components/website-seo-audit/PageFeature';
-import Expertise from '../components/website-seo-audit/Expertise';
-import Faq from '../components/website-seo-audit/Faq';
-import Pricing from '../components/website-seo-audit/Pricing';
-import BestSupport from '../components/website-seo-audit/BestSupport';
-import FreeTrial from '../components/website-seo-audit/FreeTrial';
+import PageTitle from '../components/Common/PageTitle';
+import WebsiteSEOAuditAbout from '../components/website-seo-audit/WebsiteSEOAuditAbout';
+import WhatIsWebsiteSEO from '../components/website-seo-audit/WhatIsWebsiteSEO';
+import WhyYouShould from '../components/website-seo-audit/WhyYouShould';
+import WebsiteSEOHealth from '../components/website-seo-audit/WebsiteSEOHealth';
+import TheTopRanking from '../components/website-seo-audit/TheTopRanking';
+import WhatWeDo from '../components/website-seo-audit/WhatWeDo';
+import HowWeDoSEOAudit from '../components/website-seo-audit/HowWeDoSEOAudit';
+import BestSupport from '../components/Common/BestSupport';
+import FreeTrial from '../components/Common/FreeTrial';
 import FooterStyleOne from '../layouts/FooterStyleOne';
 
 export default {
     components: {
         NavbarStyleTwo,
         PageTitle,
-        AmazingFeatures,
-        ServicesOne,
-        Services,
-        MoreToDiscover,
-        YourApplication,
-        TheAbilityToElicit,
-        WhyChooseUs,
-        Features,
-        ConnectionsYourCustomers,
-        TheBestInnovative,
-        About,
-        PageAbout,
-        PageFeature,
-        CaseStudies,
-        Featured,
-        Expertise,
-        Faq,
-        Pricing,
+        WebsiteSEOAuditAbout,
+        WhatIsWebsiteSEO,
+        WhyYouShould,
+        WebsiteSEOHealth,
+        TheTopRanking,
+        WhatWeDo,
+        HowWeDoSEOAudit,
         BestSupport,
         FreeTrial,
         FooterStyleOne,
