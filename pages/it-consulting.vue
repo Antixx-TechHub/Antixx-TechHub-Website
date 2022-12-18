@@ -1,13 +1,13 @@
 <template>
     <div>
         <NavbarStyleTwo />
-        <PageTitle pageTitle="IT Consulting" pageDesc="Lorem Ipsum" />
-        <About />
-        <Services />
-        <WhyChooseUs />
-        <ServicesOne />
-        <AmazingFeatures />
-        <Expertise />
+        <PageTitle pageTitle="IT Consulting" pageDesc="" />
+        <ITConsultingAbout />
+        <ReasonsToHire />
+        <ShouldYouHire />
+        <HowWeHelp />
+        <IndustriesWeHave />
+        <WhyHireAntixx />
         <BestSupport />
         <FreeTrial />
         <FooterStyleOne />
@@ -16,51 +16,27 @@
 
 <script>
 import NavbarStyleTwo from '../layouts/NavbarStyleTwo';
-import PageTitle from '../components/it-consulting/PageTitle';
-import AmazingFeatures from '../components/it-consulting/AmazingFeatures';
-import ServicesOne from '../components/it-consulting/ServicesOne'
-import MoreToDiscover from '../components/it-consulting/MoreToDiscover';
-import Services from '../components/it-consulting/Services';
-import YourApplication from '../components/it-consulting/YourApplication';
-import TheAbilityToElicit from '../components/it-consulting/TheAbilityToElicit';
-import TheBestInnovative from '../components/it-consulting/TheBestInnovative';
-import WhyChooseUs from '../components/it-consulting/WhyChooseUs';
-import Features from '../components/it-consulting/Features';
-import ConnectionsYourCustomers from '../components/it-consulting/ConnectionsYourCustomers';
-import About from '../components/it-consulting/About';
-import PageAbout from '../components/it-consulting/PageAbout';
-import CaseStudies from '../components/it-consulting/CaseStudies';
-import Featured from '../components/it-consulting/Featured';
-import PageFeature from '../components/it-consulting/PageFeature';
-import Expertise from '../components/it-consulting/Expertise';
-import Faq from '../components/it-consulting/Faq';
-import Pricing from '../components/it-consulting/Pricing';
-import BestSupport from '../components/it-consulting/BestSupport';
-import FreeTrial from '../components/it-consulting/FreeTrial';
+import PageTitle from '../components/Common/PageTitle';
+import ITConsultingAbout from '../components/it-consulting/ITConsultingAbout';
+import ReasonsToHire from '../components/it-consulting/ReasonsToHire';
+import ShouldYouHire from '../components/it-consulting/ShouldYouHire';
+import HowWeHelp from '../components/it-consulting/HowWeHelp'
+import IndustriesWeHave from '../components/it-consulting/IndustriesWeHave';
+import WhyHireAntixx from '../components/it-consulting/WhyHireAntixx';
+import BestSupport from '../components/Common/BestSupport';
+import FreeTrial from '../components/Common/FreeTrial';
 import FooterStyleOne from '../layouts/FooterStyleOne';
 
 export default {
     components: {
         NavbarStyleTwo,
         PageTitle,
-        AmazingFeatures,
-        ServicesOne,
-        Services,
-        MoreToDiscover,
-        YourApplication,
-        TheAbilityToElicit,
-        WhyChooseUs,
-        Features,
-        ConnectionsYourCustomers,
-        TheBestInnovative,
-        About,
-        PageAbout,
-        PageFeature,
-        CaseStudies,
-        Featured,
-        Expertise,
-        Faq,
-        Pricing,
+        ITConsultingAbout,
+        ReasonsToHire,
+        ShouldYouHire,
+        HowWeHelp,
+        IndustriesWeHave,
+        WhyHireAntixx,
         BestSupport,
         FreeTrial,
         FooterStyleOne,
