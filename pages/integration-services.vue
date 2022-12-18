@@ -2,13 +2,13 @@
     <div>
         <NavbarStyleTwo />
         <PageTitle pageTitle="Integration Services" pageDesc="" />
-        <About />
-        <MoreToDiscover />
-        <PageFeature />
-        <WhyChooseUs />
-        <Services />
-        <ServicesOne />
-        <Expertise />
+        <IntegrationAbout />
+        <WhyYouNeed />
+        <ScopeOfOurIntegration />
+        <WhatWeOffer />
+        <IntegrationSolutions />
+        <ToolsTechnologies />
+        <Methodologies />
         <BestSupport />
         <FreeTrial />
         <FooterStyleOne />
@@ -17,51 +17,29 @@
 
 <script>
 import NavbarStyleTwo from '../layouts/NavbarStyleTwo';
-import PageTitle from '../components/integration-services/PageTitle';
-import AmazingFeatures from '../components/integration-services/AmazingFeatures';
-import ServicesOne from '../components/integration-services/ServicesOne';
-import MoreToDiscover from '../components/integration-services/MoreToDiscover';
-import Services from '../components/integration-services/Services';
-import YourApplication from '../components/integration-services/YourApplication';
-import TheAbilityToElicit from '../components/integration-services/TheAbilityToElicit';
-import TheBestInnovative from '../components/integration-services/TheBestInnovative';
-import WhyChooseUs from '../components/integration-services/WhyChooseUs';
-import Features from '../components/integration-services/Features';
-import ConnectionsYourCustomers from '../components/integration-services/ConnectionsYourCustomers';
-import About from '../components/integration-services/About';
-import PageAbout from '../components/integration-services/PageAbout';
-import CaseStudies from '../components/integration-services/CaseStudies';
-import Featured from '../components/integration-services/Featured';
-import PageFeature from '../components/integration-services/PageFeature';
-import Expertise from '../components/integration-services/Expertise';
-import Faq from '../components/integration-services/Faq';
-import Pricing from '../components/integration-services/Pricing';
-import BestSupport from '../components/integration-services/BestSupport';
-import FreeTrial from '../components/integration-services/FreeTrial';
+import PageTitle from '../components/Common/PageTitle';
+import IntegrationAbout from '../components/integration-services/IntegrationAbout';
+import WhyYouNeed from '../components/integration-services/WhyYouNeed';
+import ScopeOfOurIntegration from '../components/integration-services/ScopeOfOurIntegration';
+import WhatWeOffer from '../components/integration-services/WhatWeOffer';
+import IntegrationSolutions from '../components/integration-services/IntegrationSolutions';
+import ToolsTechnologies from '../components/integration-services/ToolsTechnologies';
+import Methodologies from '../components/integration-services/Methodologies';
+import BestSupport from '../components/Common/BestSupport';
+import FreeTrial from '../components/Common/FreeTrial';
 import FooterStyleOne from '../layouts/FooterStyleOne';
 
 export default {
     components: {
         NavbarStyleTwo,
         PageTitle,
-        AmazingFeatures,
-        ServicesOne,
-        Services,
-        MoreToDiscover,
-        YourApplication,
-        TheAbilityToElicit,
-        WhyChooseUs,
-        Features,
-        ConnectionsYourCustomers,
-        TheBestInnovative,
-        About,
-        PageAbout,
-        PageFeature,
-        CaseStudies,
-        Featured,
-        Expertise,
-        Faq,
-        Pricing,
+        IntegrationAbout,
+        WhyYouNeed,
+        ScopeOfOurIntegration,
+        WhatWeOffer,
+        IntegrationSolutions,
+        ToolsTechnologies,
+        Methodologies,
         BestSupport,
         FreeTrial,
         FooterStyleOne,
