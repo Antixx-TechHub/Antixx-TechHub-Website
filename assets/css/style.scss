@@ -9045,7 +9045,7 @@ Company Preview Area CSS
     z-index: 1;
 
     background: {
-        image: url(../img/marketing-agency/company-preview.jpg);
+        image: url(../img/home-page/video.jpg);
         size: cover;
         repeat: no-repeat;
         position: center center;
@@ -9197,6 +9197,7 @@ Let's Talk Area CSS
         color: $main-color;
         display: inline-block;
         margin-bottom: 15px;
+        font-size: 20px;
     }
 
     h2 {
@@ -9535,9 +9536,9 @@ About Area CSS
     padding-left: 30px;
 
     h3 {
-        font-size: 28px;
+        font-size: 25px;
         font-weight: 600;
-        margin-bottom: 15px;
+        margin-bottom: 10px;
     }
 
     p {
@@ -12100,12 +12101,13 @@ ME About Area CSS
         color: $main-color;
         display: inline-block;
         margin-bottom: 15px;
+        font-size: 20px;
     }
 
     h3 {
-        font-size: 35px;
+        font-size: 25px;
         font-weight: 600;
-        margin-bottom: 15px;
+        margin-bottom: 10px;
         line-height: 1.3;
     }
 
@@ -12124,9 +12126,9 @@ ME About Area CSS
         ;
 
         li {
-            font-size: 18px;
+            font-size: 16px;
             color: $black-color;
-            font-weight: 500;
+            font-weight: 600;
             list-style-type: none;
             margin-bottom: 30px;
             position: relative;
@@ -12226,7 +12228,7 @@ Me Choose Area CSS
         display: inline-block;
         margin-bottom: 15px;
         font-weight: 500;
-        font-size: 18px;
+        font-size: 20px;
     }
 
     h3 {
@@ -12238,7 +12240,6 @@ Me Choose Area CSS
 
     p {
         margin-bottom: 0;
-        text-align: justify;
     }
 
     .choose-inner-card {

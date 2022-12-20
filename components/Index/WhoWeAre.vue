@@ -9,7 +9,7 @@
             <div class="row align-items-center justify-content-center">
                 <div class="col-lg-6 col-md-12">
                     <div class="sm-about-image">
-                        <img src="~/assets/img/seo-marketing/about/about.png" alt="image">
+                        <img src="~/assets/img/home-page/who-we-are.svg" alt="image">
                     </div>
                 </div>
 
@@ -22,19 +22,19 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-6 col-sm-6">
                                 <ul class="list">
-                                    <li><i class='bx bx-check'></i> Cost-Efficient Marketing Solutions</li>
-                                    <li><i class='bx bx-check'></i> Dedicated Experienced Experts</li>
+                                    <li><i class='bx bx-check'></i><h6> Cost-Efficient Marketing</h6></li>
+                                    <li><i class='bx bx-check'></i><h6> Dedicated Experienced Experts</h6></li>
                                 </ul>
                             </div>
                             <div class="col-lg-6 col-sm-6">
                                 <ul class="list">
-                                    <li><i class='bx bx-check'></i> Industry-Best Skill</li>
-                                    <li><i class='bx bx-check'></i> Customized Strategic Solutions</li>
+                                    <li><i class='bx bx-check'></i><h6> Industry-Best Skill</h6></li>
+                                    <li><i class='bx bx-check'></i><h6> Customized Strategic Solutions</h6></li>
                                 </ul>
                             </div>
                         </div>
                         <div class="about-btn">
-                            <NuxtLink to="about" class="default-btn">
+                            <NuxtLink to="/about-us" class="default-btn">
                                 <i class="bx bxs-hot"></i>Learn More<span></span>
                             </NuxtLink>
                         </div>

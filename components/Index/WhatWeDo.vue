@@ -10,8 +10,8 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-12 col-sm-12">
                                 <ul class="list">
-                                    <li><i class='bx bx-check'></i> Understanding the requirements </li>
-                                    <li class="color-two"><i class='bx bx-check'></i> Analyzing the requirements and agile planning for solutions </li>
+                                    <li><i class='bx bx-check'></i> Understanding the requirements</li>
+                                    <li class="color-two"><i class='bx bx-check'></i> Analyzing the requirements and agile planning for solutions</li>
                                 </ul>
                             </div>
                             <div class="col-lg-12 col-sm-12">
@@ -26,7 +26,7 @@
 
                 <div class="col-lg-6 col-md-12">
                     <div class="me-about-image">
-                        <img src="~/assets/img/marketing-experts/about/about.png" alt="image">
+                        <img src="~/assets/img/home-page/what-we-do.svg" alt="image">
                     </div>
                 </div>
             </div>

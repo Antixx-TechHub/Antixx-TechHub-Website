@@ -4,7 +4,7 @@
             <div class="row justify-content-center align-items-center">
                 <div class="col-lg-6 col-md-12">
                     <div class="is-analysis-image">
-                        <img src="~/assets/img/it-solution/analysis.jpg" alt="image">
+                        <img src="~/assets/img/home-page/analysis.jpg" alt="image">
 
                         <div class="analysis-vector-shape">
                             <img src="~/assets/img/it-solution/team/vector.png" alt="image">
@@ -35,27 +35,31 @@
                                 <div class="col-lg-6 col-md-6">
                                     <div class="form-group">
                                         <label>Phone</label>
-                                        <input type="text" name="phone_number" id="phone_number" required class="form-control">
+                                        <input type="text" name="phone_number" id="phone_number" required
+                                            class="form-control">
                                     </div>
                                 </div>
 
                                 <div class="col-lg-6 col-md-6">
                                     <div class="form-group">
                                         <label>Subject</label>
-                                        <input type="text" name="msg_subject" id="msg_subject" class="form-control" required>
+                                        <input type="text" name="msg_subject" id="msg_subject" class="form-control"
+                                            required>
                                     </div>
                                 </div>
 
                                 <div class="col-lg-12 col-md-12">
                                     <div class="form-group">
                                         <label>Your Message</label>
-                                        <textarea name="message" class="form-control" id="message" cols="30" rows="6" required></textarea>
+                                        <textarea name="message" class="form-control" id="message" cols="30" rows="6"
+                                            required></textarea>
                                     </div>
                                 </div>
 
                                 <div class="form-group">
                                     <input type="checkbox" class="form-check-input" id="exampleCheck1">
-                                    <label class="form-check-label" for="exampleCheck1">I agree with <a href="#">Privacy Policy</a></label>
+                                    <label class="form-check-label" for="exampleCheck1">I agree with <a href="#">Privacy
+                                            Policy</a></label>
                                 </div>
 
                                 <div class="col-lg-12 col-md-12">

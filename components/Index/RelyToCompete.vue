@@ -18,10 +18,10 @@
 
                 <div class="col-lg-6 col-md-12">
                     <div class="is-about-image">
-                        <img src="~/assets/img/it-solution/about/about.jpg" alt="image">
-                        <div class="is-about-shape">
+                        <img src="~/assets/img/home-page/rely-to-compete.svg" alt="image">
+                        <!-- <div class="is-about-shape">
                             <img src="~/assets/img/it-solution/about/vector.png" alt="image">
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>

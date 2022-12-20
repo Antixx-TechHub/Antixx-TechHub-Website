@@ -112,6 +112,7 @@
                     <div class="banner-image-slider">
                         <carousel
                             :autoplay = "true"
+                            :autoplayTimeout='4000'
                             :loop = "true"
                             :paginationEnabled = "true"
                             :perPageCustom = "[[0, 1]]"

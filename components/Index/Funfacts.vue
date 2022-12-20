@@ -7,7 +7,7 @@
                         <div class="sm-single-funfacts">
                             <i class="bx bx-list-check"></i>
                             <h3>800+</h3>
-                            <p>Projects Delivered Successfully</p>
+                            <p>Projects Delivered</p>
                         </div>
                     </div>
 
@@ -31,7 +31,7 @@
                         <div class="sm-single-funfacts">
                             <i class="bx bxs-award"></i>
                             <h3>70+</h3>
-                            <p>Remarkable Achievements</p>
+                            <p>Our Achievements</p>
                         </div>
                     </div>
                 </div>

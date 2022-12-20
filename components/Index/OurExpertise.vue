@@ -18,7 +18,7 @@
                                 </h3>
                                 <div class="is-services-image">
                                     <NuxtLink to="/bmc">
-                                        <img src="~/assets/img/icon/bmc.svg" alt="image">
+                                        <img src="~/assets/img/home-page/bmc.svg" alt="image">
                                     </NuxtLink>
                                 </div>
                                 <p>Integration of BMC products- BMC TrueSight management; BMC Smart Reporting; BMC Helix
@@ -34,7 +34,7 @@
                                 </h3>
                                 <div class="is-services-image">
                                     <NuxtLink to="/">
-                                        <img src="~/assets/img/marketing-experts/services/services2.jpg" alt="image">
+                                        <img src="~/assets/img/home-page/salesforce.svg" alt="image">
                                     </NuxtLink>
                                 </div>
                                 <p>Customized integration of Sales Cloud; Service Cloud; Marketing Cloud; Integration
@@ -50,7 +50,7 @@
                                 </h3>
                                 <div class="is-services-image">
                                     <NuxtLink to="/">
-                                        <img src="~/assets/img/marketing-experts/services/services3.jpg" alt="image">
+                                        <img src="~/assets/img/home-page/service-now.svg" alt="image">
                                     </NuxtLink>
                                 </div>
                                 <p>Expertise in configuration & integration of ServiceNow ITSM; workflows; Employee
@@ -66,7 +66,7 @@
                                 </h3>
                                 <div class="is-services-image">
                                     <NuxtLink to="/">
-                                        <img src="~/assets/img/marketing-experts/services/services4.jpg" alt="image">
+                                        <img src="~/assets/img/home-page/sap.svg" alt="image">
                                     </NuxtLink>
                                 </div>
                                 <p>Consultancy & integration for HANA; SAP ERP; CRM; SAP Business Objects; SAP Product
@@ -82,7 +82,7 @@
                                 </h3>
                                 <div class="is-services-image">
                                     <NuxtLink to="/">
-                                        <img src="~/assets/img/marketing-experts/services/services1.jpg" alt="image">
+                                        <img src="~/assets/img/home-page/aws.svg" alt="image">
                                     </NuxtLink>
                                 </div>
                                 <p>We offer the best-class services and consulting for AWS Migration; AWS Cloud
@@ -99,7 +99,7 @@
                                 </h3>
                                 <div class="is-services-image">
                                     <NuxtLink to="/">
-                                        <img src="~/assets/img/marketing-experts/services/services2.jpg" alt="image">
+                                        <img src="~/assets/img/home-page/analytics.svg" alt="image">
                                     </NuxtLink>
                                 </div>
                                 <p>As a Big Data analytics solutions provider and Big Data consultant, we provide Big
