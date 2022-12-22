@@ -1,16 +1,13 @@
 <template>
     <div class="free-trial-area ptb-100 bg-f4f5fe">
         <div class="container">
-            <div 
-                class="free-trial-content"
-                v-if="content !== null"
-            >
-                <h2>{{content.heading}}</h2>
-                <p>{{content.shortDesc}}</p>
+            <div class="free-trial-content">
+                <h2>We always try to be the best support to you as possible</h2>
+                <p>Qualify your leads & recognize the value of word your customer will love you</p>
 
-                <NuxtLink :to="content.btnLink" class="default-btn">
+                <NuxtLink to="/contact-us" class="default-btn">
                     <i class="bx bxs-hot"></i> 
-                    {{content.btnText}}
+                    Contact Us
                     <span></span>
                 </NuxtLink>
             </div>
@@ -25,14 +22,6 @@
 
 <script>
 export default {
-    name: 'FreeTrial',
-    data(){
-        return{
-            content: null
-        }
-    },
-    created: async function(){
-        this.content = await this.$strapi.find('freetrial')
-    }
+    name: 'FreeTrial'
 }
 </script>
