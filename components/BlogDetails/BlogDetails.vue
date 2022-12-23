@@ -21,7 +21,7 @@
                         <div class="article-footer">
                             <div class="post-author-meta">
                                 <div class="d-flex align-items-center">
-                                    <img src="../../assets/images/user/user6.jpg" alt="user">
+                                    <!-- <img src="../../assets/images/user/user6.jpg" alt="user"> -->
                                     <div class="title">
                                         <span class="name">By <NuxtLink to="/blog-grid">EnvyTheme</NuxtLink></span>
                                         <span class="date">March 17, 2021</span>
@@ -45,7 +45,7 @@
                                     <div class="single-blog-post">
                                         <div class="image">
                                             <NuxtLink to="/blog-details" class="d-block">
-                                                <img src="../../assets/images/blog/blog2.jpg" alt="blog">
+                                                <!-- <img src="../../assets/images/blog/blog2.jpg" alt="blog"> -->
                                             </NuxtLink>
                                             <NuxtLink to="/blog-grid" class="tag">Branding</NuxtLink>
                                         </div>
@@ -62,7 +62,7 @@
                                     <div class="single-blog-post">
                                         <div class="image">
                                             <NuxtLink to="/blog-details" class="d-block">
-                                                <img src="../../assets/images/blog/blog3.jpg" alt="blog">
+                                                <!-- <img src="../../assets/images/blog/blog3.jpg" alt="blog"> -->
                                             </NuxtLink>
                                             <NuxtLink to="/blog-grid" class="tag">Agency</NuxtLink>
                                         </div>
@@ -84,7 +84,7 @@
                                     <div class="comment-body">
                                         <footer class="comment-meta">
                                             <div class="comment-author vcard">
-                                                <img src="../../assets/images/user/user1.jpg" class="avatar" alt="user">
+                                                <!-- <img src="../../assets/images/user/user1.jpg" class="avatar" alt="user"> -->
                                                 <b class="fn">John Jones</b>
                                             </div>
                                             <div class="comment-metadata">
@@ -103,7 +103,7 @@
                                             <div class="comment-body">
                                                 <footer class="comment-meta">
                                                     <div class="comment-author vcard">
-                                                        <img src="../../assets/images/user/user2.jpg" class="avatar" alt="user">
+                                                        <!-- <img src="../../assets/images/user/user2.jpg" class="avatar" alt="user"> -->
                                                         <b class="fn">Steven Smith</b>
                                                     </div>
                                                     <div class="comment-metadata">
@@ -124,7 +124,7 @@
                                                     <div class="comment-body">
                                                         <footer class="comment-meta">
                                                             <div class="comment-author vcard">
-                                                                <img src="../../assets/images/user/user3.jpg" class="avatar" alt="user">
+                                                                <!-- <img src="../../assets/images/user/user3.jpg" class="avatar" alt="user"> -->
                                                                 <b class="fn">Sarah Taylor</b>
                                                             </div>
                                                             <div class="comment-metadata">
@@ -147,7 +147,7 @@
                                     <div class="comment-body">
                                         <footer class="comment-meta">
                                             <div class="comment-author vcard">
-                                                <img src="../../assets/images/user/user4.jpg" class="avatar" alt="user">
+                                                <!-- <img src="../../assets/images/user/user4.jpg" class="avatar" alt="user"> -->
                                                 <b class="fn">John Doe</b>
                                             </div>
                                             <div class="comment-metadata">
@@ -166,7 +166,7 @@
                                             <div class="comment-body">
                                                 <footer class="comment-meta">
                                                     <div class="comment-author vcard">
-                                                        <img src="../../assets/images/user/user1.jpg" class="avatar" alt="user">
+                                                        <!-- <img src="../../assets/images/user/user1.jpg" class="avatar" alt="user"> -->
                                                         <b class="fn">James Anderson</b>
                                                     </div>
                                                     <div class="comment-metadata">
