@@ -143,15 +143,18 @@
 </template>
 
 <script>
+import axios from 'axios'
 export default {
     name: 'HomeBanner',
-    data(){
-        return{
-            banner: null
+    data (){
+        return {
+            banner: null,
         }
     },
     created: async function (){
-        this.banner = await this.$strapi.find('bannerdefaulthomepage')
-    }
+        const response = await axios.get('http://localhost:1337/api/bannerhomefive?populate=*')
+        const { data: {attributes} } = response.data
+        this.banner = attributes
+    },
 }
 </script>

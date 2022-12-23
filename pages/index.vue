@@ -8,14 +8,14 @@
             <WhatWeDo />
             <WhyChooseUs />
             <Funfacts />
-            <OurExpertise />
+            <!-- <OurExpertise /> -->
             <RelyToCompete />
             <HomeForm />
             <Videos />
-            <OurClients />
+            <!-- <OurClients /> -->
         </div>
-            <WhatsOurClients />
-            <OurLatestBlog />
+            <!-- <WhatsOurClients />-->
+            <OurLatestBlog /> 
             <FooterStyleOne />
     </div>
 </template>

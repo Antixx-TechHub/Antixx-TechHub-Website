@@ -1,17 +1,37 @@
 <template>
-    <div class="blog-area ptb-100">
+    <div class="blog-area pt-100 pb-75">
         <div class="container">
-            <div class="row">
-                <BlogCard v-if="posts !== []" :blogPost="posts" />
-
-                <div class="col-lg-12 col-md-12">
-                    <div class="pagination-area">
-                        <a href="#" class="prev page-numbers"><i class='bx bxs-arrow-to-left'></i></a>
-                        <span class="page-numbers current" aria-current="page">1</span>
-                        <a href="#" class="page-numbers">2</a>
-                        <a href="#" class="page-numbers">3</a>
-                        <a href="#" class="page-numbers">4</a>
-                        <a href="#" class="next page-numbers"><i class='bx bxs-arrow-to-right'></i></a>
+            <div class="section-title">
+                <span class="sub-title">BLOG POST</span>
+                <h2>Latest Article From Our Blog</h2>
+            </div>
+            <div 
+                class="row justify-content-center"
+                v-if="blogs !== []"
+            >
+                <div 
+                    class="col-lg-4 col-md-6"
+                    v-for="blog in blogs.slice(0, 50)"
+                    :key="blog.id"
+                >
+                    <div class="single-blog-post">
+                        <div class="image">
+                            <NuxtLink :to="'/blog-details/' + blog.attributes.slug" class="d-block">
+                                <img :src="blog.attributes.image.data.attributes.url" alt="blog">
+                            </NuxtLink>
+                            <NuxtLink to="/blog-grid" class="tag">{{blog.attributes.tag}}</NuxtLink>
+                        </div>
+                        <div class="content">
+                            <ul class="meta">
+                                <li><i class="ri-time-line"></i> {{blog.attributes.date}}</li>
+                                <!-- <li><i class="ri-message-2-line"></i> <NuxtLink to="/blog-details">(0) Comment</NuxtLink></li> -->
+                            </ul>
+                            <h3>
+                                <NuxtLink :to="'/blog-details/' + blog.attributes.slug">
+                                    {{blog.attributes.title}}
+                                </NuxtLink>
+                            </h3>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -20,20 +40,18 @@
 </template>
 
 <script>
-import BlogCard from '../Common/BlogCard'
+import axios from 'axios'
 
 export default {
     name: 'Blog',
-    components: {
-        BlogCard
-    },
-    data() {
+    data (){
         return {
-            posts: []
+            blogs: []
         }
     },
-    created: async function () {
-        this.posts = await this.$strapi.find('blog-cards')
-    }
+    created: async function (){
+        const response = await axios.get('http://localhost:1337/api/blogs?populate=*')
+        this.blogs = response.data.data
+    },
 }
 </script>

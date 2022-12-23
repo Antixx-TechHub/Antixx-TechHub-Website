@@ -5,7 +5,7 @@
                 <div class="col-lg-8 col-md-12">
                     <div class="blog-details-desc">
                         <div class="article-image">
-                            <img :src="details[0].img.url" alt="image">
+                            <img :src="details[0].attributes.image?.data?.attributes?.url" alt="image">
                         </div>
 
                         <div class="article-content">
@@ -13,25 +13,25 @@
                                 <ul>
                                     <li>
                                         <i class='bx bx-time'></i> 
-                                        <a href="#">{{details[0].date}}</a>
+                                        <a href="#">{{details[0].attributes.date}}</a>
                                     </li>
                                     <li>
                                         <i class='bx bx-user'></i> 
-                                        <a href="#">{{details[0].name}}</a>
+                                        <a href="#">{{details[0].attributes.name}}</a>
                                     </li>
                                 </ul>
                             </div>
 
-                            <h3>{{details[0].title}}</h3>
+                            <h3>{{details[0].attributes.title}}</h3>
 
-                            <span v-html="details[0].longDesc"></span>
+                            <span v-html="details[0].attributes.longDesc"></span>
                         </div>
 
                         <div class="article-footer">
                             <div class="article-tags">
                                 <a 
                                     href="#"
-                                    v-for="tag in details[0].tags"
+                                    v-for="tag in details[0].attributes.tags"
                                     :key="tag.id"
                                 >
                                     {{tag.tag}}
