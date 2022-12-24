@@ -12,18 +12,19 @@
                     :loop = true
                     :paginationEnabled = false
                     :perPageCustom = "[[0, 1], [768, 1], [1024, 3], [1200,3]]"
-                    v-if="feedbacks !== []"
+                    v-if="feedbacks !== null"
                 >
-                    <slide v-for="feedback in feedbacks" :key="feedback.id" >
+                    <slide v-for="slide in feedbacks.singleFeedbacks" 
+                        :key="slide.id" >
                         <div class="is-testimonials-card">
-                            <p>{{ feedback.shortDesc }}</p>
+                            <p>{{ slide.desc }}</p>
 
                             <div class="client-info d-flex align-items-center">
-                                <img :src="feedback.img.url" alt="image">
+                                <img :src="slide.image.data.attributes.url" alt="image">
 
                                 <div class="title">
-                                    <h3>{{ feedback.name }}</h3>
-                                    <span>{{ feedback.position }}</span>
+                                    <h3>{{ slide.name }}</h3>
+                                    <span>{{ slide.position }}</span>
                                 </div>
                             </div>
                         </div>
@@ -35,16 +36,22 @@
 </template>
 
 <script>
+
+import axios from 'axios'
+
 export default {
     name: 'WhatsOurClients',
-    data() {
-        return {
-            feedbacks: []
-        }
+    data: () => ({
+        settings: {
+            itemsToShow: 1,
+            snapAlign: 'center',
+        },
+        feedbacks: null,
+    }),
+    created: async function (){
+        const response = await axios.get('http://localhost:1337/api/customerreview?populate=singleFeedbacks.image')
+        const { data: {attributes} } = response.data
+        this.feedbacks = attributes
     },
-
-    created: async function () {
-        this.feedbacks = await this.$strapi.find('feedbackcards')
-    }
 }
 </script>

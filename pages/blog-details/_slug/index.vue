@@ -3,7 +3,7 @@
         <NavbarStyleTwo />
         <PageTitle 
             v-if="details !== null"
-            :pageTitle="details[0].title" 
+            :pageTitle="details[0].attributes.title" 
             pageDesc="News and Insights" 
         />
         <div v-if="details !== null">
@@ -40,9 +40,9 @@ export default {
     },
 
     created: async function (){
-        const { slug } = this.$route.params;
-        const response = await axios.get(`http://localhost:1337/api/blogs?slug=${slug}&populate=*`)
-        this.details = response.data.data;
-    },
+        const { slug } = this.$route.params
+        const reaponse = await axios.get(`http://localhost:1337/api/blogs?filters[slug][$eq]=${slug}&populate=*`, { params: { slug }})
+        this.details = reaponse.data.data
+    }
 };
 </script>

@@ -10,20 +10,12 @@
 
                 <div class="col-lg-9 col-md-12">
                     <div class="partner-slides owl-carousel owl-theme">
-                        <carousel
-                            :autoplay = "true"
-                            :loop = "true"
-                            :paginationEnabled = "false"
-                            :perPageCustom = "[[0, 2], [576, 3], [768, 3], [1200, 4]]"
-                            v-if="partners !== []"
-                        >
-                            <slide
-                                v-for="partner in partners"
-                                :key="partner.id"
-                            >
+                        <carousel :autoplay="true" :loop="true" :paginationEnabled="false"
+                            :perPageCustom="[[0, 2], [576, 3], [768, 3], [1200, 4]]" v-if="partners !== null">
+                            <slide v-for="slide in partners.partnerSlides" :key="slide.id">
                                 <div class="single-partner-item">
                                     <a href="#">
-                                        <img :src="partner.img.url" alt="image">
+                                        <img :src="slide.image.data.attributes.url" alt="image">
                                     </a>
                                 </div>
                             </slide>
@@ -36,15 +28,22 @@
 </template>
 
 <script>
+
+import axios from 'axios'
+
 export default {
     name: 'OurClients',
-    data(){
-        return{
-            partners: []
-        }
+    data: () => ({
+        settings: {
+            itemsToShow: 1,
+            snapAlign: 'center',
+        },
+        partners: null,
+    }),
+    created: async function () {
+        const response = await axios.get('http://localhost:1337/api/partner?populate=partnerSlides.image')
+        const { data: { attributes } } = response.data
+        this.partners = attributes
     },
-    created: async function(){
-        this.partners = await this.$strapi.find('partnercards')
-    }
 }
 </script>
