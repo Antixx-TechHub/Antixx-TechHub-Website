@@ -2,7 +2,7 @@
     <div class="service-details ptb-100">
         <div class="container">
             <div class="service-details-image">
-                <img src="~/assets/img/services-image/single-service.jpg" alt="image">
+                <img src="~/assets/img/privacy-policy/privacy-policy.jpg" alt="image">
             </div>
 
             <div class="service-details-content">

@@ -3,12 +3,6 @@
         <div class="container">
             <div class="row justify-content-center align-items-center">
                 <div class="col-lg-6 col-md-12">
-                    <div class="is-expertise-image">
-                        <img src="~/assets/img/it-solution/expertise.png" alt="image">
-                    </div>
-                </div>
-
-                <div class="col-lg-6 col-md-12">
                     <div class="is-expertise-content">
                         <span class="sub-title"></span>
                         <h3>About Us</h3>
@@ -24,19 +18,25 @@
                             enterprises active in eCommerce, manufacturing, trading, healthcare, education,
                             service-support, etc..</p>
                         <div class="row justify-content-center">
-                            <div class="col-lg-6 col-sm-6">
+                            <div class="col-lg-12 col-sm-6">
                                 <div class="expertise-funfacts">
-                                    <h2>1500 +</h2>
-                                    <p>Projects Launched</p>
+                                    <h4>Mission</h4>
+                                    <p>To provide affordable IT solutions and IT services management support to help businesses perform in the global competitive marketing with sustainable growth rate while ensuring 100% satisfaction to every client.</p>
                                 </div>
                             </div>
-                            <div class="col-lg-6 col-sm-6">
+                            <div class="col-lg-12 col-sm-6">
                                 <div class="expertise-funfacts bg-DEEEFA">
-                                    <h2>18 +</h2>
-                                    <p>Years of Experience</p>
+                                    <h4>Vision</h4>
+                                    <p>Single IT service vendor for multiple business solutions and IT support is beneficial for businesses for cost saving and management ease.</p>
                                 </div>
                             </div>
                         </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-6 col-md-12">
+                    <div class="is-expertise-image">
+                        <img src="~/assets/img/about-us/about-us.jpg" alt="image">
                     </div>
                 </div>
             </div>

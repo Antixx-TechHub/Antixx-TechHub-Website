@@ -48,18 +48,12 @@
                                 </div>
                             </div>
                         </div>
-
-                        <NuxtLink to="/single-service" class="default-btn">
-                            <i class="bx bxs-spreadsheet"></i> 
-                            Learn More 
-                            <span></span>
-                        </NuxtLink>
                     </div>
                 </div>
 
                 <div class="services-image">
                     <div class="image">
-                        <img src="~/assets/img/services-image/service5.png" alt="image">
+                        <img src="~/assets/img/about-us/success-rate.jpg" alt="image">
                     </div>
                 </div>
             </div>

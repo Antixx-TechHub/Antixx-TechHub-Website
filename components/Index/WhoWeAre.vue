@@ -35,7 +35,7 @@
                         </div>
                         <div class="about-btn">
                             <NuxtLink to="/about-us" class="default-btn">
-                                <i class="bx bxs-hot"></i>Learn More<span></span>
+                                <i class="bx bxs-hot"></i>Know More<span></span>
                             </NuxtLink>
                         </div>
                     </div>

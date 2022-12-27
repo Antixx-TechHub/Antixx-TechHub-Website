@@ -4,13 +4,13 @@
             <div class="row align-items-center justify-content-center">
                 <div class="col-lg-6 col-md-12">
                     <div class="is-team-content">
-                        <span>Our Team</span>
+                        <span><h5>Our Team</h5></span>
                         <h3>Meet Our Leadership Preparing For Your Success</h3>
                         <p>Donec rutrum congue leo eget malesuada. nulla quis lorem ut libero malesuada feugiat. nulla porttitor accumsan tincidunt. vivamus magna justo lacinia eget consectetur sed convallis at tellus. vivamus suscipit tortor eget felis porttitor volutpat.</p>
 
-                        <div class="team-btn">
+                        <!-- <div class="team-btn">
                             <NuxtLink to="/team" class="default-btn">Meet All Members <span></span></NuxtLink>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
 

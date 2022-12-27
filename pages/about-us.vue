@@ -4,7 +4,7 @@
         <PageTitle pageTitle="About Us" pageDesc="" />
         <AboutUs />
         <EthicalValues />
-        <VisionMission />
+        <!-- <VisionMission /> -->
         <OrganizationalCulture />
         <OurServices />
         <DespiteMaintaining />

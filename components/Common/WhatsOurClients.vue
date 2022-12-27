@@ -1,5 +1,5 @@
 <template>
-    <div class="is-testimonials-area ptb-100">
+    <div class="is-testimonials-area pb-70">
         <div class="container">
             <div class="section-title-with-large-box">
                 <span>Testimonials</span>

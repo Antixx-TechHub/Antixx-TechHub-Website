@@ -32,12 +32,12 @@
             </div>
         </div>
 
-        <div class="me-about-shape1">
+        <!-- <div class="me-about-shape1">
             <img src="~/assets/img/marketing-experts/about/shape1.png" alt="image">
         </div>
         <div class="me-about-shape2">
             <img src="~/assets/img/marketing-experts/about/shape2.png" alt="image">
-        </div>
+        </div> -->
     </div>
 </template>
 

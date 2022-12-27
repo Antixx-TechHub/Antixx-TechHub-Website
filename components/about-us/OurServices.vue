@@ -10,8 +10,8 @@
             <div class="about-inner-area">
                 <div class="row">
                     <div class="col-lg-5 col-md-12">
-                        <div class="about-inner-image">
-                            <img src="~/assets/img/marketing-agency/about-image.jpg" alt="image">
+                        <div class="about-inis-about-image">
+                            <img src="~/assets/img/about-us/our-services.jpg" alt="image">
                         </div>
                     </div>
 
