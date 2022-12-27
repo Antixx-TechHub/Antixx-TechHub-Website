@@ -62,7 +62,7 @@
 
                 <div class="services-image">
                     <div class="image">
-                        <img src="~/assets/img/services-image/1.png" alt="image">
+                        <img src="~/assets/img/branding/branding-specialist-agency.jpg" alt="image">
                     </div>
                 </div>
             </div>
