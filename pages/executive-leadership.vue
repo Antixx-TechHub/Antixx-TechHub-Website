@@ -6,7 +6,7 @@
             pageDesc="Meet Our experts always ready to help you" 
         />
         <leadership />
-        <Team />
+        <!-- <Team /> -->
         <OurLovingClients />
         <BestSupport />
         <FreeTrial />
