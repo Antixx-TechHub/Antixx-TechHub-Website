@@ -47,7 +47,7 @@
 
                 <div class="services-image">
                     <div class="image">
-                        <img src="~/assets/img/services-image/1.png" alt="image">
+                        <img src="~/assets/img/graphics-design/why-hire-antixx-techhub.jpg" alt="image">
                     </div>
                 </div>
             </div>

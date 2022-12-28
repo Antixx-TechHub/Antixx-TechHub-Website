@@ -7,7 +7,7 @@
                 <div class="row">
                     <div class="col-lg-6 col-md-12">
                         <div class="about-inner-image">
-                            <img src="~/assets/img/marketing-agency/about-image.jpg" alt="image">
+                            <img src="~/assets/img/graphics-design/graphics-our-approach.jpg" alt="image">
                         </div>
                     </div>
 
