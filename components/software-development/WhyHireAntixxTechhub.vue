@@ -9,8 +9,8 @@
             <div class="about-inner-area">
                 <div class="row">
                     <div class="col-lg-6 col-md-12">
-                        <div class="about-inner-image">
-                            <img src="~/assets/img/marketing-agency/about-image.jpg" alt="image">
+                        <div class="about-inner-image-why-hire-software">
+                            <img src="~/assets/img/software-development/software-app-solution-development.jpg" alt="image">
                         </div>
                     </div>
 

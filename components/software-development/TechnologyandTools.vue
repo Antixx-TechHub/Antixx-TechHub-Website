@@ -12,7 +12,7 @@
                 <b-tabs pills card vertical>
                     <b-tab title="Languages" active>
                         <div class="is-case-studies-image">
-                            <img src="~/assets/img/it-solution/case-studies/case-studies1.jpg" alt="image">
+                            <img src="~/assets/img/software-development/languages.jpg" alt="image">
 
                             <div class="content">
                                 <p>C#; C/C++; Objective C; Python; Groovy; Swift; Kotlin; PHP; Rust; Scala…</p>
@@ -21,7 +21,7 @@
                     </b-tab>
                     <b-tab title="Frameworks">
                         <div class="is-case-studies-image">
-                            <img src="~/assets/img/it-solution/case-studies/case-studies2.jpg" alt="image">
+                            <img src="~/assets/img/software-development/frameworks.jpg" alt="image">
 
                             <div class="content">
                                 <p>JDBC / JPA; JMS; Hibernate; .NET; EJB; Apache Camel; Nodejs; Firebase; LDAP / Active Directory; Reactive…</p>
@@ -30,7 +30,7 @@
                     </b-tab>
                     <b-tab title="Database Management Software Development">
                         <div class="is-case-studies-image">
-                            <img src="~/assets/img/it-solution/case-studies/case-studies3.jpg" alt="image">
+                            <img src="~/assets/img/software-development/database-management.jpg" alt="image">
 
                             <div class="content">
                                 <p>MySQL; Oracle SQL; PostgreSQL; Microsoft SQL…</p>
@@ -39,7 +39,7 @@
                     </b-tab>
                     <b-tab title="Cloud Solutions">
                         <div class="is-case-studies-image">
-                            <img src="~/assets/img/it-solution/case-studies/case-studies4.jpg" alt="image">
+                            <img src="~/assets/img/software-development/cloud-solutions.jpg" alt="image">
 
                             <div class="content">
                                 <p>Amazon Web Services (AWS); Google Cloud; Oracle Cloud; IBM Cloud; Microsoft Azure…</p>
@@ -48,7 +48,7 @@
                     </b-tab>
                     <b-tab title="Web App Solutions">
                         <div class="is-case-studies-image">
-                            <img src="~/assets/img/it-solution/case-studies/case-studies5.jpg" alt="image">
+                            <img src="~/assets/img/software-development/web-app-solutions.jpg" alt="image">
 
                             <div class="content">
                                 <p>Vue; Sass; Coffee; Angular; WebGL…</p>
@@ -57,7 +57,7 @@
                     </b-tab>
                     <b-tab title="Mobile app solutions development">
                         <div class="is-case-studies-image">
-                            <img src="~/assets/img/it-solution/case-studies/case-studies1.jpg" alt="image">
+                            <img src="~/assets/img/software-development/mobile-app-solutions-development.jpg" alt="image">
 
                             <div class="content">
                                 <p>HTML5; React; Xamarin; JavaScript…</p>

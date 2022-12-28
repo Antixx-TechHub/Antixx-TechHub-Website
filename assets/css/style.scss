@@ -2118,6 +2118,23 @@ About Area CSS
     }
 }
 
+.about-inner-image-why-hire-software {
+    height: 100%;
+
+    background: {
+        image: url(../img/software-development/software-app-solution-development.jpg);
+        position: center center;
+        size: cover;
+        repeat: no-repeat;
+    }
+
+    ;
+
+    img {
+        display: none;
+    }
+}
+
 .about-inner-content {
     background-color: #f4e9da;
     padding: 100px;
