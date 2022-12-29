@@ -49,7 +49,7 @@
 
                 <div class="services-image">
                     <div class="image">
-                        <img src="~/assets/img/services-image/1.png" alt="image">
+                        <img src="~/assets/img/website-design/why-choose-website-development.jpg" alt="image">
                     </div>
                 </div>
             </div>

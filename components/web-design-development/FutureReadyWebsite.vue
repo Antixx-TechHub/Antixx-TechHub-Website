@@ -16,7 +16,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-6">
                         <div class="overview-left-img">
-                            <img src="~/assets/img/home-saas/feature2.png" alt="image">
+                            <img src="~/assets/img/website-design/website-design-services.png" alt="image">
                         </div>
                     </div>
 
@@ -125,7 +125,7 @@
 
                     <div class="col-lg-6 col-md-6">
                         <div class="overview-right-img">
-                            <img src="~/assets/img/home-saas/feature3.png" alt="image">
+                            <img src="~/assets/img/website-design/voice-search-optimization.png" alt="image">
                         </div>
                     </div>
                 </div>
@@ -137,7 +137,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-6 col-md-6">
                         <div class="overview-left-img">
-                            <img src="~/assets/img/home-saas/feature4.png" alt="image">
+                            <img src="~/assets/img/website-design/website-design-development.png" alt="image">
                         </div>
                     </div>
 
