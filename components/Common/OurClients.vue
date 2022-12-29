@@ -41,7 +41,7 @@ export default {
         partners: null,
     }),
     created: async function () {
-        const response = await axios.get('http://localhost:1337/api/partner?populate=partnerSlides.image')
+        const response = await axios.get('https://strapi.antixxtechhub.com/api/partner?populate=partnerSlides.image')
         const { data: { attributes } } = response.data
         this.partners = attributes
     },

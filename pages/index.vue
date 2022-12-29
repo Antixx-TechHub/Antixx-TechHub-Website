@@ -40,19 +40,19 @@ import FooterStyleOne from '../layouts/FooterStyleOne';
 export default {
     components: {
         Navbar,
-        HomeBanner,
+        // HomeBanner,
         MainServices,
         WhoWeAre,
         WhatWeDo,
         WhyChooseUs,
         Funfacts,
-        OurExpertise,
+        // OurExpertise,
         RelyToCompete,
         HomeForm,
-        Videos,
+        // Videos,
         OurClients,
-        WhatsOurClients,
-        OurLatestBlog,
+        // WhatsOurClients,
+        // OurLatestBlog,
         FooterStyleOne,
     }
 };
