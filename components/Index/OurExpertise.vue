@@ -125,7 +125,7 @@ export default {
         }
     },
     created: async function (){
-        const response = await axios.get('http://localhost:1337/api/bannerhomefive?populate=*')
+        const response = await axios.get('https://strapi.antixxtechhub.com/api/bannerhomefive?populate=*')
         const { data: {attributes} } = response.data
         this.banner = attributes
     },

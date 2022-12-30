@@ -56,8 +56,8 @@ export default {
     ],
     
     strapi: {
-        // url: 'http://localhost:1337/',
-        url: 'https://strapi.antixxtechhub.com/',
+        // url: 'http://localhost:1337/api',
+        url: 'https://strapi.antixxtechhub.com/api/',
         entities: [
             // { name: 'sitelogo', type: 'single' },
             // { name: 'bannerdefaulthomepage', type: 'single' },
@@ -76,7 +76,7 @@ export default {
             // { name: 'BlogCard', type: 'single' },
             // { name: 'footer', type: 'single' },
             // { name: 'takeyourbusiness', type: 'single' },
-            // { name: 'trustedby', type: 'collection' },
+            // { name: 'partner', type: 'collection' },
             // { name: 'downloadapp', type: 'single' },
             // { name: 'freetrial', type: 'single' },
             // { name: 'featurespages', type: 'collection' },
