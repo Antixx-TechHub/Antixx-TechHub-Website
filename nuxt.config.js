@@ -50,41 +50,41 @@ export default {
     ],
 
     // Modules: https://go.nuxtjs.dev/config-modules
-    // modules: [
-    //     // https://strapi.nuxtjs.org/setup
-    //     '@nuxtjs/strapi'
-    // ],
+    modules: [
+        // https://strapi.nuxtjs.org/setup
+        '@nuxtjs/strapi'
+    ],
     
-    // strapi: {
-    //     // url: 'http://localhost:1337/api',
-    //     url: 'https://strapi.antixxtechhub.com/api/',
-    //     entities: [
-    //         // { name: 'sitelogo', type: 'single' },
-    //         // { name: 'bannerdefaulthomepage', type: 'single' },
-    //         // { name: 'featurescards', type: 'collection' },
-    //         // { name: 'mobiledevelopment', type: 'single' },
-    //         // { name: 'hostingservices', type: 'single' },
-    //         // { name: 'whychooseus', type: 'single' },
-    //         // { name: 'funfactscards', type: 'collection' },
-    //         // { name: 'amazingfeaturescards', type: 'collection' },
-    //         // { name: 'feedbackcards', type: 'collection' },
-    //         // { name: 'pricingtabs', type: 'collection' },
-    //         // { name: 'teamcards', type: 'collection' },
-    //         // { name: 'lovingclientscards', type: 'collection' },
-    //         // { name: 'faq', type: 'single' },
-    //         // { name: 'bestsupport', type: 'single' },
-    //         // { name: 'BlogCard', type: 'single' },
-    //         // { name: 'footer', type: 'single' },
-    //         // { name: 'takeyourbusiness', type: 'single' },
-    //         // { name: 'partner', type: 'collection' },
-    //         // { name: 'downloadapp', type: 'single' },
-    //         // { name: 'freetrial', type: 'single' },
-    //         // { name: 'featurespages', type: 'collection' },
-    //         // { name: 'servicedetails', type: 'collection' },
-    //         // { name: 'servicescards', type: 'collection' },
-    //         // { name: 'blogdetails', type: 'collection' },
-    //     ]
-    // },
+    strapi: {
+        // url: 'http://localhost:1337/api',
+        url: 'https://strapi.antixxtechhub.com/api/',
+        entities: [
+            { name: 'sitelogo', type: 'single' },
+            { name: 'bannerdefaulthomepage', type: 'single' },
+            { name: 'featurescards', type: 'collection' },
+            { name: 'mobiledevelopment', type: 'single' },
+            { name: 'hostingservices', type: 'single' },
+            { name: 'whychooseus', type: 'single' },
+            { name: 'funfactscards', type: 'collection' },
+            { name: 'amazingfeaturescards', type: 'collection' },
+            { name: 'feedbackcards', type: 'collection' },
+            { name: 'pricingtabs', type: 'collection' },
+            { name: 'teamcards', type: 'collection' },
+            { name: 'lovingclientscards', type: 'collection' },
+            { name: 'faq', type: 'single' },
+            { name: 'bestsupport', type: 'single' },
+            { name: 'BlogCard', type: 'single' },
+            { name: 'footer', type: 'single' },
+            { name: 'takeyourbusiness', type: 'single' },
+            { name: 'partner', type: 'collection' },
+            { name: 'downloadapp', type: 'single' },
+            { name: 'freetrial', type: 'single' },
+            { name: 'featurespages', type: 'collection' },
+            { name: 'servicedetails', type: 'collection' },
+            { name: 'servicescards', type: 'collection' },
+            { name: 'blogdetails', type: 'collection' },
+        ]
+    },
 
     // // Build Configuration: https://go.nuxtjs.dev/config-build
     // build: {
