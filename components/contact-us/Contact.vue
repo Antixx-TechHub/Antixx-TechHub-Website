@@ -83,6 +83,6 @@
 
 <script>
 export default {
-    name: 'contact'
+    name: 'contact-us'
 }
 </script>
