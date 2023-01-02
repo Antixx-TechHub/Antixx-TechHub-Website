@@ -5,7 +5,7 @@
                 <div class="col-lg-8 col-md-12">
                     <div class="blog-details-desc">
                         <div class="article-image">
-                            <img :src="[details[0]].attributes.image?.data?.attributes?.url" alt="image">
+                            <img :src="details[0].attributes.image.data.attributes.url" alt="image">
                         </div>
 
                         <div class="article-content">
