@@ -8,7 +8,8 @@ export default {
         meta: [
             { charset: 'utf-8' },
             { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-            { hid: 'description', name: 'description', content: '' }
+            { hid: 'description', name: 'description', content: 'Antixx TechHub is the best company to get the best IT services and support for App, website, SEO, ITSM, Cloud Solutions, digital marketing, etc. at a least price.' },
+            { hid: 'keywords', name: 'keywords', content: 'Best IT services, IT Service Provider, App Developers, Mobile App Development, ITSM experts, cloud managed service providers, Cloud Support Services, Managed IT service provider, ML services provider company, data service management, data analytic solutions, Cloud Solutions, Security Integration, Web Designing Service, web design and development services, ITSM Agency, Hire digital marketing experts, Hire Android and iOS app developers, Hire Blockchain developers, Blockchain network consulting, local SEO, SEO experts, Hire digital marketers, Hire UX / UI designers' }
         ],
         link: [
             { rel: 'icon', type: 'image/x-icon', href: '/favicon.png' },
@@ -54,7 +55,7 @@ export default {
         // https://strapi.nuxtjs.org/setup
         '@nuxtjs/strapi'
     ],
-    
+
     strapi: {
         // url: 'http://localhost:1337/api',
         url: 'https://strapi.antixxtechhub.com/api/',
@@ -93,9 +94,9 @@ export default {
     build: {
         postcss: null,
         loaders: {
-          vue: {
-            prettify: false
-          }
-         }
-       }
+            vue: {
+                prettify: false
+            }
+        }
+    }
 }

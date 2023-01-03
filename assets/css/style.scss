@@ -6172,38 +6172,77 @@ blockquote,
 /*================================================
 Page Title Area CSS
 =================================================*/
+
+
 .page-title-area {
-    background-color: $optional-color;
-    position: relative;
     z-index: 1;
+    position: relative;
+    background: linear-gradient(50.48deg, #ED2775 -2.06%, #FF7448 93.55%);
 
     padding: {
-        top: 130px;
-        bottom: 120px;
+        bottom: 100px;
+        top: 220px;
     }
 
     ;
 
     &::before {
-        content: '';
-        position: absolute;
-        top: 0;
-        right: 0;
-        bottom: 0;
         left: 0;
-        opacity: .6;
-        height: 100%;
+        right: 0;
+        top: 82px;
+        height: 1px;
+        content: '';
         z-index: -1;
-        animation: animatedBackground 15s linear infinite;
+        opacity: .2;
+        position: absolute;
+        background-color: var(--whiteColor);
+    }
 
-        background: {
-            image: url(../img/bg_lines.svg);
-            repeat: repeat;
-            position: center center;
-            size: cover;
+    &.page-title-style-two {
+        background: #eef5fc;
+
+        &::before {
+            background-color: var(--blackColor);
+            opacity: .04;
         }
 
-        ;
+        .page-title-content {
+            h2 {
+                color: var(--blackColor);
+            }
+
+            ul {
+                li {
+                    color: var(--blackColor);
+
+                    a {
+                        color: var(--mainColor);
+
+                        &:hover {
+                            color: var(--blackColor);
+                        }
+                    }
+
+                    &::before {
+                        background-color: var(--blackColor);
+                        opacity: .3;
+                    }
+                }
+            }
+        }
+    }
+
+    &.bg-color {
+        padding-bottom: 90px;
+        background: linear-gradient(76.8deg, #2BA6AC 0%, #36CE83 53.03%, #42E695 100%);
+
+        &::before {
+            display: none;
+        }
+
+        .divider {
+            display: none;
+        }
     }
 }
 
@@ -6211,28 +6250,223 @@ Page Title Area CSS
     text-align: center;
 
     h2 {
-        color: $white-color;
+        color: var(--whiteColor);
         margin-bottom: 0;
-
-        font: {
-            size: 40px;
-            weight: 600;
-        }
-
-        ;
+        font-size: 40px;
     }
 
-    p {
-        color: $white-color;
+    ul {
+        padding-left: 0;
+        list-style-type: none;
 
         margin: {
-            top: 15px;
             bottom: 0;
+            top: 15px;
         }
 
         ;
+
+        li {
+            color: var(--whiteColor);
+            display: inline-block;
+            position: relative;
+            font-size: 16px;
+            opacity: .9;
+
+            margin: {
+                left: 15px;
+                right: 15px;
+            }
+
+            ;
+
+            &:last-child {
+                margin-right: 0;
+
+                &::before {
+                    display: none;
+                }
+            }
+
+            &:first-child {
+                margin-left: 0;
+            }
+
+            a {
+                color: var(--whiteColor);
+            }
+
+            &::before {
+                margin-top: 1px;
+                top: 50%;
+                transform: translateY(-50%);
+                right: -20px;
+                content: '';
+                position: absolute;
+                width: 5px;
+                height: 5px;
+                background-color: var(--whiteColor);
+                border-radius: 50%;
+            }
+        }
     }
 }
+
+.lines {
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    z-index: -1;
+    height: 100%;
+    margin: auto;
+    position: absolute;
+
+    .line {
+        top: 0;
+        left: 50%;
+        width: 1px;
+        height: 100%;
+        overflow: hidden;
+        position: absolute;
+        background: rgba(255, 255, 255, 0.1);
+
+        &::after {
+            left: 0;
+            top: -50%;
+            width: 100%;
+            content: "";
+            height: 15vh;
+            display: block;
+            position: absolute;
+            animation: run 7s 0s infinite;
+            animation-fill-mode: forwards;
+            animation-timing-function: cubic-bezier(0.4, 0.26, 0, 0.97);
+            background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, var(--whiteColor) 75%, var(--whiteColor) 100%);
+        }
+
+        &:nth-child(1) {
+            margin-left: -35%;
+
+            &::after {
+                animation-delay: 2s;
+            }
+        }
+
+        &:nth-child(3) {
+            margin-left: -17.5%;
+
+            &::after {
+                animation-delay: 2.5s;
+            }
+        }
+
+        &:nth-child(4) {
+            margin-left: 17.5%;
+
+            &::after {
+                animation-delay: 3s;
+            }
+        }
+
+        &:nth-child(5) {
+            margin-left: 35%;
+
+            &::after {
+                animation-delay: 3.5s;
+            }
+        }
+    }
+}
+
+.banner-shape1 {
+    position: absolute;
+    z-index: -1;
+    left: 0;
+    top: 0;
+}
+
+.banner-shape1 img {
+    -webkit-animation: movebounce 5s linear infinite;
+    animation: movebounce 5s linear infinite;
+}
+
+.pbdivider {
+    width: 100%;
+    height: 100px;
+    position: absolute;
+    pointer-events: none;
+    -webkit-mask-image: url("data:image/svg+xml;utf8,%3csvg viewBox='0 0 100 100' width='100%' height='100%' xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none'%3e%3cpath d='M0,0 C16.6666667,66 33.3333333,98 50,98 C66.6666667,98 83.3333333,66 100,0 L100,100 L0,100 L0,0 Z' fill='%23fff'/%3e%3c/svg%3e");
+    mask-image: url("data:image/svg+xml;utf8,%3csvg viewBox='0 0 100 100' width='100%' height='100%' xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none'%3e%3cpath d='M0,0 C16.6666667,66 33.3333333,98 50,98 C66.6666667,98 83.3333333,66 100,0 L100,100 L0,100 L0,0 Z' fill='%23fff'/%3e%3c/svg%3e");
+    background: var(--whiteColor);
+    -webkit-mask-size: 100% 101%;
+    mask-size: 100% 101%;
+    z-index: -1;
+    bottom: 0;
+    left: 0;
+}
+
+// .page-title-area {
+//     background-color: $optional-color;
+//     position: relative;
+//     z-index: 1;
+
+//     padding: {
+//         top: 130px;
+//         bottom: 120px;
+//     }
+
+//     ;
+
+//     &::before {
+//         content: '';
+//         position: absolute;
+//         top: 0;
+//         right: 0;
+//         bottom: 0;
+//         left: 0;
+//         opacity: .6;
+//         height: 100%;
+//         z-index: -1;
+//         animation: animatedBackground 15s linear infinite;
+
+//         background: {
+//             image: url(../img/bg_lines.svg);
+//             repeat: repeat;
+//             position: center center;
+//             size: cover;
+//         }
+
+//         ;
+//     }
+// }
+
+// .page-title-content {
+//     text-align: center;
+
+//     h2 {
+//         color: $white-color;
+//         margin-bottom: 0;
+
+//         font: {
+//             size: 40px;
+//             weight: 600;
+//         }
+
+//         ;
+//     }
+
+//     p {
+//         color: $white-color;
+
+//         margin: {
+//             top: 15px;
+//             bottom: 0;
+//         }
+
+//         ;
+//     }
+// }
 
 @keyframes animatedBackground {
     0% {
@@ -12485,6 +12719,7 @@ Footer Area CSS
         animation-timing-function: linear;
     }
 }
+
 .navbar-area {
 
     .navbar {
@@ -12576,7 +12811,7 @@ Footer Area CSS
                                 }
                             }
                         }
-                        
+
                         .nav-item-services {
                             flex: 0 0 auto;
                             width: 25%;
@@ -12656,11 +12891,19 @@ Footer Area CSS
 //map scss
 
 .mapouter {
-    position:relative;text-align:right;width:100%;height:400px;
+    position: relative;
+    text-align: right;
+    width: 100%;
+    height: 400px;
 }
+
 .gmap_canvas {
-    overflow:hidden;background:none!important;width:100%;height:400px;
+    overflow: hidden;
+    background: none !important;
+    width: 100%;
+    height: 400px;
 }
+
 .gmap_iframe {
-    height:400px!important;
+    height: 400px !important;
 }

@@ -6,6 +6,17 @@
                 <p>{{pageDesc}}</p>
             </div>
         </div>
+        <div class="pbdivider"></div>
+        <div class="lines">
+            <div class="line"></div>
+            <div class="line"></div>
+            <div class="line"></div>
+            <div class="line"></div>
+            <div class="line"></div>
+        </div>
+        <div class="banner-shape1">
+            <img src="../../assets/img/shape9.png" alt="image">
+        </div>
     </div>
 </template>
 
