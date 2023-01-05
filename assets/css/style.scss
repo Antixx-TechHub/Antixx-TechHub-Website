@@ -1015,7 +1015,7 @@ Navbar Area CSS
 
 .navbar-area {
     &.p-relative {
-        position: relative;
+        // position: relative;
 
         .antixx-nav {
             .navbar {
@@ -1031,6 +1031,7 @@ Navbar Area CSS
 
         &.is-sticky {
             position: fixed;
+            color: #000000;
         }
     }
 }

@@ -1,6 +1,6 @@
 <template>
     <div>
-        <Navbar />
+        <NavbarStyleTwo />
         <PageTitle pageTitle="About-Us" pageDesc="" />
         <AboutUs />
         <EthicalValues />
@@ -15,7 +15,7 @@
 </template>
 
 <script>
-import Navbar from '../layouts/Navbar';
+import NavbarStyleTwo from '../layouts/NavbarStyleTwo';
 import PageTitle from '../components/Common/PageTitle'
 import AboutUs from '../components/about-us/AboutUs';
 import EthicalValues from '../components/about-us/EthicalValues';
@@ -29,7 +29,7 @@ import FooterStyleOne from '../layouts/FooterStyleOne';
 
 export default {
     components: {
-        Navbar,
+        NavbarStyleTwo,
         PageTitle,
         AboutUs,
         EthicalValues,
