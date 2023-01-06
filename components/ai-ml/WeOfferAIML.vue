@@ -8,7 +8,7 @@
             <div class="row align-items-center">
                 <div class="services-image">
                     <div class="image">
-                        <img src="~/assets/img/home-saas/feature1.png" alt="image">
+                        <img src="~/assets/img/ai-ml/ai-ml-solutions.jpg" alt="image">
                     </div>
                 </div>
 
