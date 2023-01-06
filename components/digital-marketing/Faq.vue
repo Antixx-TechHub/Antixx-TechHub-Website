@@ -116,7 +116,7 @@
 
                 <div class="col-lg-5 col-md-12">
                     <div class="faq-image">
-                        <img src="~/assets/img/faq-img1.png" alt="image">
+                        <img src="~/assets/img/common-images/faqs.jpg" alt="image">
                     </div>
                 </div>
             </div>
