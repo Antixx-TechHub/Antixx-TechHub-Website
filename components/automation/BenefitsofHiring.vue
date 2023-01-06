@@ -3,8 +3,11 @@
         <div class="container">
             <div class="row justify-content-center align-items-center">
                 <div class="col-lg-6 col-md-12">
-                    <div class="me-choose-image">
-                        <img src="~/assets/img/marketing-experts/choose.png" alt="image">
+                    <div class="is-about-image">
+                        <img src="~/assets/img/automation/benefits-business-automation.jpg" alt="image">
+                        <div class="is-about-shape">
+                            <img src="~/assets/img/it-solution/about/vector.png" alt="image">
+                        </div>
                     </div>
                 </div>
 
