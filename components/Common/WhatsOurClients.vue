@@ -49,7 +49,7 @@ export default {
         feedbacks: null,
     }),
     created: async function (){
-        const response = await axios.get('https://strapi.antixxtechhub.com/api/customerreview?populate=singleFeedbacks.image')
+        const response = await axios.get('https://cms.antixxtechhub.in/api/customerreview?populate=singleFeedbacks.image')
         const { data: {attributes} } = response.data
         this.feedbacks = attributes
     },
