@@ -17,7 +17,7 @@
 
                 <div class="col-lg-6 col-md-12">
                     <div class="is-about-image">
-                        <img src="~/assets/img/it-solution/about/about.jpg" alt="image">
+                        <img src="~/assets/img/staff-augmentation/staff-augmentation.jpg" alt="image">
                         <div class="is-about-shape">
                             <img src="~/assets/img/it-solution/about/vector.png" alt="image">
                         </div>
