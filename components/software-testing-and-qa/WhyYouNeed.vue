@@ -44,7 +44,7 @@
 
                 <div class="col-lg-6 col-md-12">
                     <div class="me-choose-image">
-                        <img src="~/assets/img/marketing-experts/choose.png" alt="image">
+                        <img src="~/assets/img/software-testing-qa/software-testing-qa.jpg" alt="image">
                     </div>
                 </div>
             </div>
