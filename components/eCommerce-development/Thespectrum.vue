@@ -81,7 +81,7 @@
 
                 <div class="services-image">
                     <div class="image">
-                        <img src="~/assets/img/services-image/service1.png" alt="image">
+                        <img src="~/assets/img/eCommerce-development/spectrum-eCommerce-design.jpg" alt="image">
                     </div>
                 </div>
             </div>

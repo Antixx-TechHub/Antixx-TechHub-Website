@@ -4,7 +4,7 @@
             <div class="row align-items-center">
                 <div class="services-image">
                     <div class="image">
-                        <img src="~/assets/img/services-image/2.png" alt="image">
+                        <img src="~/assets/img/eCommerce-development/customized-ecommerce-development.png" alt="image">
                     </div>
                 </div>
 

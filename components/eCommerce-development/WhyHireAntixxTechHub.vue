@@ -4,7 +4,7 @@
             <div class="row justify-content-center align-items-center">
                 <div class="col-lg-6 col-md-12">
                     <div class="is-expertise-image">
-                        <img src="~/assets/img/it-solution/expertise.png" alt="image">
+                        <img src="~/assets/img/eCommerce-development/ecommerce-support-services.jpg" alt="image">
                     </div>
                 </div>
 
