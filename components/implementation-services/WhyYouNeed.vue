@@ -82,7 +82,7 @@
 
                 <div class="services-image">
                     <div class="image">
-                        <img src="~/assets/img/services-image/service1.png" alt="image">
+                        <img src="~/assets/img/implementation-services/cloud-implementation-solution.png" alt="image">
                     </div>
                 </div>
             </div>

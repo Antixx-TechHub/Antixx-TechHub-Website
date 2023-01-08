@@ -37,7 +37,7 @@
 
                 <div class="col-lg-6 col-md-12">
                     <div class="me-choose-image">
-                        <img src="~/assets/img/marketing-experts/choose.png" alt="image">
+                        <img src="~/assets/img/implementation-services/cloud-computing-solutions.png" alt="image">
                     </div>
                 </div>
             </div>
