@@ -4,7 +4,7 @@
             <div class="row justify-content-center align-items-center">
                 <div class="col-lg-6 col-md-12">
                     <div class="is-expertise-image">
-                        <img src="~/assets/img/it-solution/expertise.png" alt="image">
+                        <img src="~/assets/img/mobile-app-development/mobile-app-design-development.jpg" alt="image">
                     </div>
                 </div>
 
