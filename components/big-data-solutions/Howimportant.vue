@@ -35,7 +35,7 @@
                 </div>
                 <div class="services-image">
                     <div class="image">
-                        <img src="~/assets/img/services-image/1.png" alt="image">
+                        <img src="~/assets/img/big-data-solutions/usability-perspective.png" alt="image">
                     </div>
                 </div>
             </div>
