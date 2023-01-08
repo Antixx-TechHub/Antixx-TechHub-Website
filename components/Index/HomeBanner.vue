@@ -132,9 +132,9 @@
             </div>
         </div>
     
-        <div class="shape20"><img src="~/assets/img/shape/19.png" alt="image"></div>
+        <!-- <div class="shape20"><img src="~/assets/img/shape/19.png" alt="image"></div> -->
         <div class="shape21"><img src="~/assets/img/shape/20.png" alt="image"></div>
-        <div class="shape19"><img src="~/assets/img/shape/18.png" alt="image"></div>
+        <!-- <div class="shape19"><img src="~/assets/img/shape/18.png" alt="image"></div> -->
         <div class="shape22"><img src="~/assets/img/shape/21.png" alt="image"></div>
         <div class="shape23"><img src="~/assets/img/shape/22.svg" alt="image"></div>
         <div class="shape24"><img src="~/assets/img/shape/23.png" alt="image"></div>

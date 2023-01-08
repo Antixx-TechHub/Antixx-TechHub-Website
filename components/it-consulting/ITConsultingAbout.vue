@@ -6,14 +6,13 @@
                     <div class="is-about-content">
                         <span>Welcome to Antixx TechHub</span>
                         <h3>The leading IT Consulting Company in India</h3>
-                        <p>Curabitur arcu erat accumsan id imperdiet et porttitor at sem sed porttitor lectus nibh vivamus magna justo lacinia eget consectetur sed convallis at tellus.</p>
-                        <p>Donec rutrum congue leo eget malesuada nulla ut libero malesuada feugiat nulla porttitor accumsan tincidunt vivamus magna justo lacinia eget consectetur sed convallis at tellus vivamus suscipit tortor.</p>
+                        <p>We at Antixx TechHub offer customized IT consulting services to help you improve business performance by integrating the best suitable technologies driving in the multiple benefits of automation, dependable scaling, data-driven insights for pro-active decisions, fast processes, increased accuracy, enhanced customers satisfaction, robust security, etc.</p>
                     </div>
                 </div>
 
                 <div class="col-lg-6 col-md-12">
                     <div class="is-about-image">
-                        <img src="~/assets/img/it-solution/about/about.jpg" alt="image">
+                        <img src="~/assets/img/it-consulting/about-it-consulting.jpg" alt="image">
                         <div class="is-about-shape">
                             <img src="~/assets/img/it-solution/about/vector.png" alt="image">
                         </div>
