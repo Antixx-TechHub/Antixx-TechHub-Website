@@ -1,7 +1,7 @@
 <template>
     <div>
         <NavbarStyleTwo />
-        <PageTitle pageTitle="AWS Cloud Migration" pageDesc="Lorem Ipsum" />
+        <PageTitle pageTitle="AWS Cloud Migration" pageDesc="" />
         <AmazingFeatures />
         <ServicesOne />
         <Services />

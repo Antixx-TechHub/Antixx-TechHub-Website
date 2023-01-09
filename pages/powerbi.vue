@@ -1,7 +1,7 @@
 <template>
     <div>
         <NavbarStyleTwo />
-        <PageTitle pageTitle="Power BI" pageDesc="Lorem Ipsum" />
+        <PageTitle pageTitle="Power BI" pageDesc="" />
         <AmazingFeatures />
         <ServicesOne />
         <Services />

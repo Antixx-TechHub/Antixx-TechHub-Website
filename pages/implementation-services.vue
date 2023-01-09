@@ -44,15 +44,15 @@ export default {
         FooterStyleOne,
     },
     head: {
-        title: '#',
+        title: 'Cloud implementation solutions and consulting company',
         htmlAttrs: {
             lang: 'en'
         },
         meta: [
             { charset: 'utf-8' },
             { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-            { hid: 'description', name: 'description', content: '#' },
-            { hid: 'keywords', name: 'keywords', content: '#' }
+            { hid: 'description', name: 'description', content: 'Antixx TechHub, one of the top Cloud implementation services companies in India, offers Cloud consultancy, Cloud solutions, Cloud computing support services.' },
+            { hid: 'keywords', name: 'keywords', content: 'Cloud Implementation Services Provider company, top Cloud implementation services companies in India, Cloud implementation solutions, Cloud implementation Solution Company, cloud-computing solutions, Cloud Implementation Specialist Agency, Cloud implementation services company, Cloud managed service providers, Cloud management and implementation services, Cloud strategy consulting, Cloud Consultancy, Cloud implementation consulting, Cloud implementation specialists, Cloud Computing Solutions Implementation, Cloud Computing Support Solutions' }
        
         ],
     },

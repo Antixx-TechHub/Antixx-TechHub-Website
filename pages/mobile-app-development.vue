@@ -57,15 +57,15 @@ export default {
         FooterStyleOne,
     },
     head: {
-        title: '#',
+        title: 'Best Mobile App Development Company for Android & iOS Apps',
         htmlAttrs: {
             lang: 'en'
         },
         meta: [
             { charset: 'utf-8' },
             { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-            { hid: 'description', name: 'description', content: '#' },
-            { hid: 'keywords', name: 'keywords', content: '#' }
+            { hid: 'description', name: 'description', content: 'Antixx TechHub offers development, consulting, and support services for native mobile Apps, Web Apps, & Hybrid Apps powered with top app development frameworks.' },
+            { hid: 'keywords', name: 'keywords', content: 'App Development Company, Mobile App Development Agency, Mobile App Development Solutions, mobile app designers, mobile app developers, top mobile app design and development companies, Mobile App Development Services, Mobile App Services Provider, mobile app development packages, mobile app designer agency, Mobile App Design and Development Services, mobile app testers, mobile app development vendor, top agencies for mobile app development' }
        
         ],
     },

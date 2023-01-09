@@ -1,7 +1,7 @@
 <template>
     <div>
         <NavbarStyleTwo />
-        <PageTitle pageTitle="Serverless Computing" pageDesc="Lorem Ipsum" />
+        <PageTitle pageTitle="Serverless Computing" pageDesc="" />
         <AmazingFeatures />
         <ServicesOne />
         <Services />

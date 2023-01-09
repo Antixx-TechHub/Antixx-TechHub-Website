@@ -27,7 +27,7 @@ export default {
         FooterStyleOne,
     },
     head: {
-        title: '#',
+        title: 'Antixx TechHub - Sitemap',
         htmlAttrs: {
             lang: 'en'
         },

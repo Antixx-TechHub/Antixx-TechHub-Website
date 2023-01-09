@@ -45,15 +45,15 @@ export default {
         FooterStyleOne,
     },
     head: {
-        title: '#',
+        title: 'Integration services, solutions, & consulting company',
         htmlAttrs: {
             lang: 'en'
         },
         meta: [
             { charset: 'utf-8' },
             { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-            { hid: 'description', name: 'description', content: '#' },
-            { hid: 'keywords', name: 'keywords', content: '#' }
+            { hid: 'description', name: 'description', content: 'Antixx TechHub, the top IT integration solutions & consultancy services company, offers easy-to-embrace integration services, solutions, and consulting support.' },
+            { hid: 'keywords', name: 'keywords', content: 'Integration Services Provider Company, integration services experts, Integration Services Company, IT integration services agency, system integration services, IT Integration Solutions & Consultancy Services, integration service solutions company, Integration Services Consulting & Solutions Company, Integration & Implementation Services, Integration Consulting Services, top integration solutions companies, integration services consulting agency' }
        
         ],
     },

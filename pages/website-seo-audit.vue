@@ -45,15 +45,15 @@ export default {
         FooterStyleOne,
     },
     head: {
-        title: '#',
+        title: 'SEO audit services by the best SEO site checkup agency',
         htmlAttrs: {
             lang: 'en'
         },
         meta: [
             { charset: 'utf-8' },
             { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-            { hid: 'description', name: 'description', content: '#' },
-            { hid: 'keywords', name: 'keywords', content: '#' }
+            { hid: 'description', name: 'description', content: 'Antixx TechHub, one of the top website SEO audit companies in India, offers SEO site checkup/SEO health checkup/ SEO technical audit services.' },
+            { hid: 'keywords', name: 'keywords', content: 'SEO site checkup, SEO health check up, SEO check up, site SEO checkup, SEO audit services, Website SEO Audit, SEO audit experts, SEO check-up score, web audit score, SEO technical audit, SEO checkup services, top website SEO audit companies in India, SEO health checkup company, SEO health audit, Technical Site SEO Checkup, SEO audit company, SEO audit agency, SEO checkup services agency, website audit services, best SEO audit tools' }
        
         ],
     },

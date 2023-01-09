@@ -52,13 +52,6 @@ export default {
             { hid: 'description', name: 'description', content: 'Antixx TechHub is one of the top ITSM consulting companies and IT services providers with expertise in web, app, business automation solutions, big data, Cloud' },
             { hid: 'keywords', name: 'keywords', content: 'ITSM consulting, IT services provider company, IT solutions, top ITSM service provider agencies, IT support services, automation business solutions, IT service vendor, IT services management, Technology Consulting Company' }
         ],
-        link: [
-            { rel: 'icon', type: 'image/x-icon', href: '/favicon.png' },
-            {
-                rel: 'stylesheet',
-                href: 'https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap'
-            }
-        ]
     },
 };
 </script>

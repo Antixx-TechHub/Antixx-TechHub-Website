@@ -48,15 +48,15 @@ export default {
         FooterStyleOne,
     },
     head: {
-        title: '#',
+        title: 'Big Data Analytics Solutions, Support Services, & Consultancy',
         htmlAttrs: {
             lang: 'en'
         },
         meta: [
             { charset: 'utf-8' },
             { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-            { hid: 'description', name: 'description', content: '#' },
-            { hid: 'keywords', name: 'keywords', content: '#' }
+            { hid: 'description', name: 'description', content: 'Antixx TechHub offers Big Data analytics solutions, support services & consultancy to empower businesses to perform and grow with a competitive excellence.' },
+            { hid: 'keywords', name: 'keywords', content: 'Big Data Analytics Solutions Provider, Big Data analytics solutions, Big Data consulting services, Big Data Analytics service support providers, Big Data Consultant, big data consultancy, Big Data Analytics solutions company, Big Data analytics services, Big data analytics managed services, Big Data Solutions, Big Data Analytics Consultant Agency' }
        
         ],
     },

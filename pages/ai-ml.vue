@@ -39,15 +39,15 @@ export default {
         FooterStyleOne,
     },
     head: {
-        title: '#',
+        title: 'Antixx TechHub |Best AI & ML consulting & service company',
         htmlAttrs: {
             lang: 'en'
         },
         meta: [
             { charset: 'utf-8' },
             { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-            { hid: 'description', name: 'description', content: '#' },
-            { hid: 'keywords', name: 'keywords', content: '#' }
+            { hid: 'description', name: 'description', content: 'Antixx TechHub, #1 AI & ML solutions development company, offers AI & ML consultancy as well as AI & ML service support to boost business performance.' },
+            { hid: 'keywords', name: 'keywords', content: 'AI & ML developers, AI services company, AI & ML specialists, AI and ML service support, AI and ML integration, AI & ML consulting company, AI & ML managed service providers, custom AI solutions, ML solutions development services, AI engineers, AI & ML specialists, Machine Learning Developers, #1 AI & ML consulting agency, AI & ML solutions, AI & ML Consultancy, AI & ML service support, AI consultancy, AI and ML support services, AI & ML service support company, AI & ML Solutions Development Company, Machine Learning Solutions Integration, AI and ML service provider company, configuration' }
        
         ],
     },

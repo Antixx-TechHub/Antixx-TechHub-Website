@@ -42,15 +42,15 @@ export default {
         FooterStyleOne,
     },
     head: {
-        title: '#',
+        title: 'Top software development agency for mobility solutions',
         htmlAttrs: {
             lang: 'en'
         },
         meta: [
             { charset: 'utf-8' },
             { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-            { hid: 'description', name: 'description', content: '#' },
-            { hid: 'keywords', name: 'keywords', content: '#' }
+            { hid: 'description', name: 'description', content: 'Antixx TechHub is one of the top software development companies in India for software application development, app integration solutions, IoT solutions development.' },
+            { hid: 'keywords', name: 'keywords', content: 'software development services, best software developers, Software Application Development Services, IoT Solutions Specialist Company, IoT app developers, full-stack IoT solutions development, Top Software Development Agency, enterprise software development, software development specialist agency, enterprise mobility solutions, app integration solutions, software application developers, top software development companies in India, Software and Solution Development' }
        
         ],
     },

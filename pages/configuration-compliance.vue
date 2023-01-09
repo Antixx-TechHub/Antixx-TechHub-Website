@@ -1,7 +1,7 @@
 <template>
     <div>
         <NavbarStyleTwo />
-        <PageTitle pageTitle="Configuration Compliance" pageDesc="Lorem Ipsum" />
+        <PageTitle pageTitle="Configuration Compliance" pageDesc="" />
         <AmazingFeatures />
         <ServicesOne />
         <Services />

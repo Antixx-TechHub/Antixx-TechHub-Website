@@ -35,15 +35,15 @@ export default {
         FooterStyleOne,
     },
     head: {
-        title: '#',
+        title: 'Antixx TechHub for IT staff augmentation services',
         htmlAttrs: {
             lang: 'en'
         },
         meta: [
             { charset: 'utf-8' },
             { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-            { hid: 'description', name: 'description', content: '#' },
-            { hid: 'keywords', name: 'keywords', content: '#' }
+            { hid: 'description', name: 'description', content: 'Antixx TechHub, the leading staff augmentation agency, offers dependable IT staff augmentation services to provide the best IT skills on contract basis.' },
+            { hid: 'keywords', name: 'keywords', content: 'IT Staff Augmentation Services, IT experts augmentation services, Staff Augmentation Agency, staff augmentation service provider, IT staff augmentation specialists' }
        
         ],
     },

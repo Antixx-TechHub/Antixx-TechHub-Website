@@ -1,7 +1,7 @@
 <template>
     <div>
         <NavbarStyleTwo />
-        <PageTitle pageTitle="SAP HR" pageDesc="Lorem Ipsum" />
+        <PageTitle pageTitle="SAP HR" pageDesc="" />
         <AmazingFeatures />
         <ServicesOne />
         <Services />

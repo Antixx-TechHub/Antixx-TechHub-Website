@@ -48,15 +48,15 @@ export default {
         FooterStyleOne,
     },
     head: {
-        title: '#',
+        title: 'Antixx TechHub – the website design & web development agency',
         htmlAttrs: {
             lang: 'en'
         },
         meta: [
             { charset: 'utf-8' },
             { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-            { hid: 'description', name: 'description', content: '#' },
-            { hid: 'keywords', name: 'keywords', content: '#' }
+            { hid: 'description', name: 'description', content: 'Antixx TechHub offers the quality best website design & web development services customized for the particular business niche, business plans, and other concerns.' },
+            { hid: 'keywords', name: 'keywords', content: 'web development company, IT services company, web designers, website developers, website design services, website designing agency, website development services, web development services, website design and development services, web design & development company, CMS development services , CMS developers, responsive website development, CMS integration services, website design package, top, best, cost-effective, user-friendly, client-centric, performance oriented, agency for web development' }
        
         ],
     },

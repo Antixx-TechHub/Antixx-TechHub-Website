@@ -1,7 +1,7 @@
 <template>
     <div>
         <NavbarStyleTwo />
-        <PageTitle pageTitle="AWS Market Enablement" pageDesc="Lorem Ipsum" />
+        <PageTitle pageTitle="AWS Market Enablement" pageDesc="" />
         <AmazingFeatures />
         <ServicesOne />
         <Services />

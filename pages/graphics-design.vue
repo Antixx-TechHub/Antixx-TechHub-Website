@@ -51,15 +51,15 @@ export default {
         FooterStyleOne,
     },
     head: {
-        title: '#',
+        title: 'Antixx TechHub| graphics designers & graphics developers',
         htmlAttrs: {
             lang: 'en'
         },
         meta: [
             { charset: 'utf-8' },
             { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-            { hid: 'description', name: 'description', content: '#' },
-            { hid: 'keywords', name: 'keywords', content: '#' }
+            { hid: 'description', name: 'description', content: 'Antixx TechHub is the best graphic design company having dependable graphics designing specialists to render least priced quality graphic design services.' },
+            { hid: 'keywords', name: 'keywords', content: 'graphics designers, graphics developers, graphics designing company, graphic design company, graphics design company, graphics designing specialists, graphics designing agency, graphics designing experts, graphic design services, graphics designer agency, graphics services, graphics services, graphics design support services, graphic designing plans, graphic design packages, graphics designing services, hire graphics designers, top graphics design companies' }
        
         ],
     },

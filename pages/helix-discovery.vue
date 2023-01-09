@@ -1,7 +1,7 @@
 <template>
     <div>
         <NavbarStyleTwo />
-        <PageTitle pageTitle="Helix Discovery" pageDesc="Lorem Ipsum" />
+        <PageTitle pageTitle="Helix Discovery" pageDesc="" />
         <AmazingFeatures />
         <ServicesOne />
         <Services />

@@ -36,7 +36,7 @@ export default {
         FooterStyleOne,
     },
     head: {
-        title: '#',
+        title: 'Antixx TechHub - Executive Leadrship',
         htmlAttrs: {
             lang: 'en'
         },

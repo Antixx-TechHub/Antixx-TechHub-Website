@@ -1,7 +1,7 @@
 <template>
     <div>
         <NavbarStyleTwo />
-        <PageTitle pageTitle="QlikView" pageDesc="Lorem Ipsum" />
+        <PageTitle pageTitle="QlikView" pageDesc="" />
         <AmazingFeatures />
         <ServicesOne />
         <Services />

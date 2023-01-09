@@ -1,7 +1,7 @@
 <template>
     <div>
         <NavbarStyleTwo />
-        <PageTitle pageTitle="AWS Consulting" pageDesc="Lorem Ipsum" />
+        <PageTitle pageTitle="AWS Consulting" pageDesc="" />
         <AmazingFeatures />
         <ServicesOne />
         <Services />

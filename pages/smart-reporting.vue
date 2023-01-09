@@ -1,7 +1,7 @@
 <template>
     <div>
         <NavbarStyleTwo />
-        <PageTitle pageTitle="Smart Reporting" pageDesc="Lorem Ipsum" />
+        <PageTitle pageTitle="Smart Reporting" pageDesc="" />
         <AmazingFeatures />
         <ServicesOne />
         <Services />

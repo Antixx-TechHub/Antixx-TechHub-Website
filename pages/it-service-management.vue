@@ -1,7 +1,7 @@
 <template>
     <div>
         <NavbarStyleTwo />
-        <PageTitle pageTitle="IT Service Management" pageDesc="Lorem Ipsum" />
+        <PageTitle pageTitle="IT Service Management" pageDesc="" />
         <AmazingFeatures />
         <ServicesOne />
         <Services />

@@ -1,7 +1,7 @@
 <template>
     <div>
         <NavbarStyleTwo />
-        <PageTitle pageTitle="SAP HANA" pageDesc="Lorem Ipsum" />
+        <PageTitle pageTitle="SAP HANA" pageDesc="" />
         <AmazingFeatures />
         <ServicesOne />
         <Services />

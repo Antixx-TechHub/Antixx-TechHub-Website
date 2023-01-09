@@ -1,7 +1,7 @@
 <template>
     <div>
         <NavbarStyleTwo />
-        <PageTitle pageTitle="Community Cloud" pageDesc="Lorem Ipsum" />
+        <PageTitle pageTitle="Community Cloud" pageDesc="" />
         <AmazingFeatures />
         <ServicesOne />
         <Services />

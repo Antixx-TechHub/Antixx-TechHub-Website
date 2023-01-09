@@ -1,7 +1,7 @@
 <template>
     <div>
         <NavbarStyleTwo />
-        <PageTitle pageTitle="Marketing Cloud" pageDesc="Lorem Ipsum" />
+        <PageTitle pageTitle="Marketing Cloud" pageDesc="" />
         <AmazingFeatures />
         <ServicesOne />
         <Services />

@@ -1,7 +1,7 @@
 <template>
     <div>
         <NavbarStyleTwo />
-        <PageTitle pageTitle="Qlik Sense" pageDesc="Lorem Ipsum" />
+        <PageTitle pageTitle="Qlik Sense" pageDesc="" />
         <AmazingFeatures />
         <ServicesOne />
         <Services />

@@ -39,15 +39,15 @@ export default {
         FooterStyleOne,
     },
     head: {
-        title: '#',
+        title: 'Top Digital Marketing Company For SMO, SMM, Google Adword, PPC',
         htmlAttrs: {
             lang: 'en'
         },
         meta: [
             { charset: 'utf-8' },
             { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-            { hid: 'description', name: 'description', content: '#' },
-            { hid: 'keywords', name: 'keywords', content: '#' }
+            { hid: 'description', name: 'description', content: 'Antixx TechHub, the best digital marketing company with expertise in SMO, SMM, Google Adword, PPC, YouTube promotion, email marketing, etc. offers affordable packages.' },
+            { hid: 'keywords', name: 'keywords', content: 'Digital marketing services, digital marketing agency, digital marketing company, digital marketing support services, digital marketing experts, Online marketing, digital marketing packages, top digital marketing companies digital marketing service support, digital marketing plans, digital marketing specialists, digital marketing services provider' }
        
         ],
     },

@@ -42,15 +42,15 @@ export default {
         FooterStyleOne,
     },
     head: {
-        title: '#',
+        title: 'Antixx TechHub, a branding company, for branding solutions ',
         htmlAttrs: {
             lang: 'en'
         },
         meta: [
             { charset: 'utf-8' },
             { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-            { hid: 'description', name: 'description', content: '#' },
-            { hid: 'keywords', name: 'keywords', content: '#' }
+            { hid: 'description', name: 'description', content: 'Antixx TechHub, one of the top branding companies in India, has the best branding specialists to design the best branding solutions and consulting services.' },
+            { hid: 'keywords', name: 'keywords', content: 'branding specialists, branding strategists, Hire Branding Agency, branding company, Branding Services Provider, Branding Strategist Agency , branding experts, Branding Consulting Agency, branding consulting services, Branding Specialist Agency, branding solutions, Branding Support Services, top branding companies in India' }
        
         ],
     },

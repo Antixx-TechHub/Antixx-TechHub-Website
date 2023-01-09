@@ -48,15 +48,15 @@ export default {
         FooterStyleOne,
     },
     head: {
-        title: '#',
+        title: 'An SEO specialist company offers affordable SEO packages',
         htmlAttrs: {
             lang: 'en'
         },
         meta: [
             { charset: 'utf-8' },
             { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-            { hid: 'description', name: 'description', content: '#' },
-            { hid: 'keywords', name: 'keywords', content: '#' }
+            { hid: 'description', name: 'description', content: 'Antixx TechHub, a leading SEO service company, offers customized SEO packages for ranking and visibility improvement in organic & paid search results.' },
+            { hid: 'keywords', name: 'keywords', content: 'SEO Company, Digital Marketing Services, SEO services, SEO Services Company, search engine optimization services, Hire SEO Agency, SEO Packages, SEO plans, SEO experts, On-page SEO packages, Off-Page SEO Packages, Local SEO Packages, Website SEO Audit Packages, top SEO companies in India SEO services provider, SEO service support, Top SEO Services Company, SEO Solutions, PPC marketing' }
        
         ],
     },

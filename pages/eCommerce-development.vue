@@ -51,15 +51,15 @@ export default {
         FooterStyleOne,
     },
     head: {
-        title: '#',
+        title: 'Antixx TechHub- Best agency for eCommerce design & development',
         htmlAttrs: {
             lang: 'en'
         },
         meta: [
             { charset: 'utf-8' },
             { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-            { hid: 'description', name: 'description', content: '#' },
-            { hid: 'keywords', name: 'keywords', content: '#' }
+            { hid: 'description', name: 'description', content: 'Hire Antixx TechHub for eCommerce design, development & support services with a difference that keep your business competitive and performing with profitability.' },
+            { hid: 'keywords', name: 'keywords', content: 'eCommerce designers, eCommerce website designers, eCommerce developers, eCommerce development services, eCommerce development company, eCommerce development companies, eCommerce website development agency, eCommerce solutions, eCommerce support services, eCommerce design and development agency, eCommerce web designers, Ecommerce Development Packages, eCommerce management services, eCommerce Services Agency, top eCommerce development platforms' }
        
         ],
     },

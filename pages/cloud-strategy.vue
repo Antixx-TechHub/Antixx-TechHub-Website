@@ -39,15 +39,15 @@ export default {
         FooterStyleOne,
     },
     head: {
-        title: '#',
+        title: 'Cloud strategy solutions, consulting & services provider',
         htmlAttrs: {
             lang: 'en'
         },
         meta: [
             { charset: 'utf-8' },
             { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-            { hid: 'description', name: 'description', content: '#' },
-            { hid: 'keywords', name: 'keywords', content: '#' }
+            { hid: 'description', name: 'description', content: 'Antixx TechHub, a Cloud strategy specialist company, offers Cloud strategy consultancy service support and Cloud strategy solutions' },
+            { hid: 'keywords', name: 'keywords', content: 'Cloud strategy specialists, Cloud Strategy Partner, Cloud strategy service support, Cloud strategic solutions, Cloud Strategy Agency, Cloud strategy consulting services, #1 Cloud strategy company, Google Strategy Services Provider, Cloud strategy consultancy services, Cloud strategy consulting agency, Cloud strategy consultancy company, Cloud strategy specialists, Cloud strategy developers, best Cloud strategic solutions companies, Cloud Strategy Implementation, Cloud consulting and services provider' }
        
         ],
     },

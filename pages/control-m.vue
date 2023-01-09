@@ -1,7 +1,7 @@
 <template>
     <div>
         <NavbarStyleTwo />
-        <PageTitle pageTitle="Control-M" pageDesc="Lorem Ipsum" />
+        <PageTitle pageTitle="Control-M" pageDesc="" />
         <AmazingFeatures />
         <ServicesOne />
         <Services />
