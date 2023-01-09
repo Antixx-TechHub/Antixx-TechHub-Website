@@ -4,7 +4,7 @@ export default {
         script: [
             // Google Analytics Code
             {
-              src: "https://www.googletagmanager.com/gtag/js?id=G-DW6E6B3Q7B",
+              src: "https://www.googletagmanager.com/gtag/js?id=UA-253339814-1",
               async: true,
             },
             // Import analitics.js file
