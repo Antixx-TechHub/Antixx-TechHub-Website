@@ -20,7 +20,7 @@
 
                         <ul class="services-list">
                             <li><NuxtLink to="/about-us">About Us</NuxtLink></li>
-                            <li><NuxtLink to="/executive-leadership">Our Team</NuxtLink></li>
+                            <!-- <li><NuxtLink to="/executive-leadership">Our Team</NuxtLink></li> -->
                             <li><NuxtLink to="/blogs">Blogs</NuxtLink></li>
                             <li><NuxtLink to="/careers">Careers</NuxtLink></li>
                             <li><NuxtLink to="/contact-us">Contact Us</NuxtLink></li>
@@ -36,7 +36,7 @@
                             <li><NuxtLink to="/privacy-policy">Privacy Policy</NuxtLink></li>
                             <li><NuxtLink to="/terms-of-use">Terms of Use</NuxtLink></li>
                             <li><NuxtLink to="/cookies">Cookies</NuxtLink></li>
-                            <li><NuxtLink to="/sitemap">SiteMap</NuxtLink></li>
+                            <!-- <li><NuxtLink to="/sitemap">SiteMap</NuxtLink></li> -->
                             <li><NuxtLink to="/faq">FAQ's</NuxtLink></li>
                         </ul>
                     </div>

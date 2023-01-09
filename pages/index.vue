@@ -11,7 +11,7 @@
             <OurExpertise />
             <RelyToCompete />
             <HomeForm />
-            <Videos />
+            <!-- <Videos /> -->
             <OurClients />
         </div>
         <WhatsOurClients />
@@ -31,7 +31,7 @@ import Funfacts from '../components/Index/Funfacts';
 import OurExpertise from '../components/Index/OurExpertise';
 import RelyToCompete from '../components/Index/RelyToCompete';
 import HomeForm from '../components/Index/HomeForm';
-import Videos from '../components/Index/Videos';
+// import Videos from '../components/Index/Videos';
 import OurClients from '../components/Common/OurClients'
 import WhatsOurClients from '../components/Common/WhatsOurClients';
 import OurLatestBlog from '../components/Common/OurLatestBlog';
@@ -49,7 +49,7 @@ export default {
         OurExpertise,
         RelyToCompete,
         HomeForm,
-        Videos,
+        // Videos,
         OurClients,
         WhatsOurClients,
         OurLatestBlog,

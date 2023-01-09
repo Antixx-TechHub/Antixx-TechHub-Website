@@ -21,11 +21,11 @@
                                 </a>
                                 <ul class="dropdown-menu">
                                     <li class="nav-item">
-                                        <NuxtLink to="/" class="nav-link">
+                                        <NuxtLink to="/coming-soon" class="nav-link">
                                             <img src="~/assets/img/icon/bmc.svg" alt="image">
                                             <h5 class="h5 menu-title">BMC</h5>
                                         </NuxtLink>
-                                        <NuxtLink to="/" class="nav-link">
+                                        <!-- <NuxtLink to="/" class="nav-link">
                                             <p>Helix ITSM</p>
                                         </NuxtLink>
                                         <NuxtLink to="/" class="nav-link">
@@ -51,15 +51,15 @@
                                         </NuxtLink>
                                         <NuxtLink to="/" class="nav-link">
                                             <p>Helix Digital Workplace</p>
-                                        </NuxtLink>
+                                        </NuxtLink> -->
                                     </li>
 
                                     <li class="nav-item">
-                                        <NuxtLink to="/" class="nav-link">
+                                        <NuxtLink to="/coming-soon" class="nav-link">
                                             <img src="~/assets/img/icon/salesforce.svg" alt="image">
                                             <h5 class="h5 menu-title">Salesforce</h5>
                                         </NuxtLink>
-                                        <NuxtLink to="/" class="nav-link">
+                                        <!-- <NuxtLink to="/" class="nav-link">
                                             <p>Sales Cloud</p>
                                         </NuxtLink>
                                         <NuxtLink to="/" class="nav-link">
@@ -76,15 +76,15 @@
                                         </NuxtLink>
                                         <NuxtLink to="/" class="nav-link">
                                             <p>Integration Cloud</p>
-                                        </NuxtLink>
+                                        </NuxtLink> -->
                                     </li>
 
                                     <li class="nav-item">
-                                        <NuxtLink to="/" class="nav-link">
+                                        <NuxtLink to="/coming-soon" class="nav-link">
                                             <img src="~/assets/img/icon/servicenow.svg" alt="image">
                                             <h5 class="h5 menu-title">ServiceNow</h5>
                                         </NuxtLink>
-                                        <NuxtLink to="/" class="nav-link">
+                                        <!-- <NuxtLink to="/" class="nav-link">
                                             <p>IT Workflows</p>
                                         </NuxtLink>
                                         <NuxtLink to="/" class="nav-link">
@@ -101,15 +101,15 @@
                                         </NuxtLink>
                                         <NuxtLink to="/" class="nav-link">
                                             <p>Configuration Compliance</p>
-                                        </NuxtLink>
+                                        </NuxtLink> -->
                                     </li>
 
                                     <li class="nav-item">
-                                        <NuxtLink to="/" class="nav-link">
+                                        <NuxtLink to="/coming-soon" class="nav-link">
                                             <img src="~/assets/img/icon/sap.svg" alt="image">
                                             <h5 class="h5 menu-title">SAP</h5>
                                         </NuxtLink>
-                                        <NuxtLink to="/" class="nav-link">
+                                        <!-- <NuxtLink to="/" class="nav-link">
                                             <p>SAP HANA</p>
                                         </NuxtLink>
                                         <NuxtLink to="/" class="nav-link">
@@ -126,15 +126,15 @@
                                         </NuxtLink>
                                         <NuxtLink to="/" class="nav-link">
                                             <p>SAP Business Objects</p>
-                                        </NuxtLink>
+                                        </NuxtLink> -->
                                     </li>
 
                                     <li class="nav-item">
-                                        <NuxtLink to="/" class="nav-link">
+                                        <NuxtLink to="/coming-soon" class="nav-link">
                                             <img src="~/assets/img/icon/aws.svg" alt="image">
                                             <h5 class="h5 menu-title">AWS</h5>
                                         </NuxtLink>
-                                        <NuxtLink to="/" class="nav-link">
+                                        <!-- <NuxtLink to="/" class="nav-link">
                                             <p>AWS Consulting</p>
                                         </NuxtLink>
                                         <NuxtLink to="/" class="nav-link">
@@ -151,15 +151,15 @@
                                         </NuxtLink>
                                         <NuxtLink to="/" class="nav-link">
                                             <p>Managed Cloud Services</p>
-                                        </NuxtLink>
+                                        </NuxtLink> -->
                                     </li>
 
                                     <li class="nav-item">
-                                        <NuxtLink to="/" class="nav-link">
+                                        <NuxtLink to="/coming-soon" class="nav-link">
                                             <img src="~/assets/img/icon/analytics.svg" alt="image">
                                             <h5 class="h5 menu-title">Analytics</h5>
                                         </NuxtLink>
-                                        <NuxtLink to="/" class="nav-link">
+                                        <!-- <NuxtLink to="/" class="nav-link">
                                             <p>Power BI</p>
                                         </NuxtLink>
                                         <NuxtLink to="/" class="nav-link">
@@ -173,7 +173,7 @@
                                         </NuxtLink>
                                         <NuxtLink to="/" class="nav-link">
                                             <p>SAP Analytics</p>
-                                        </NuxtLink>
+                                        </NuxtLink> -->
                                     </li>
 
                                 </ul>
@@ -185,7 +185,7 @@
                                 </a>
                                 <ul class="dropdown-menu">
                                     <li class="nav-item-services">
-                                        <NuxtLink to="/" class="nav-link">
+                                        <NuxtLink to="" class="nav-link">
                                             <img src="~/assets/img/icon/development.png" alt="image">
                                             <h5 class="h5 menu-title">Design & Development</h5>
                                         </NuxtLink>
@@ -210,7 +210,7 @@
                                     </li>
 
                                     <li class="nav-item-services">
-                                        <NuxtLink to="/" class="nav-link">
+                                        <NuxtLink to="" class="nav-link">
                                             <img src="~/assets/img/icon/marketing.png" alt="image">
                                             <h5 class="h5 menu-title">Online marketing</h5>
                                         </NuxtLink>
@@ -226,7 +226,7 @@
                                     </li>
 
                                     <li class="nav-item-services">
-                                        <NuxtLink to="/" class="nav-link">
+                                        <NuxtLink to="" class="nav-link">
                                             <img src="~/assets/img/icon/technologies.png" alt="image">
                                             <h5 class="h5 menu-title">Technologies</h5>
                                         </NuxtLink>
@@ -245,7 +245,7 @@
                                     </li>
 
                                     <li class="nav-item-services">
-                                        <NuxtLink to="/" class="nav-link">
+                                        <NuxtLink to="" class="nav-link">
                                             <img src="~/assets/img/icon/staff-augmentation.png" alt="image">
                                             <h5 class="h5 menu-title">Custom Solutions</h5>
                                         </NuxtLink>
@@ -279,7 +279,7 @@
                                             Blogs
                                         </NuxtLink>
                                     </li>
-                                    <li class="nav-item">
+                                    <!-- <li class="nav-item">
                                         <NuxtLink to="/insights" class="nav-link">
                                             Insights
                                         </NuxtLink>
@@ -288,8 +288,7 @@
                                         <NuxtLink to="/case-studies" class="nav-link">
                                             Case Studies
                                         </NuxtLink>
-                                    </li>
-
+                                    </li> -->
                                 </ul>
                             </li>
 
@@ -301,19 +300,18 @@
                                     <li class="nav-item">
                                         <NuxtLink to="/about-us" class="nav-link">About Us</NuxtLink>
                                     </li>
-                                    <li class="nav-item">
+                                    <!-- <li class="nav-item">
                                         <NuxtLink to="/why-antixx-techhub-global" class="nav-link">Why Antixx TechHub
                                             Global
                                         </NuxtLink>
-                                    </li>
-                                    <li class="nav-item">
+                                    </li> -->
+                                    <!-- <li class="nav-item">
                                         <NuxtLink to="/executive-leadership" class="nav-link">Executive Leadership
                                         </NuxtLink>
-                                    </li>
-                                    <li class="nav-item">
+                                    </li> -->
+                                    <!-- <li class="nav-item">
                                         <NuxtLink to="/careers" class="nav-link">Careers</NuxtLink>
-                                    </li>
-
+                                    </li> -->
                                 </ul>
                             </li>
                         </ul>

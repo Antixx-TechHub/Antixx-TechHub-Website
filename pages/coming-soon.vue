@@ -1,6 +1,7 @@
 <template>
     <div>
         <NavbarStyleTwo />
+        <PageTitle pageTitle="Coming Soon" pageDesc="" />
         <ComingSoon />
         <BestSupport />
         <FreeTrial />
@@ -10,6 +11,7 @@
 
 <script>
 import NavbarStyleTwo from '../layouts/NavbarStyleTwo';
+import PageTitle from '../components/Common/PageTitle';
 import ComingSoon from '../components/coming-soon/ComingSoon';
 import BestSupport from '../components/Common/BestSupport';
 import FreeTrial from '../components/Common/FreeTrial';
@@ -18,6 +20,7 @@ import FooterStyleOne from '../layouts/FooterStyleOne';
 export default {
     components: {
         NavbarStyleTwo,
+        PageTitle,
         ComingSoon,
         BestSupport,
         FreeTrial,
