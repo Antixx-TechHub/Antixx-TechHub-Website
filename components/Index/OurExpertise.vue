@@ -17,7 +17,7 @@
                                     <NuxtLink to="/">BMC</NuxtLink>
                                 </h3>
                                 <div class="is-services-image">
-                                    <NuxtLink to="/bmc">
+                                    <NuxtLink to="/">
                                         <img src="~/assets/img/home-page/bmc.svg" alt="image">
                                     </NuxtLink>
                                 </div>
