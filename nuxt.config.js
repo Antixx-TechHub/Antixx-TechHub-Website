@@ -1,15 +1,15 @@
 export default {
     // Global page headers: https://go.nuxtjs.dev/config-head
     head: {
-        script: [
-            // Google Analytics Code
-            {
-              src: "https://www.googletagmanager.com/gtag/js?id=UA-253339814-1",
-              async: true,
-            },
-            // Import analitics.js file
-            { src: "/static/analitics.js" },
-          ],
+        // script: [
+        //     // Google Analytics Code
+        //     {
+        //       src: "https://www.googletagmanager.com/gtag/js?id=UA-253339814-1",
+        //       async: true,
+        //     },
+        //     // Import analitics.js file
+        //     { src: "/static/analitics.js" },
+        //   ],
 
         title: 'Antixx TechHub - App | Website | SEO | ITSM | Cloud Solutions | IT Service Provider Company',
         htmlAttrs: {
@@ -59,11 +59,7 @@ export default {
 
     // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
     buildModules: [
-        '@nuxtjs/google-analytics'
     ],
-    googleAnalytics: {
-        id: 'G-DW6E6B3Q7B'
-      },
 
     // Modules: https://go.nuxtjs.dev/config-modules
     modules: [
