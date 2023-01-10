@@ -14,8 +14,8 @@
                                 <h3>
                                     <NuxtLink to="/">Web Design & Development </NuxtLink>
                                 </h3>
-                                <p>Hire website developers to develop stunning website development with optimized
-                                    features and functionalities that make your website SEO friendly..</p>
+                                <pbw>Hire website developers to develop stunning website development with optimized
+                                    features and functionalities that make your website SEO friendly..</pbw>
                             </div>
                         </div>
                     </slide>
@@ -28,8 +28,8 @@
                                 <h3>
                                     <NuxtLink to="/">App Development</NuxtLink>
                                 </h3>
-                                <p>Hire Android and iOS app developers for app designing, submission, upgrade, and
-                                    manage with advanced security and scalability..</p>
+                                <pbw>Hire Android and iOS app developers for app designing, submission, upgrade, and
+                                    manage with advanced security and scalability..</pbw>
                             </div>
                         </div>
                     </slide>
@@ -41,8 +41,8 @@
                                 <h3>
                                     <NuxtLink to="/">SEO Services</NuxtLink>
                                 </h3>
-                                <p>Hire SEO experts to improve website ranking (visibility) in organic and paid search
-                                    results at least price with on-page, off-page and local SEO practices.</p>
+                                <pbw>Hire SEO experts to improve website ranking (visibility) in organic and paid search
+                                    results at least price with on-page, off-page and local SEO practices.</pbw>
                             </div>
                         </div>
                     </slide>
@@ -55,8 +55,8 @@
                                 <h3>
                                     <NuxtLink to="/">Digital Marketing</NuxtLink>
                                 </h3>
-                                <p>Hire digital marketers to sell more with profitability and consistently through
-                                    professionally planned SMO, SMM, Google Adwords, PPC, CMS..</p>
+                                <pbw>Hire digital marketers to sell more with profitability and consistently through
+                                    professionally planned SMO, SMM, Google Adwords, PPC, CMS..</pbw>
                             </div>
                         </div>
                     </slide>
@@ -68,8 +68,8 @@
                                 <h3>
                                     <NuxtLink to="/">UX / UI Design</NuxtLink>
                                 </h3>
-                                <p>Hire UX / UI designers with years of experience in creating unique, convincing, and
-                                    compelling experiences to users using different devices..</p>
+                                <pbw>Hire UX / UI designers with years of experience in creating unique, convincing, and
+                                    compelling experiences to users using different devices..</pbw>
                             </div>
                         </div>
                     </slide>
@@ -82,8 +82,8 @@
                                 <h3>
                                     <NuxtLink to="/">Branding and Marketing </NuxtLink>
                                 </h3>
-                                <p>Hire digital marketing experts to strengthening build and brand repute, generate more
-                                    leads, improve conversion rate..</p>
+                                <pbw>Hire digital marketing experts to strengthening build and brand repute, generate more
+                                    leads, improve conversion rate..</pbw>
                             </div>
                         </div>
                     </slide>
@@ -96,8 +96,8 @@
                                 <h3>
                                     <NuxtLink to="/">Blockchain Development</NuxtLink>
                                 </h3>
-                                <p>Hire Blockchain developers for Blockchain network consulting, planning,
-                                    infrastructure auditing, deployment, & management...</p>
+                                <pbw>Hire Blockchain developers for Blockchain network consulting, planning,
+                                    infrastructure auditing, deployment, & management...</pbw>
                             </div>
                         </div>
                     </slide>

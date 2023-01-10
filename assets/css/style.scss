@@ -194,6 +194,22 @@ p {
     }
 }
 
+pbw {
+    color: $paragraph-color;
+    margin-bottom: 12px;
+    line-height: 1.8;
+
+    font: {
+        size: $font-size;
+    }
+
+    ;
+
+    &:last-child {
+        margin-bottom: 0;
+    }
+}
+
 .border-radius-0 {
     border-radius: 0 !important;
 }
