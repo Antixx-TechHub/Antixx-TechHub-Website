@@ -6,11 +6,14 @@
                 <div class="col-lg-4 col-md-6 col-sm-6">
                     <div class="single-footer-widget">
                         <div class="logo">
-                            <NuxtLink to="/"><img src="~/assets/img/icon/footer-logo.svg" alt="image" width="190" height="50"></NuxtLink>
+                            <NuxtLink to="/"><img src="~/assets/img/icon/footer-logo.svg" alt="image" width="190"
+                                    height="50"></NuxtLink>
                         </div>
                         <div>
-                        <p class="text-left">Antixx TechHub offers a range of tailor-made enterprise solutions to help businesses improve visibility, branding, efficiencies, productivity, quality, profitability, and customer relationship.</p>
-                    </div>
+                            <ath>Antixx TechHub offers a range of tailor-made enterprise solutions to help businesses
+                                improve visibility, branding, efficiencies, productivity, quality, profitability, and
+                                customer relationship.</ath>
+                        </div>
                     </div>
                 </div>
 
@@ -19,11 +22,19 @@
                         <h3>Company</h3>
 
                         <ul class="services-list">
-                            <li><NuxtLink to="/about-us">About Us</NuxtLink></li>
+                            <li>
+                                <NuxtLink to="/about-us">About Us</NuxtLink>
+                            </li>
                             <!-- <li><NuxtLink to="/executive-leadership">Our Team</NuxtLink></li> -->
-                            <li><NuxtLink to="/blogs">Blogs</NuxtLink></li>
-                            <li><NuxtLink to="/careers">Careers</NuxtLink></li>
-                            <li><NuxtLink to="/contact-us">Contact Us</NuxtLink></li>
+                            <li>
+                                <NuxtLink to="/blogs">Blogs</NuxtLink>
+                            </li>
+                            <li>
+                                <NuxtLink to="/careers">Careers</NuxtLink>
+                            </li>
+                            <li>
+                                <NuxtLink to="/contact-us">Contact Us</NuxtLink>
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -33,11 +44,19 @@
                         <h3>Support</h3>
 
                         <ul class="support-list">
-                            <li><NuxtLink to="/privacy-policy">Privacy Policy</NuxtLink></li>
-                            <li><NuxtLink to="/terms-of-use">Terms of Use</NuxtLink></li>
-                            <li><NuxtLink to="/cookies">Cookies</NuxtLink></li>
+                            <li>
+                                <NuxtLink to="/privacy-policy">Privacy Policy</NuxtLink>
+                            </li>
+                            <li>
+                                <NuxtLink to="/terms-of-use">Terms of Use</NuxtLink>
+                            </li>
+                            <li>
+                                <NuxtLink to="/cookies">Cookies</NuxtLink>
+                            </li>
                             <!-- <li><NuxtLink to="/sitemap">SiteMap</NuxtLink></li> -->
-                            <li><NuxtLink to="/faq">FAQ's</NuxtLink></li>
+                            <li>
+                                <NuxtLink to="/faq">FAQ's</NuxtLink>
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -52,17 +71,21 @@
                             <li>Phone: <a href="tel:+91 86688 75750">+91 77 96 55 44 07</a></li>
                         </ul>
                         <ul class="social">
-                                <li><a href="https://www.facebook.com/antixxtechhub/" target="_blank"><i class="bx bxl-facebook"></i></a></li>
-                                <li><a href="https://www.linkedin.com/company/antixx-techhub/" target="_blank"><i class="bx bxl-linkedin"></i></a></li>
-                                <li><a href="https://twitter.com/antixxtechhub" target="_blank"><i class="bx bxl-twitter"></i></a></li>
-                                <li><a href="https://www.instagram.com/antixxtechhub/" target="_blank"><i class="bx bxl-instagram"></i></a></li>
+                            <li><a href="https://www.facebook.com/antixxtechhub/" target="_blank"><i
+                                        class="bx bxl-facebook"></i></a></li>
+                            <li><a href="https://www.linkedin.com/company/antixx-techhub/" target="_blank"><i
+                                        class="bx bxl-linkedin"></i></a></li>
+                            <li><a href="https://twitter.com/antixxtechhub" target="_blank"><i
+                                        class="bx bxl-twitter"></i></a></li>
+                            <li><a href="https://www.instagram.com/antixxtechhub/" target="_blank"><i
+                                        class="bx bxl-instagram"></i></a></li>
                         </ul>
                     </div>
                 </div>
             </div>
 
             <div class="copyright-area">
-                <p>@ Copyright 2023 Antixx TechHub Pvt. Ltd. – All Rights Reserved.</p>
+                <ath>@ Copyright 2023 Antixx TechHub Pvt. Ltd. – All Rights Reserved.</ath>
             </div>
         </div>
     </footer>

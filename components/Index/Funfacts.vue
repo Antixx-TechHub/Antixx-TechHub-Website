@@ -6,7 +6,7 @@
                     <div class="col-lg-3 col-6 col-sm-6 col-md-3">
                         <div class="sm-single-funfacts">
                             <i class="bx bx-list-check"></i>
-                            <h3>800+</h3>
+                            <h3>500+</h3>
                             <p>Projects Delivered</p>
                         </div>
                     </div>
@@ -14,15 +14,15 @@
                     <div class="col-lg-3 col-6 col-sm-6 col-md-3">
                         <div class="sm-single-funfacts">
                             <i class="bx bx-smile"></i>
-                            <h3>999+</h3>
-                            <p>Satisfied Clients</p>
+                            <h3>50M+</h3>
+                            <p>Lines of Codes</p>
                         </div>
                     </div>
 
                     <div class="col-lg-3 col-6 col-sm-6 col-md-3">
                         <div class="sm-single-funfacts">
                             <i class="bx bx-grid-small"></i>
-                            <h3>120+</h3>
+                            <h3>10+</h3>
                             <p>Projects in Progress</p>
                         </div>
                     </div>

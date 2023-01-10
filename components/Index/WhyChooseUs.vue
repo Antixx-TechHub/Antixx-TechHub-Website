@@ -1,5 +1,5 @@
 <template>
-    <div class="me-choose-area ptb-100">
+    <div class="me-choose-area pb-800">
         <div class="container">
             <div class="row justify-content-center align-items-center">
                 <div class="col-lg-6 col-md-12">
@@ -21,24 +21,24 @@
                                 <div class="choose-inner-card bg-two">
                                     <i class='bx bx-check'></i>
                                     <h4>Transparency</h4>
-                                    <p>We do ‘What’ we say</p>
+                                    <pbw>We do ‘What’ we say</pbw>
                                 </div>
                                 <div class="choose-inner-card bg-three">
                                     <i class='bx bx-check'></i>
                                     <h4>Affordable</h4>
-                                    <p>We offer competitive prices</p>
+                                    <pbw>We offer competitive prices</pbw>
                                 </div>
                                 <div class="choose-inner-card">
                                     <i class='bx bx-check'></i>
                                     <h4>Expertise & Experience</h4>
-                                    <p>We deliver with technical excellence</p>
+                                    <pbw>We deliver with technical excellence</pbw>
                                 </div>
                             </div>
                             <div class="col-lg-6 col-sm-6">
                                 <div class="choose-inner-card bg-four">
                                     <i class='bx bx-check'></i>
                                     <h4>Flexible</h4>
-                                    <p>We respect your feedbacks</p>
+                                    <pbw>We respect your feedbacks</pbw>
                                 </div>
                                 <div class="choose-inner-card bg-five">
                                     <i class='bx bx-check'></i>
@@ -48,7 +48,7 @@
                                 <div class="choose-inner-card bg-six">
                                     <i class='bx bx-check'></i>
                                     <h4>Support</h4>
-                                    <p>Multilingual support including in Marathi</p>
+                                    <pbw>Multilingual support including in Marathi</pbw>
                                 </div>
                             </div>
                         </div>

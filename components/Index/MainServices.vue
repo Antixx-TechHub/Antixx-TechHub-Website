@@ -1,5 +1,5 @@
 <template>
-    <div class="sm-features-area pb-70">
+    <div class="sm-features-area pb-700">
         <div class="container">
             <div class="blog-slides">
                 <carousel :autoplay="true" :autoplayTimeout='5000' :loop="true" :paginationEnabled="true"

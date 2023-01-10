@@ -4,8 +4,8 @@
             <div class="row align-items-center">
                 <div class="col-lg-6 col-md-12">
                     <div class="is-about-content">
-                        <span></span>
-                        <h3>Organizational Culture Makes Us #1 Technology Consulting Company</h3>
+                        <span>Organizational Culture Makes Us</span>
+                        <h3>#1 Technology Consulting Company</h3>
                         <p>Everyone at Antixx TechHub is committed to follow organizational culture of ‘Client is the
                             first’. We believe with transparency and commitment in our capacity to justify your trust.
                             Our organizational culture guides us to ensure the best ROI for each project we manage. The

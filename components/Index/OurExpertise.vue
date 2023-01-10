@@ -23,7 +23,7 @@
                                 </div>
                                 <p>Integration of BMC products- BMC TrueSight management; BMC Smart Reporting; BMC Helix
                                     Discovery; BMC Helix ITSM; BMC Control-M Helix...</p>
-                                <NuxtLink to="/" class="default-btn">Know More<span></span></NuxtLink>
+                                <!-- <NuxtLink to="/" class="default-btn">Know More<span></span></NuxtLink> -->
                             </div>
                         </slide>
 
@@ -39,7 +39,7 @@
                                 </div>
                                 <p>Customized integration of Sales Cloud; Service Cloud; Marketing Cloud; Integration
                                     Cloud; Commerce Cloud; Community Cloud...</p>
-                                <NuxtLink to="/" class="default-btn">Know More<span></span></NuxtLink>
+                                <!-- <NuxtLink to="/" class="default-btn">Know More<span></span></NuxtLink> -->
                             </div>
                         </slide>
 
@@ -55,7 +55,7 @@
                                 </div>
                                 <p>Expertise in configuration & integration of ServiceNow ITSM; workflows; Employee
                                     Service Management; Knowledge Management; Compliance...</p>
-                                <NuxtLink to="/" class="default-btn">Know More<span></span></NuxtLink>
+                                <!-- <NuxtLink to="/" class="default-btn">Know More<span></span></NuxtLink> -->
                             </div>
                         </slide>
 
@@ -71,7 +71,7 @@
                                 </div>
                                 <p>Consultancy & integration for HANA; SAP ERP; CRM; SAP Business Objects; SAP Product
                                     Lifecycle; SAP HCM; SAP Commerce Cloud...</p>
-                                <NuxtLink to="/" class="default-btn">Know More<span></span></NuxtLink>
+                                <!-- <NuxtLink to="/" class="default-btn">Know More<span></span></NuxtLink> -->
                             </div>
                         </slide>
 
@@ -86,9 +86,9 @@
                                     </NuxtLink>
                                 </div>
                                 <p>We offer the best-class services and consulting for AWS Migration; AWS Cloud
-                                    Security; AWS Serverless Computing; AWS Market Enablement, Cloud managed services...
+                                    Security; AWS Serverless Computing; AWS Market Enablement, Cloud...
                                 </p>
-                                <NuxtLink to="/" class="default-btn">Know More<span></span></NuxtLink>
+                                <!-- <NuxtLink to="/" class="default-btn">Know More<span></span></NuxtLink> -->
                             </div>
                         </slide>
 
@@ -104,7 +104,7 @@
                                 </div>
                                 <p>As a Big Data analytics solutions provider and Big Data consultant, we provide Big
                                     Data analytics managed services & Big Data consulting...</p>
-                                <NuxtLink to="/" class="default-btn">Know More <span></span></NuxtLink>
+                                <!-- <NuxtLink to="/" class="default-btn">Know More <span></span></NuxtLink> -->
                             </div>
                         </slide>
                     </carousel>
@@ -119,14 +119,14 @@ import axios from 'axios'
 
 export default {
     name: 'OurExpertise',
-    data (){
+    data() {
         return {
             banner: null,
         }
     },
-    created: async function (){
+    created: async function () {
         const response = await axios.get('https://cms.antixxtechhub.in/api/bannerhomefive?populate=*')
-        const { data: {attributes} } = response.data
+        const { data: { attributes } } = response.data
         this.banner = attributes
     },
 }
