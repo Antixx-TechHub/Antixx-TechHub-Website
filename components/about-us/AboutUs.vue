@@ -4,7 +4,7 @@
             <div class="row justify-content-center align-items-center">
                 <div class="col-lg-6 col-md-12">
                     <div class="is-expertise-content">
-                        <span class="sub-title"></span>
+                        <span class="sub-title">Antixx TechHub</span>
                         <h3>About Us</h3>
                         <p>Welcome to Antixx TechHub, a prominent ITSM consulting and IT services Provider Company with
                             proven capabilities to develop advanced IT solutions to address a range of requirements and
@@ -20,13 +20,13 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-12 col-sm-6">
                                 <div class="expertise-funfacts">
-                                    <h4>Mission</h4>
+                                    <h5>Mission</h5>
                                     <p>To provide affordable IT solutions and IT services management support to help businesses perform in the global competitive marketing with sustainable growth rate while ensuring 100% satisfaction to every client.</p>
                                 </div>
                             </div>
                             <div class="col-lg-12 col-sm-6">
                                 <div class="expertise-funfacts bg-DEEEFA">
-                                    <h4>Vision</h4>
+                                    <h5>Vision</h5>
                                     <p>Single IT service vendor for multiple business solutions and IT support is beneficial for businesses for cost saving and management ease.</p>
                                 </div>
                             </div>

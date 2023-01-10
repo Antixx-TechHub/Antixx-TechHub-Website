@@ -86,7 +86,7 @@
                     </div>
 
                     <div class="single-info-box">
-                        <a class="default-btn" href="https://antixxtechhub.com/">www.antixxtechhub.com</a>
+                        <a class="default-btn">www.antixxtechhub.com</a>
                     </div>
                 </div>
             </div>

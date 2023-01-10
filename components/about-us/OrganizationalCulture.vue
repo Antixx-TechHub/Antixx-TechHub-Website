@@ -13,9 +13,6 @@
                             evolving technologies; so that, we could keep your business presence a step ahead to
                             competitors. The continuous technology update, customer-centric approach, and commitment to
                             prove our expertise makes us #1 technology consulting company.</p>
-                        <div class="about-btn">
-                            <NuxtLink to="/about" class="default-btn">Learn More About Us <span></span></NuxtLink>
-                        </div>
                     </div>
                 </div>
 

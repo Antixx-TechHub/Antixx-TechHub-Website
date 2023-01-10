@@ -10,7 +10,7 @@
             </form>
         </div>
 
-        <div class="widget widget_striki_posts_thumb">
+        <!-- <div class="widget widget_striki_posts_thumb">
             <h3 class="widget-title">Popular Posts</h3>
 
             <div class="item">
@@ -81,7 +81,7 @@
                 <li><a href="#">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
                 <li><a href="#">WordPress.org</a></li>
             </ul>
-        </div>
+        </div> -->
 
         <div class="widget widget_tag_cloud">
             <h3 class="widget-title">Tags</h3>

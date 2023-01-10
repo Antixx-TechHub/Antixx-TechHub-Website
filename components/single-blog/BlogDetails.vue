@@ -39,7 +39,7 @@
                             </div>
                         </div>
 
-                        <div class="strax-post-navigation">
+                        <!-- <div class="strax-post-navigation">
                             <div class="prev-link-wrapper">
                                 <div class="info-prev-link-wrapper">
                                     <a href="#">
@@ -75,12 +75,12 @@
                                     </a>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
 
                         <div class="comments-area">
                             <h3 class="comments-title">2 Comments:</h3>
 
-                            <ol class="comment-list">
+                            <!-- <ol class="comment-list">
                                 <li class="comment">
                                     <div class="comment-body">
                                         <footer class="comment-meta">
@@ -216,7 +216,7 @@
                                         </li>
                                     </ol>
                                 </li>
-                            </ol>
+                            </ol> -->
 
                             <div class="comment-respond">
                                 <h3 class="comment-reply-title">Leave a Reply</h3>

@@ -49,7 +49,7 @@
                         <ul class="footer-contact-info">
                             <li>Location: <a href="#" target="_blank">B 608, Yashwin Anand, Pune, India</a></li>
                             <li>Email: <a href="info@antixxtechhub.com">info@antixxtechhub.com</a></li>
-                            <li>Phone: <a href="tel:+91 86688 75750">+91 86688 75750</a></li>
+                            <li>Phone: <a href="tel:+91 86688 75750">+91 77 96 55 44 07</a></li>
                         </ul>
                         <ul class="social">
                                 <li><a href="https://www.facebook.com/antixxtechhub/" target="_blank"><i class="bx bxl-facebook"></i></a></li>
@@ -62,7 +62,7 @@
             </div>
 
             <div class="copyright-area">
-                <p>&copy; <a href="https://www.antixxtechhub.com" target="_blank">Copyright 2023 Antixx TechHub Pvt. Ltd.</a> – All Rights Reserved.</p>
+                <p>@ Copyright 2023 Antixx TechHub Pvt. Ltd. – All Rights Reserved.</p>
             </div>
         </div>
     </footer>

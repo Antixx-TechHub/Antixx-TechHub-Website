@@ -69,10 +69,10 @@
                         </h2>
 
                         <ul class="social">
-                                <li><a href="#" target="_blank"><i class="bx bxl-facebook"></i></a></li>
-                                <li><a href="#" target="_blank"><i class="bx bxl-linkedin"></i></a></li>
-                                <li><a href="#" target="_blank"><i class="bx bxl-twitter"></i></a></li>
-                                <li><a href="#" target="_blank"><i class="bx bxl-instagram"></i></a></li>
+                                <li><a href="https://www.facebook.com/antixxtechhub/" target="_blank"><i class="bx bxl-facebook"></i></a></li>
+                                <li><a href="https://www.linkedin.com/company/antixx-techhub/" target="_blank"><i class="bx bxl-linkedin"></i></a></li>
+                                <li><a href="https://twitter.com/antixxtechhub" target="_blank"><i class="bx bxl-twitter"></i></a></li>
+                                <li><a href="https://www.instagram.com/antixxtechhub/" target="_blank"><i class="bx bxl-instagram"></i></a></li>
                             </ul>
                     </div>
                 </div>
