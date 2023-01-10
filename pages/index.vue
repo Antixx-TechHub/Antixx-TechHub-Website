@@ -11,7 +11,7 @@
             <OurExpertise />
             <RelyToCompete />
             <HomeForm />
-            <!-- <Videos /> -->
+            <Videos />
             <OurClients />
         </div>
         <WhatsOurClients />
